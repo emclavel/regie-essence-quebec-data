@@ -1,24 +1,30 @@
 import os
 import requests
 import csv
+import gzip
+import json
+from io import BytesIO
 from datetime import datetime
 
-URL = "https://regieessencequebec.ca/api/stations.geojson"
+URL = "https://regieessencequebec.ca/stations.geojson.gz"
 CSV_PATH = "data/regie_essence_quebec.csv"
 
 os.makedirs("data", exist_ok=True)
 
 headers = {
     "User-Agent": "Mozilla/5.0 (compatible; DatawrapperBot/1.0; +https://datawrapper.de)",
-    "Accept": "application/json"
+    "Accept": "application/gzip"
 }
 
 response = requests.get(URL, headers=headers, timeout=30)
 response.raise_for_status()
-data = response.json()
 
-with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
+# Décompression GZIP
+with gzip.open(BytesIO(response.content), "rt", encoding="utf-8") as f:
+    data = json.load(f)
+
+with open(CSV_PATH, "w", newline="", encoding="utf-8") as csvfile:
+    writer = csv.writer(csvfile)
 
     writer.writerow([
         "nom_station",
@@ -36,7 +42,7 @@ with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
     ])
 
     for feature in data["features"]:
-        p = feature["properties"]
+        p = feature.get("properties", {})
         coords = feature["geometry"]["coordinates"]
         prices = p.get("prices", {})
 
@@ -54,3 +60,4 @@ with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
             p.get("updated_at"),
             datetime.utcnow().isoformat()
         ])
+``

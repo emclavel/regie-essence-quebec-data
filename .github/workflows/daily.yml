@@ -1,8 +1,11 @@
 name: Mise à jour quotidienne des prix de l’essence
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 5 * * *"   # Tous les jours à 05:00 UTC
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -34,3 +37,7 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
+          else
+            git commit -m "Daily update of fuel prices"
+            git push
+          fi

@@ -1,70 +1,49 @@
 import os
 import requests
-import csv
-from datetime import datetime
+import pandas as pd
+from io import BytesIO
 
-URL = "https://regieessencequebec.ca/stations.geojson.gz"
+# URL DE TÉLÉCHARGEMENT OFFICIEL DE L’EXCEL
+URL = "https://regieessencequebec.ca/data/stations.xlsx"
 OUTPUT_PATH = "data/regie_essence_quebec.csv"
 
 os.makedirs("data", exist_ok=True)
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (compatible; data-ingestion/1.0)",
-    "Accept": "application/json"
-}
-
-response = requests.get(URL, headers=headers, timeout=30)
+# Télécharger l’Excel
+response = requests.get(URL, timeout=60)
 response.raise_for_status()
 
-# requests gère la décompression automatiquement
-data = response.json()
+# Lire l’Excel en mémoire
+df = pd.read_excel(BytesIO(response.content))
 
-def get_price(fuels, fuel_code):
-    """
-    Extrait un prix numérique à partir de la structure fuel.
-    Retourne None si absent ou non disponible.
-    """
-    for fuel in fuels:
-        if fuel.get("code") == fuel_code:
-            value = fuel.get("price")
-            try:
-                return float(value)
-            except (TypeError, ValueError):
-                return None
-    return None
+# Renommer les colonnes pour un CSV propre et stable
+df = df.rename(columns={
+    "Nom": "Nom",
+    "Bannière": "Bannière",
+    "Adresse": "Adresse",
+    "Région": "Région",
+    "Code Postal": "Code_postal",
+    "Latitude": "Latitude",
+    "Longitude": "Longitude",
+    "Prix Régulier": "Prix_regulier",
+    "Prix Super": "Prix_super",
+    "Prix Diesel": "Prix_diesel",
+})
 
-with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
-    writer = csv.writer(csvfile)
+# Nettoyer les prix → numérique pur
+def clean_price(value):
+    if isinstance(value, str):
+        value = value.replace("¢", "").strip()
+        if value.upper() == "N/D":
+            return None
+    try:
+        return float(value)
+    except Exception:
+        return None
 
-    # ✅ EN-TÊTES IDENTIQUES À L’EXCEL (noms normalisés CSV)
-    writer.writerow([
-        "Nom",
-        "Bannière",
-        "Adresse",
-        "Région",
-        "Code_postal",
-        "Latitude",
-        "Longitude",
-        "Prix_regulier",
-        "Prix_super",
-        "Prix_diesel"
-    ])
+for col in ["Prix_regulier", "Prix_super", "Prix_diesel"]:
+    df[col] = df[col].apply(clean_price)
 
-    for feature in data.get("features", []):
-        props = feature.get("properties", {})
-        coords = feature["geometry"]["coordinates"]
-
-        fuels = props.get("fuels", [])
-
-        writer.writerow([
-            props.get("name"),
-            props.get("brand"),
-            props.get("address"),
-            props.get("region"),
-            props.get("postalCode"),
-            coords[1],  # latitude
-            coords[0],  # longitude
-            get_price(fuels, "REGULAR"),
-            get_price(fuels, "SUPER"),
-            get_price(fuels, "DIESEL"),
-        ])
+# Sauvegarder en CSV
+df.to_csv(OUTPUT_PATH, index=False, encoding="utf-8")
+``

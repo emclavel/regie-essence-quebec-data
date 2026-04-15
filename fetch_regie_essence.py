@@ -3,20 +3,16 @@ import requests
 import pandas as pd
 from io import BytesIO
 
-# URL DE TÉLÉCHARGEMENT OFFICIEL DE L’EXCEL
 URL = "https://regieessencequebec.ca/data/stations.xlsx"
 OUTPUT_PATH = "data/regie_essence_quebec.csv"
 
 os.makedirs("data", exist_ok=True)
 
-# Télécharger l’Excel
 response = requests.get(URL, timeout=60)
 response.raise_for_status()
 
-# Lire l’Excel en mémoire
 df = pd.read_excel(BytesIO(response.content))
 
-# Renommer les colonnes pour un CSV propre et stable
 df = df.rename(columns={
     "Nom": "Nom",
     "Bannière": "Bannière",
@@ -27,10 +23,9 @@ df = df.rename(columns={
     "Longitude": "Longitude",
     "Prix Régulier": "Prix_regulier",
     "Prix Super": "Prix_super",
-    "Prix Diesel": "Prix_diesel",
+    "Prix Diesel": "Prix_diesel"
 })
 
-# Nettoyer les prix → numérique pur
 def clean_price(value):
     if isinstance(value, str):
         value = value.replace("¢", "").strip()
@@ -44,6 +39,4 @@ def clean_price(value):
 for col in ["Prix_regulier", "Prix_super", "Prix_diesel"]:
     df[col] = df[col].apply(clean_price)
 
-# Sauvegarder en CSV
 df.to_csv(OUTPUT_PATH, index=False, encoding="utf-8")
-``

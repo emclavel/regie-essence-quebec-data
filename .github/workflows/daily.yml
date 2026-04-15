@@ -1,11 +1,12 @@
-name: Mise à jour quotidienne des prix de l’essence
+name: Mises à jour programmées des prix de l’essence (heure Québec)
 
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: "0 5 * * *"
+    # 05 h, 06 h, 07 h, 12 h, 16 h HEURE DU QUÉBEC (UTC‑4)
+    - cron: "0 9,10,11,16,20 * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,8 +24,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python3 -m pip install requests pandas openpyxl
-          
+          python3 -m pip install requests
+
       - name: Run fetch script
         run: python3 fetch_regie_essence.py
 
@@ -34,11 +35,12 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/regie_essence_quebec.csv
+          # ✅ IMPORTANT : ajouter TOUS les CSV (y compris les nouveaux)
+          git add data/*.csv
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Daily update of fuel prices"
+            git commit -m "Scheduled update of fuel prices (QC time)"
             git push
           fi

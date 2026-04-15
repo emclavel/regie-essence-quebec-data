@@ -82,7 +82,8 @@ for feature in features:
         "Prix_regulier": prix_regulier,
         "Prix_super": prix_super,
         "Prix_diesel": prix_diesel,
-        "rang_region": None,  # sera calculé
+        "rang_region": None,   # calculé plus loin
+        "highlight_carte": None,  # ✅ NOUVELLE COLONNE
         "date_import": datetime.utcnow().isoformat()
     }
 
@@ -94,7 +95,6 @@ final_rows = []
 for region, rows in rows_by_region.items():
     rows_sorted = sorted(rows, key=lambda r: r["Prix_regulier"])
 
-    # Calcul du rang avec gestion des ex æquo
     current_rank = 0
     last_price = None
 
@@ -104,6 +104,9 @@ for region, rows in rows_by_region.items():
             last_price = row["Prix_regulier"]
 
         row["rang_region"] = current_rank
+
+        # ✅ LOGIQUE IF demandée
+        row["highlight_carte"] = "oui" if current_rank == 1 else "non"
 
     # Sélection top 5 + égalités
     if len(rows_sorted) <= 5:
@@ -136,6 +139,7 @@ with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
         "Prix_super",
         "Prix_diesel",
         "rang_region",
+        "highlight_carte",
         "date_import"
     ])
 
@@ -152,5 +156,6 @@ with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
             r["Prix_super"],
             r["Prix_diesel"],
             r["rang_region"],
+            r["highlight_carte"],
             r["date_import"]
         ])

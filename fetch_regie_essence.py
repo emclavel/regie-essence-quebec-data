@@ -106,7 +106,7 @@ for region, rows in rows_by_region.items():
         row["rang_region"] = current_rank
 
         # ✅ LOGIQUE IF demandée
-        row["highlight_carte"] = "oui" if current_rank == 1 else "non"
+        row["highlight_carte"] = "oui" if current_rank == 1 else ""
 
     # Sélection top 5 + égalités
     if len(rows_sorted) <= 5:

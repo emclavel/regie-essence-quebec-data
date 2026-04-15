@@ -68,7 +68,6 @@ for feature in features:
 
     prix_regulier, prix_super, prix_diesel = extract_prices(prices_list)
 
-    # Exclure stations sans prix régulier
     if prix_regulier is None:
         continue
 
@@ -83,17 +82,30 @@ for feature in features:
         "Prix_regulier": prix_regulier,
         "Prix_super": prix_super,
         "Prix_diesel": prix_diesel,
+        "rang_region": None,  # sera calculé
         "date_import": datetime.utcnow().isoformat()
     }
 
     rows_by_region[row["Region"]].append(row)
 
-# 2️⃣ Sélection : top 5 + toutes les égalités
+# 2️⃣ Calcul du rang régional + sélection top 5 + égalités
 final_rows = []
 
 for region, rows in rows_by_region.items():
     rows_sorted = sorted(rows, key=lambda r: r["Prix_regulier"])
 
+    # Calcul du rang avec gestion des ex æquo
+    current_rank = 0
+    last_price = None
+
+    for idx, row in enumerate(rows_sorted):
+        if row["Prix_regulier"] != last_price:
+            current_rank = idx + 1
+            last_price = row["Prix_regulier"]
+
+        row["rang_region"] = current_rank
+
+    # Sélection top 5 + égalités
     if len(rows_sorted) <= 5:
         final_rows.extend(rows_sorted)
         continue
@@ -123,6 +135,7 @@ with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
         "Prix_regulier",
         "Prix_super",
         "Prix_diesel",
+        "rang_region",
         "date_import"
     ])
 
@@ -138,5 +151,6 @@ with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
             r["Prix_regulier"],
             r["Prix_super"],
             r["Prix_diesel"],
+            r["rang_region"],
             r["date_import"]
         ])

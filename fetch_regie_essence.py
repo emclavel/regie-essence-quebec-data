@@ -1,8 +1,8 @@
 import os
 import requests
 import csv
-import gzip
 import json
+import gzip
 from io import BytesIO
 from datetime import datetime
 
@@ -13,15 +13,25 @@ os.makedirs("data", exist_ok=True)
 
 headers = {
     "User-Agent": "Mozilla/5.0 (compatible; data-ingestion/1.0)",
-    "Accept": "application/gzip"
+    "Accept": "*/*"
 }
 
 response = requests.get(URL, headers=headers, timeout=60)
 response.raise_for_status()
 
-# ✅ Décompression explicite du GZIP
-with gzip.open(BytesIO(response.content), "rt", encoding="utf-8") as f:
-    data = json.load(f)
+raw = response.content
+
+# ✅ Détection automatique du format
+try:
+    if raw.lstrip().startswith(b"{"):
+        # JSON non compressé
+        data = json.loads(raw.decode("utf-8"))
+    else:
+        # JSON compressé gzip
+        with gzip.open(BytesIO(raw), "rt", encoding="utf-8") as f:
+            data = json.load(f)
+except Exception as e:
+    raise RuntimeError(f"Impossible de parser le GeoJSON: {e}")
 
 features = data.get("features", [])
 
@@ -55,8 +65,8 @@ with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
             props.get("address"),
             props.get("region"),
             props.get("postal_code"),
-            coords[1],  # latitude
-            coords[0],  # longitude
+            coords[1] if len(coords) > 1 else None,
+            coords[0] if len(coords) > 0 else None,
             prices.get("regular"),
             prices.get("super"),
             prices.get("diesel"),

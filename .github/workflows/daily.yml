@@ -25,10 +25,8 @@ jobs:
         run: python3 fetch_regie_essence.py
 
       - name: Commit CSV
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add data/regie_essence_quebec.csv
-          git diff --cached --quiet || git commit -m "Daily update"
-          git push
-``
+        run: git config user.name "github-actions" &&
+             git config user.email "github-actions@github.com" &&
+             git add data/regie_essence_quebec.csv &&
+             git diff --cached --quiet || git commit -m "Daily update" &&
+             git push

@@ -19,7 +19,6 @@ headers = {
 response = requests.get(URL, headers=headers, timeout=30)
 response.raise_for_status()
 
-# Décompression GZIP
 with gzip.open(BytesIO(response.content), "rt", encoding="utf-8") as f:
     data = json.load(f)
 
@@ -42,22 +41,21 @@ with open(CSV_PATH, "w", newline="", encoding="utf-8") as csvfile:
     ])
 
     for feature in data["features"]:
-        p = feature.get("properties", {})
+        props = feature.get("properties", {})
         coords = feature["geometry"]["coordinates"]
-        prices = p.get("prices", {})
+        prices = props.get("prices", {})
 
         writer.writerow([
-            p.get("name"),
-            p.get("brand"),
-            p.get("address"),
-            p.get("city"),
-            p.get("region"),
+            props.get("name"),
+            props.get("brand"),
+            props.get("address"),
+            props.get("city"),
+            props.get("region"),
             prices.get("regular"),
             prices.get("super"),
             prices.get("diesel"),
             coords[0],
             coords[1],
-            p.get("updated_at"),
+            props.get("updated_at"),
             datetime.utcnow().isoformat()
         ])
-``

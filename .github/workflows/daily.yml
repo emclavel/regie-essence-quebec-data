@@ -2,7 +2,7 @@ name: Mise à jour quotidienne des prix de l’essence
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # chaque jour à 5h UTC
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,10 +19,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: python3 -m pip install requests
 
       - name: Run script
-        run: python fetch_regie_essence.py
+        run: python3 fetch_regie_essence.py
 
       - name: Commit CSV
         run: |
@@ -31,3 +31,4 @@ jobs:
           git add data/regie_essence_quebec.csv
           git diff --cached --quiet || git commit -m "Daily update"
           git push
+``

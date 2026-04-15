@@ -5,6 +5,7 @@ import json
 import gzip
 from io import BytesIO
 from datetime import datetime
+from collections import defaultdict
 
 URL = "https://regieessencequebec.ca/stations.geojson.gz"
 OUTPUT_PATH = "data/regie_essence_quebec.csv"
@@ -20,7 +21,7 @@ response = requests.get(URL, headers=headers, timeout=60)
 response.raise_for_status()
 raw = response.content
 
-# Gérer JSON gzip OU non gzip
+# GeoJSON gzip ou non gzip
 if raw.lstrip().startswith(b"{"):
     data = json.loads(raw.decode("utf-8"))
 else:
@@ -28,8 +29,7 @@ else:
         data = json.load(f)
 
 features = data.get("features", [])
-
-print(f"Nombre de stations détectées : {len(features)}")
+print(f"Stations totales détectées : {len(features)}")
 
 def extract_prices(prices_list):
     prix_regulier = None
@@ -58,6 +58,57 @@ def extract_prices(prices_list):
 
     return prix_regulier, prix_super, prix_diesel
 
+# 1️⃣ Collecte par région
+rows_by_region = defaultdict(list)
+
+for feature in features:
+    props = feature.get("properties", {})
+    coords = feature.get("geometry", {}).get("coordinates", [None, None])
+    prices_list = props.get("Prices", [])
+
+    prix_regulier, prix_super, prix_diesel = extract_prices(prices_list)
+
+    # On exclut les stations sans prix régulier
+    if prix_regulier is None:
+        continue
+
+    row = {
+        "Nom": props.get("Name"),
+        "Banniere": props.get("brand"),
+        "Adresse": props.get("Address"),
+        "Region": props.get("Region"),
+        "Code_postal": props.get("PostalCode"),
+        "Latitude": coords[1],
+        "Longitude": coords[0],
+        "Prix_regulier": prix_regulier,
+        "Prix_super": prix_super,
+        "Prix_diesel": prix_diesel,
+        "date_import": datetime.utcnow().isoformat()
+    }
+
+    rows_by_region[row["Region"]].append(row)
+
+# 2️⃣ Sélection : top 10 + toutes les égalités
+final_rows = []
+
+for region, rows in rows_by_region.items():
+    rows_sorted = sorted(rows, key=lambda r: r["Prix_regulier"])
+
+    if len(rows_sorted) <= 10:
+        final_rows.extend(rows_sorted)
+        continue
+
+    cutoff_price = rows_sorted[9]["Prix_regulier"]
+
+    top_with_equals = [
+        r for r in rows_sorted if r["Prix_regulier"] <= cutoff_price
+    ]
+
+    final_rows.extend(top_with_equals)
+
+print(f"Lignes finales retenues : {len(final_rows)}")
+
+# 3️⃣ Écriture CSV
 with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
 
@@ -75,23 +126,17 @@ with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
         "date_import"
     ])
 
-    for feature in features:
-        props = feature.get("properties", {})
-        coords = feature.get("geometry", {}).get("coordinates", [None, None])
-        prices_list = props.get("Prices", [])
-
-        prix_regulier, prix_super, prix_diesel = extract_prices(prices_list)
-
+    for r in final_rows:
         writer.writerow([
-            props.get("Name"),
-            props.get("brand"),
-            props.get("Address"),
-            props.get("Region"),
-            props.get("PostalCode"),
-            coords[1],  # latitude
-            coords[0],  # longitude
-            prix_regulier,
-            prix_super,
-            prix_diesel,
-            datetime.utcnow().isoformat()
+            r["Nom"],
+            r["Banniere"],
+            r["Adresse"],
+            r["Region"],
+            r["Code_postal"],
+            r["Latitude"],
+            r["Longitude"],
+            r["Prix_regulier"],
+            r["Prix_super"],
+            r["Prix_diesel"],
+            r["date_import"]
         ])

@@ -8,7 +8,10 @@ from datetime import datetime
 from collections import defaultdict
 
 URL = "https://regieessencequebec.ca/stations.geojson.gz"
-OUTPUT_PATH = "data/regie_essence_quebec.csv"
+
+OUTPUT_MAIN = "data/regie_essence_quebec.csv"
+OUTPUT_GRAND_MONTREAL = "data/regie_essence_grand_montreal.csv"
+OUTPUT_REGION_QUEBEC = "data/regie_essence_region_quebec.csv"
 
 os.makedirs("data", exist_ok=True)
 
@@ -30,6 +33,10 @@ else:
 
 features = data.get("features", [])
 print(f"Stations totales détectées : {len(features)}")
+
+# ------------------------------------------------------------------
+# Utilitaires
+# ------------------------------------------------------------------
 
 def extract_prices(prices_list):
     prix_regulier = None
@@ -58,8 +65,52 @@ def extract_prices(prices_list):
 
     return prix_regulier, prix_super, prix_diesel
 
+
+def write_csv(path, rows):
+    with open(path, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile)
+
+        writer.writerow([
+            "Nom",
+            "Banniere",
+            "Adresse",
+            "Region",
+            "Code_postal",
+            "Latitude",
+            "Longitude",
+            "Prix_regulier",
+            "Prix_super",
+            "Prix_diesel",
+            "rang_region",
+            "highlight_carte",
+            "date_import"
+        ])
+
+        for r in rows:
+            writer.writerow([
+                r["Nom"],
+                r["Banniere"],
+                r["Adresse"],
+                r["Region"],
+                r["Code_postal"],
+                r["Latitude"],
+                r["Longitude"],
+                r["Prix_regulier"],
+                r["Prix_super"],
+                r["Prix_diesel"],
+                r["rang_region"],
+                r["highlight_carte"],
+                r["date_import"]
+            ])
+
+# ------------------------------------------------------------------
 # 1️⃣ Collecte par région
+# ------------------------------------------------------------------
+
 rows_by_region = defaultdict(list)
+
+# ✅ date formatée SANS secondes
+date_import = datetime.utcnow().strftime("%Y-%m-%d %H:%M")
 
 for feature in features:
     props = feature.get("properties", {})
@@ -82,14 +133,17 @@ for feature in features:
         "Prix_regulier": prix_regulier,
         "Prix_super": prix_super,
         "Prix_diesel": prix_diesel,
-        "rang_region": None,   # calculé plus loin
-        "highlight_carte": None,  # ✅ NOUVELLE COLONNE
-        "date_import": datetime.utcnow().isoformat()
+        "rang_region": None,
+        "highlight_carte": "",
+        "date_import": date_import
     }
 
     rows_by_region[row["Region"]].append(row)
 
-# 2️⃣ Calcul du rang régional + sélection top 5 + égalités
+# ------------------------------------------------------------------
+# 2️⃣ Calcul du rang régional + top 5 + égalités
+# ------------------------------------------------------------------
+
 final_rows = []
 
 for region, rows in rows_by_region.items():
@@ -104,58 +158,56 @@ for region, rows in rows_by_region.items():
             last_price = row["Prix_regulier"]
 
         row["rang_region"] = current_rank
-
-        # ✅ LOGIQUE IF demandée
         row["highlight_carte"] = "oui" if current_rank == 1 else ""
 
-    # Sélection top 5 + égalités
     if len(rows_sorted) <= 5:
         final_rows.extend(rows_sorted)
         continue
 
     cutoff_price = rows_sorted[4]["Prix_regulier"]
 
-    top_with_equals = [
-        r for r in rows_sorted if r["Prix_regulier"] <= cutoff_price
-    ]
-
-    final_rows.extend(top_with_equals)
-
-print(f"Lignes finales retenues : {len(final_rows)}")
-
-# 3️⃣ Écriture du CSV
-with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
-    writer = csv.writer(csvfile)
-
-    writer.writerow([
-        "Nom",
-        "Banniere",
-        "Adresse",
-        "Region",
-        "Code_postal",
-        "Latitude",
-        "Longitude",
-        "Prix_regulier",
-        "Prix_super",
-        "Prix_diesel",
-        "rang_region",
-        "highlight_carte",
-        "date_import"
+    final_rows.extend([
+        r for r in rows_sorted
+        if r["Prix_regulier"] <= cutoff_price
     ])
 
-    for r in final_rows:
-        writer.writerow([
-            r["Nom"],
-            r["Banniere"],
-            r["Adresse"],
-            r["Region"],
-            r["Code_postal"],
-            r["Latitude"],
-            r["Longitude"],
-            r["Prix_regulier"],
-            r["Prix_super"],
-            r["Prix_diesel"],
-            r["rang_region"],
-            r["highlight_carte"],
-            r["date_import"]
-        ])
+print(f"Lignes finales (QC) : {len(final_rows)}")
+
+# ------------------------------------------------------------------
+# 3️⃣ Écriture du CSV principal
+# ------------------------------------------------------------------
+
+write_csv(OUTPUT_MAIN, final_rows)
+
+# ------------------------------------------------------------------
+# 4️⃣ CSV supplémentaires par regroupement régional
+# ------------------------------------------------------------------
+
+REGIONS_GRAND_MONTREAL = [
+    "Montréal",
+    "Laval",
+    "Montérégie",
+    "Laurentides",
+    "Lanaudière"
+]
+
+REGIONS_REGION_QUEBEC = [
+    "Capitale-Nationale",
+    "Chaudière-Appalaches"
+]
+
+rows_grand_montreal = [
+    r for r in final_rows
+    if r["Region"] in REGIONS_GRAND_MONTREAL
+]
+
+rows_region_quebec = [
+    r for r in final_rows
+    if r["Region"] in REGIONS_REGION_QUEBEC
+]
+
+write_csv(OUTPUT_GRAND_MONTREAL, rows_grand_montreal)
+write_csv(OUTPUT_REGION_QUEBEC, rows_region_quebec)
+
+print(f"CSV Grand Montréal : {len(rows_grand_montreal)} lignes")
+print(f"CSV Région de Québec : {len(rows_region_quebec)} lignes")

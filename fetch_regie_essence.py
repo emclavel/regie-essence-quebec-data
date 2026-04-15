@@ -5,6 +5,7 @@ import json
 import gzip
 from io import BytesIO
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from collections import defaultdict
 
 URL = "https://regieessencequebec.ca/stations.geojson.gz"
@@ -109,8 +110,11 @@ def write_csv(path, rows):
 
 rows_by_region = defaultdict(list)
 
-# ✅ date formatée SANS secondes
-date_import = datetime.utcnow().strftime("%Y-%m-%d %H:%M")
+# ✅ HEURE LOCALE DU QUÉBEC (corrige le bug Datawrapper)
+date_import = (
+    datetime.now(ZoneInfo("America/Montreal"))
+    .strftime("%Y-%m-%d %H:%M")
+)
 
 for feature in features:
     props = feature.get("properties", {})

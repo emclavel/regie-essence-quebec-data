@@ -8,7 +8,12 @@ CSV_PATH = "data/regie_essence_quebec.csv"
 
 os.makedirs("data", exist_ok=True)
 
-response = requests.get(URL)
+headers = {
+    "User-Agent": "Mozilla/5.0 (compatible; DatawrapperBot/1.0; +https://datawrapper.de)",
+    "Accept": "application/json"
+}
+
+response = requests.get(URL, headers=headers, timeout=30)
 response.raise_for_status()
 data = response.json()
 

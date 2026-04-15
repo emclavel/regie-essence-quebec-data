@@ -4,9 +4,9 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    # 05 h, 06 h, 07 h, 12 h, 16 h HEURE DU QUÉBEC (UTC‑4)
-    - cron: "0 9,10,11,16,20 * * *"
+  schedule: 
+# ⏱ Toutes les heures (cron GitHub = UTC)
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:

@@ -21,7 +21,7 @@ response = requests.get(URL, headers=headers, timeout=60)
 response.raise_for_status()
 raw = response.content
 
-# GeoJSON gzip ou non gzip
+# Détection gzip / non gzip
 if raw.lstrip().startswith(b"{"):
     data = json.loads(raw.decode("utf-8"))
 else:
@@ -68,7 +68,7 @@ for feature in features:
 
     prix_regulier, prix_super, prix_diesel = extract_prices(prices_list)
 
-    # On exclut les stations sans prix régulier
+    # Exclure stations sans prix régulier
     if prix_regulier is None:
         continue
 
@@ -88,17 +88,17 @@ for feature in features:
 
     rows_by_region[row["Region"]].append(row)
 
-# 2️⃣ Sélection : top 10 + toutes les égalités
+# 2️⃣ Sélection : top 5 + toutes les égalités
 final_rows = []
 
 for region, rows in rows_by_region.items():
     rows_sorted = sorted(rows, key=lambda r: r["Prix_regulier"])
 
-    if len(rows_sorted) <= 10:
+    if len(rows_sorted) <= 5:
         final_rows.extend(rows_sorted)
         continue
 
-    cutoff_price = rows_sorted[9]["Prix_regulier"]
+    cutoff_price = rows_sorted[4]["Prix_regulier"]
 
     top_with_equals = [
         r for r in rows_sorted if r["Prix_regulier"] <= cutoff_price
@@ -108,7 +108,7 @@ for region, rows in rows_by_region.items():
 
 print(f"Lignes finales retenues : {len(final_rows)}")
 
-# 3️⃣ Écriture CSV
+# 3️⃣ Écriture du CSV
 with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
 

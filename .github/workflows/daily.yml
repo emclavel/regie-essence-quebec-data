@@ -22,8 +22,9 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: python3 -m pip install requests
-
+        run: |
+          python3 -m pip install requests pandas openpyxl
+          
       - name: Run fetch script
         run: python3 fetch_regie_essence.py
 

@@ -1,13 +1,18 @@
-Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,date_import
-Nutrinor Épicerie Riviere-Éternité,Nutrinor Énergies,"408 rue principale, Rivière-Éternité",Saguenay-Lac-Saint-Jean,G0V 1P0,48.256074,-70.415014,173.4,196.4,,1,oui,2026-04-16 12:11
-Couche-Tard #1311,Esso,"2625 boul. de la Grande-Baie sud, Saguenay",Saguenay-Lac-Saint-Jean,G7B 4H4,48.317822,-70.861146,173.9,198.9,,2,,2026-04-16 12:11
-9030-3512 QUEBEC INC,Ultramar,"266 rue Malraux, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 6R9,48.39744,-71.081011,177.5,204.9,254.9,3,,2026-04-16 12:11
-BCP IV Service Station LP,Mobil,"1101 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B5,48.40924,-71.052572,177.5,203.9,248.8,3,,2026-04-16 12:11
-Couche-Tard #1002,Esso,"1455 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4C1,48.403131,-71.059187,177.5,202.9,,3,,2026-04-16 12:11
-Couche-Tard #1205,Esso,"1931 boul. saint-paul, Saguenay",Saguenay-Lac-Saint-Jean,G7K 0B8,48.395019,-71.106094,177.5,202.9,247.9,3,,2026-04-16 12:11
-Couche-Tard #1338,Couche-Tard,"585 rue Bégin, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4V2,48.421176,-71.059061,177.5,202.9,249.5,3,,2026-04-16 12:11
-Dépanneur Sprint Chicoutimi,Petro-Canada,"1201 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B5,48.408298,-71.054487,177.5,202.5,254.5,3,,2026-04-16 12:11
-Dépanneur Sprint Laterrière,Petro-Canada,"2382 rte 170, Saguenay",Saguenay-Lac-Saint-Jean,G7N 1A4,48.356563,-71.055264,177.5,202.5,254.5,3,,2026-04-16 12:11
-FLAMAND HOLDING INC,Ultramar,"1985 Boul. Talbot, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 7Y5,48.39309,-71.070497,177.5,204.9,254.9,3,,2026-04-16 12:11
-Flamand Holding Inc,Ultramar,"1333 Boul. du Royaume est, SAGUENAY",Saguenay-Lac-Saint-Jean,G7N 1N6,48.387452,-71.114645,177.5,204.9,247.9,3,,2026-04-16 12:11
-Gestion Pierre-Luc Voyer inc.,Shell,"1916 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 7Y2,48.394683,-71.070736,177.5,205.5,249.9,3,,2026-04-16 12:11
+Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
+Nutrinor Épicerie Riviere-Éternité,Nutrinor Énergies,"408 rue principale, Rivière-Éternité",Saguenay-Lac-Saint-Jean,G0V 1P0,48.256074,-70.415014,173.4,196.4,,1,oui,false,2026-04-16 13:00
+Couche-Tard #1311,Esso,"2625 boul. de la Grande-Baie sud, Saguenay",Saguenay-Lac-Saint-Jean,G7B 4H4,48.317822,-70.861146,173.9,198.9,,2,,false,2026-04-16 13:00
+9030-3512 QUEBEC INC,Ultramar,"266 rue Malraux, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 6R9,48.39744,-71.081011,177.5,204.9,254.9,3,,false,2026-04-16 13:00
+BCP IV Service Station LP,Mobil,"1101 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B5,48.40924,-71.052572,177.5,203.9,248.8,3,,false,2026-04-16 13:00
+Couche-Tard #1002,Esso,"1455 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4C1,48.403131,-71.059187,177.5,202.9,,3,,false,2026-04-16 13:00
+Couche-Tard #1205,Esso,"1931 boul. saint-paul, Saguenay",Saguenay-Lac-Saint-Jean,G7K 0B8,48.395019,-71.106094,177.5,202.9,247.9,3,,false,2026-04-16 13:00
+Couche-Tard #1338,Couche-Tard,"585 rue Bégin, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4V2,48.421176,-71.059061,177.5,202.9,249.5,3,,false,2026-04-16 13:00
+Dépanneur Sprint Chicoutimi,Petro-Canada,"1201 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B5,48.408298,-71.054487,177.5,202.5,254.5,3,,false,2026-04-16 13:00
+Dépanneur Sprint Laterrière,Petro-Canada,"2382 rte 170, Saguenay",Saguenay-Lac-Saint-Jean,G7N 1A4,48.356563,-71.055264,177.5,202.5,254.5,3,,false,2026-04-16 13:00
+FLAMAND HOLDING INC,Ultramar,"1985 Boul. Talbot, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 7Y5,48.39309,-71.070497,177.5,204.9,254.9,3,,false,2026-04-16 13:00
+Flamand Holding Inc,Ultramar,"1333 Boul. du Royaume est, SAGUENAY",Saguenay-Lac-Saint-Jean,G7N 1N6,48.387452,-71.114645,177.5,204.9,247.9,3,,false,2026-04-16 13:00
+Gestion Pierre-Luc Voyer inc.,Shell,"1916 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 7Y2,48.394683,-71.070736,177.5,205.5,249.9,3,,false,2026-04-16 13:00
+La Société Canadian Tire Ltée,Canadian Tire,"1050 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B6,48.411103,-71.052843,177.5,199.5,249.5,3,,false,2026-04-16 13:00
+ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,true,2026-04-16 13:00
+ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,true,2026-04-16 13:00
+ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,true,2026-04-16 13:00
+ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,true,2026-04-16 13:00

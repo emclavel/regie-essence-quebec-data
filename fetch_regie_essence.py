@@ -14,7 +14,7 @@ OUTPUT_MAIN = "data/regie_essence_quebec.csv"
 OUTPUT_GRAND_MONTREAL = "data/regie_essence_grand_montreal.csv"
 OUTPUT_REGION_QUEBEC = "data/regie_essence_region_quebec.csv"
 
-# ➕ NOUVEAUX CSV
+# CSV régionaux
 OUTPUT_MAURICIE = "data/regie_essence_mauricie.csv"
 OUTPUT_ESTRIE = "data/regie_essence_estrie.csv"
 OUTPUT_SAG_LSJ = "data/regie_essence_saguenay_lac_st_jean.csv"
@@ -31,7 +31,7 @@ response.raise_for_status()
 raw = response.content
 
 # ------------------------------------------------------------------
-# Détection gzip / non gzip
+# Décompression
 # ------------------------------------------------------------------
 
 if raw.lstrip().startswith(b"{"):
@@ -41,36 +41,29 @@ else:
         data = json.load(f)
 
 features = data.get("features", [])
-print(f"Stations totales détectées : {len(features)}")
 
 # ------------------------------------------------------------------
 # Utilitaires
 # ------------------------------------------------------------------
 
 def extract_prices(prices_list):
-    prix_regulier = None
-    prix_super = None
-    prix_diesel = None
+    prix_regulier = prix_super = prix_diesel = None
 
     for item in prices_list:
-        gas_type = item.get("GasType")
-        price = item.get("Price")
-        available = item.get("IsAvailable", False)
-
-        if not available or not price:
+        if not item.get("IsAvailable"):
             continue
 
         try:
-            numeric_price = float(price.replace("¢", "").strip())
-        except ValueError:
+            price = float(item["Price"].replace("¢", "").strip())
+        except Exception:
             continue
 
-        if gas_type == "Régulier":
-            prix_regulier = numeric_price
-        elif gas_type == "Super":
-            prix_super = numeric_price
-        elif gas_type == "Diesel":
-            prix_diesel = numeric_price
+        if item["GasType"] == "Régulier":
+            prix_regulier = price
+        elif item["GasType"] == "Super":
+            prix_super = price
+        elif item["GasType"] == "Diesel":
+            prix_diesel = price
 
     return prix_regulier, prix_super, prix_diesel
 
@@ -78,7 +71,6 @@ def extract_prices(prices_list):
 def write_csv(path, rows):
     with open(path, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
-
         writer.writerow([
             "Nom",
             "Banniere",
@@ -95,7 +87,6 @@ def write_csv(path, rows):
             "is_ghost",
             "date_import"
         ])
-
         for r in rows:
             writer.writerow([
                 r["Nom"],
@@ -139,53 +130,47 @@ def add_ghost_points(rows, region_name, bbox):
             "Prix_diesel": "",
             "rang_region": "",
             "highlight_carte": "",
-            "is_ghost": "true",
+            "is_ghost": 1,  # ✅ NUMÉRIQUE
             "date_import": rows[0]["date_import"] if rows else ""
         })
 
-
 # ------------------------------------------------------------------
-# 1️⃣ Collecte par région
+# Collecte
 # ------------------------------------------------------------------
 
 rows_by_region = defaultdict(list)
 
-date_import = (
-    datetime.now(ZoneInfo("America/Montreal"))
-    .strftime("%Y-%m-%d %H:%M")
-)
+date_import = datetime.now(
+    ZoneInfo("America/Montreal")
+).strftime("%Y-%m-%d %H:%M")
 
 for feature in features:
     props = feature.get("properties", {})
-    coords = feature.get("geometry", {}).get("coordinates", [None, None])
-    prices_list = props.get("Prices", [])
-
-    prix_regulier, prix_super, prix_diesel = extract_prices(prices_list)
+    lon, lat = feature.get("geometry", {}).get("coordinates", [None, None])
+    prix_regulier, prix_super, prix_diesel = extract_prices(props.get("Prices", []))
 
     if prix_regulier is None:
         continue
 
-    row = {
+    rows_by_region[props.get("Region")].append({
         "Nom": props.get("Name"),
         "Banniere": props.get("brand"),
         "Adresse": props.get("Address"),
         "Region": props.get("Region"),
         "Code_postal": props.get("PostalCode"),
-        "Latitude": coords[1],
-        "Longitude": coords[0],
+        "Latitude": lat,
+        "Longitude": lon,
         "Prix_regulier": prix_regulier,
         "Prix_super": prix_super,
         "Prix_diesel": prix_diesel,
         "rang_region": None,
         "highlight_carte": "",
-        "is_ghost": "false",
+        "is_ghost": 0,  # ✅ NUMÉRIQUE
         "date_import": date_import
-    }
-
-    rows_by_region[row["Region"]].append(row)
+    })
 
 # ------------------------------------------------------------------
-# 2️⃣ Calcul du rang régional
+# Classement régional
 # ------------------------------------------------------------------
 
 final_rows = []
@@ -193,48 +178,36 @@ final_rows = []
 for region, rows in rows_by_region.items():
     rows_sorted = sorted(rows, key=lambda r: r["Prix_regulier"])
 
-    current_rank = 0
+    rank = 0
     last_price = None
 
-    for idx, row in enumerate(rows_sorted):
+    for i, row in enumerate(rows_sorted):
         if row["Prix_regulier"] != last_price:
-            current_rank = idx + 1
+            rank = i + 1
             last_price = row["Prix_regulier"]
+        row["rang_region"] = rank
+        row["highlight_carte"] = "oui" if rank == 1 else ""
 
-        row["rang_region"] = current_rank
-        row["highlight_carte"] = "oui" if current_rank == 1 else ""
-
-    if len(rows_sorted) <= 5:
-        final_rows.extend(rows_sorted)
-        continue
-
-    cutoff_price = rows_sorted[4]["Prix_regulier"]
-
-    final_rows.extend([
-        r for r in rows_sorted
-        if r["Prix_regulier"] <= cutoff_price
-    ])
+    final_rows.extend(rows_sorted[:5])
 
 # ------------------------------------------------------------------
-# 3️⃣ CSV principal
+# CSV principal
 # ------------------------------------------------------------------
 
 write_csv(OUTPUT_MAIN, final_rows)
 
 # ------------------------------------------------------------------
-# 4️⃣ CSV régionaux + points fantômes
+# CSV régionaux + fantômes
 # ------------------------------------------------------------------
 
-REGIONS_GRAND_MONTREAL = [
+rows_grand_montreal = [r for r in final_rows if r["Region"] in [
     "Montréal", "Laval", "Montérégie", "Laurentides", "Lanaudière"
-]
+]]
 
-REGIONS_REGION_QUEBEC = [
+rows_region_quebec = [r for r in final_rows if r["Region"] in [
     "Capitale-Nationale", "Chaudière-Appalaches"
-]
+]]
 
-rows_grand_montreal = [r for r in final_rows if r["Region"] in REGIONS_GRAND_MONTREAL]
-rows_region_quebec = [r for r in final_rows if r["Region"] in REGIONS_REGION_QUEBEC]
 rows_mauricie = [r for r in final_rows if r["Region"] == "Mauricie"]
 rows_estrie = [r for r in final_rows if r["Region"] == "Estrie"]
 rows_sag_lsj = [r for r in final_rows if r["Region"] == "Saguenay-Lac-Saint-Jean"]
@@ -256,3 +229,4 @@ write_csv(OUTPUT_REGION_QUEBEC, rows_region_quebec)
 write_csv(OUTPUT_MAURICIE, rows_mauricie)
 write_csv(OUTPUT_ESTRIE, rows_estrie)
 write_csv(OUTPUT_SAG_LSJ, rows_sag_lsj)
+``

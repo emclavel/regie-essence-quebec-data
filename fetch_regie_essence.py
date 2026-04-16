@@ -92,6 +92,7 @@ def write_csv(path, rows):
             "Prix_diesel",
             "rang_region",
             "highlight_carte",
+            "is_ghost",
             "date_import"
         ])
 
@@ -109,8 +110,39 @@ def write_csv(path, rows):
                 r["Prix_diesel"],
                 r["rang_region"],
                 r["highlight_carte"],
+                r["is_ghost"],
                 r["date_import"]
             ])
+
+
+def add_ghost_points(rows, region_name, bbox):
+    north, south, west, east = bbox
+
+    ghosts = [
+        ("ghost_north", north, (west + east) / 2),
+        ("ghost_south", south, (west + east) / 2),
+        ("ghost_west",  (north + south) / 2, west),
+        ("ghost_east",  (north + south) / 2, east),
+    ]
+
+    for name, lat, lon in ghosts:
+        rows.append({
+            "Nom": name,
+            "Banniere": "",
+            "Adresse": "",
+            "Region": region_name,
+            "Code_postal": "",
+            "Latitude": lat,
+            "Longitude": lon,
+            "Prix_regulier": "",
+            "Prix_super": "",
+            "Prix_diesel": "",
+            "rang_region": "",
+            "highlight_carte": "",
+            "is_ghost": "true",
+            "date_import": rows[0]["date_import"] if rows else ""
+        })
+
 
 # ------------------------------------------------------------------
 # 1️⃣ Collecte par région
@@ -146,13 +178,14 @@ for feature in features:
         "Prix_diesel": prix_diesel,
         "rang_region": None,
         "highlight_carte": "",
+        "is_ghost": "false",
         "date_import": date_import
     }
 
     rows_by_region[row["Region"]].append(row)
 
 # ------------------------------------------------------------------
-# 2️⃣ Calcul du rang régional + top 5 + égalités
+# 2️⃣ Calcul du rang régional
 # ------------------------------------------------------------------
 
 final_rows = []
@@ -182,8 +215,6 @@ for region, rows in rows_by_region.items():
         if r["Prix_regulier"] <= cutoff_price
     ])
 
-print(f"Lignes finales (QC) : {len(final_rows)}")
-
 # ------------------------------------------------------------------
 # 3️⃣ CSV principal
 # ------------------------------------------------------------------
@@ -191,67 +222,37 @@ print(f"Lignes finales (QC) : {len(final_rows)}")
 write_csv(OUTPUT_MAIN, final_rows)
 
 # ------------------------------------------------------------------
-# 4️⃣ CSV supplémentaires par regroupement régional
+# 4️⃣ CSV régionaux + points fantômes
 # ------------------------------------------------------------------
 
 REGIONS_GRAND_MONTREAL = [
-    "Montréal",
-    "Laval",
-    "Montérégie",
-    "Laurentides",
-    "Lanaudière"
+    "Montréal", "Laval", "Montérégie", "Laurentides", "Lanaudière"
 ]
 
 REGIONS_REGION_QUEBEC = [
-    "Capitale-Nationale",
-    "Chaudière-Appalaches"
+    "Capitale-Nationale", "Chaudière-Appalaches"
 ]
 
-REGIONS_MAURICIE = [
-    "Mauricie"
-]
+rows_grand_montreal = [r for r in final_rows if r["Region"] in REGIONS_GRAND_MONTREAL]
+rows_region_quebec = [r for r in final_rows if r["Region"] in REGIONS_REGION_QUEBEC]
+rows_mauricie = [r for r in final_rows if r["Region"] == "Mauricie"]
+rows_estrie = [r for r in final_rows if r["Region"] == "Estrie"]
+rows_sag_lsj = [r for r in final_rows if r["Region"] == "Saguenay-Lac-Saint-Jean"]
 
-REGIONS_ESTRIE = [
-    "Estrie"
-]
+add_ghost_points(rows_mauricie, "Mauricie",
+                 bbox=(49.0016, 46.1512, -75.5211, -71.8906))
 
-REGIONS_SAG_LSJ = [
-    "Saguenay-Lac-Saint-Jean"
-]
+add_ghost_points(rows_estrie, "Estrie",
+                 bbox=(46.8000, 45.0000, -72.5000, -70.8000))
 
-rows_grand_montreal = [
-    r for r in final_rows
-    if r["Region"] in REGIONS_GRAND_MONTREAL
-]
+add_ghost_points(rows_sag_lsj, "Saguenay-Lac-Saint-Jean",
+                 bbox=(49.2000, 47.3000, -74.8000, -70.9000))
 
-rows_region_quebec = [
-    r for r in final_rows
-    if r["Region"] in REGIONS_REGION_QUEBEC
-]
-
-rows_mauricie = [
-    r for r in final_rows
-    if r["Region"] in REGIONS_MAURICIE
-]
-
-rows_estrie = [
-    r for r in final_rows
-    if r["Region"] in REGIONS_ESTRIE
-]
-
-rows_sag_lsj = [
-    r for r in final_rows
-    if r["Region"] in REGIONS_SAG_LSJ
-]
+add_ghost_points(rows_region_quebec, "Région de Québec",
+                 bbox=(47.1200, 45.0000, -72.9000, -69.6000))
 
 write_csv(OUTPUT_GRAND_MONTREAL, rows_grand_montreal)
 write_csv(OUTPUT_REGION_QUEBEC, rows_region_quebec)
 write_csv(OUTPUT_MAURICIE, rows_mauricie)
 write_csv(OUTPUT_ESTRIE, rows_estrie)
 write_csv(OUTPUT_SAG_LSJ, rows_sag_lsj)
-
-print(f"CSV Grand Montréal : {len(rows_grand_montreal)} lignes")
-print(f"CSV Région de Québec : {len(rows_region_quebec)} lignes")
-print(f"CSV Mauricie : {len(rows_mauricie)} lignes")
-print(f"CSV Estrie : {len(rows_estrie)} lignes")
-print(f"CSV Saguenay–Lac-Saint-Jean : {len(rows_sag_lsj)} lignes")

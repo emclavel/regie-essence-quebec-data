@@ -14,6 +14,11 @@ OUTPUT_MAIN = "data/regie_essence_quebec.csv"
 OUTPUT_GRAND_MONTREAL = "data/regie_essence_grand_montreal.csv"
 OUTPUT_REGION_QUEBEC = "data/regie_essence_region_quebec.csv"
 
+# ➕ NOUVEAUX CSV
+OUTPUT_MAURICIE = "data/regie_essence_mauricie.csv"
+OUTPUT_ESTRIE = "data/regie_essence_estrie.csv"
+OUTPUT_SAG_LSJ = "data/regie_essence_saguenay_lac_st_jean.csv"
+
 os.makedirs("data", exist_ok=True)
 
 headers = {
@@ -25,7 +30,10 @@ response = requests.get(URL, headers=headers, timeout=60)
 response.raise_for_status()
 raw = response.content
 
+# ------------------------------------------------------------------
 # Détection gzip / non gzip
+# ------------------------------------------------------------------
+
 if raw.lstrip().startswith(b"{"):
     data = json.loads(raw.decode("utf-8"))
 else:
@@ -110,7 +118,6 @@ def write_csv(path, rows):
 
 rows_by_region = defaultdict(list)
 
-# ✅ HEURE LOCALE DU QUÉBEC (corrige le bug Datawrapper)
 date_import = (
     datetime.now(ZoneInfo("America/Montreal"))
     .strftime("%Y-%m-%d %H:%M")
@@ -178,7 +185,7 @@ for region, rows in rows_by_region.items():
 print(f"Lignes finales (QC) : {len(final_rows)}")
 
 # ------------------------------------------------------------------
-# 3️⃣ Écriture du CSV principal
+# 3️⃣ CSV principal
 # ------------------------------------------------------------------
 
 write_csv(OUTPUT_MAIN, final_rows)
@@ -200,6 +207,18 @@ REGIONS_REGION_QUEBEC = [
     "Chaudière-Appalaches"
 ]
 
+REGIONS_MAURICIE = [
+    "Mauricie"
+]
+
+REGIONS_ESTRIE = [
+    "Estrie"
+]
+
+REGIONS_SAG_LSJ = [
+    "Saguenay-Lac-Saint-Jean"
+]
+
 rows_grand_montreal = [
     r for r in final_rows
     if r["Region"] in REGIONS_GRAND_MONTREAL
@@ -210,8 +229,29 @@ rows_region_quebec = [
     if r["Region"] in REGIONS_REGION_QUEBEC
 ]
 
+rows_mauricie = [
+    r for r in final_rows
+    if r["Region"] in REGIONS_MAURICIE
+]
+
+rows_estrie = [
+    r for r in final_rows
+    if r["Region"] in REGIONS_ESTRIE
+]
+
+rows_sag_lsj = [
+    r for r in final_rows
+    if r["Region"] in REGIONS_SAG_LSJ
+]
+
 write_csv(OUTPUT_GRAND_MONTREAL, rows_grand_montreal)
 write_csv(OUTPUT_REGION_QUEBEC, rows_region_quebec)
+write_csv(OUTPUT_MAURICIE, rows_mauricie)
+write_csv(OUTPUT_ESTRIE, rows_estrie)
+write_csv(OUTPUT_SAG_LSJ, rows_sag_lsj)
 
 print(f"CSV Grand Montréal : {len(rows_grand_montreal)} lignes")
 print(f"CSV Région de Québec : {len(rows_region_quebec)} lignes")
+print(f"CSV Mauricie : {len(rows_mauricie)} lignes")
+print(f"CSV Estrie : {len(rows_estrie)} lignes")
+print(f"CSV Saguenay–Lac-Saint-Jean : {len(rows_sag_lsj)} lignes")

@@ -228,4 +228,3 @@ write_csv(OUTPUT_REGION_QUEBEC, rows_region_quebec)
 write_csv(OUTPUT_MAURICIE, rows_mauricie)
 write_csv(OUTPUT_ESTRIE, rows_estrie)
 write_csv(OUTPUT_SAG_LSJ, rows_sag_lsj)
-``

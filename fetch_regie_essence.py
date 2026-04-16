@@ -127,7 +127,7 @@ def add_ghost_points(rows, region_name, bbox):
             "Prix_diesel": "",
             "rang_region": "",
             "highlight_carte": "",
-            "is_ghost": 1,
+            "is_ghost": 0,
             "date_import": rows[0]["date_import"] if rows else ""
         })
 
@@ -165,7 +165,7 @@ for feature in features:
         "Prix_diesel": prix_diesel,
         "rang_region": None,
         "highlight_carte": "",
-        "is_ghost": 0,
+        "is_ghost": 1,
         "date_import": date_import
     })
 

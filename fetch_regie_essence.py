@@ -14,7 +14,6 @@ OUTPUT_MAIN = "data/regie_essence_quebec.csv"
 OUTPUT_GRAND_MONTREAL = "data/regie_essence_grand_montreal.csv"
 OUTPUT_REGION_QUEBEC = "data/regie_essence_region_quebec.csv"
 
-# CSV régionaux
 OUTPUT_MAURICIE = "data/regie_essence_mauricie.csv"
 OUTPUT_ESTRIE = "data/regie_essence_estrie.csv"
 OUTPUT_SAG_LSJ = "data/regie_essence_saguenay_lac_st_jean.csv"
@@ -31,7 +30,7 @@ response.raise_for_status()
 raw = response.content
 
 # ------------------------------------------------------------------
-# Décompression
+# Lecture du GeoJSON (gzip ou non)
 # ------------------------------------------------------------------
 
 if raw.lstrip().startswith(b"{"):
@@ -41,6 +40,7 @@ else:
         data = json.load(f)
 
 features = data.get("features", [])
+print(f"Stations détectées : {len(features)}")
 
 # ------------------------------------------------------------------
 # Utilitaires
@@ -52,7 +52,6 @@ def extract_prices(prices_list):
     for item in prices_list:
         if not item.get("IsAvailable"):
             continue
-
         try:
             price = float(item["Price"].replace("¢", "").strip())
         except Exception:
@@ -108,14 +107,12 @@ def write_csv(path, rows):
 
 def add_ghost_points(rows, region_name, bbox):
     north, south, west, east = bbox
-
     ghosts = [
         ("ghost_north", north, (west + east) / 2),
         ("ghost_south", south, (west + east) / 2),
         ("ghost_west",  (north + south) / 2, west),
         ("ghost_east",  (north + south) / 2, east),
     ]
-
     for name, lat, lon in ghosts:
         rows.append({
             "Nom": name,
@@ -130,12 +127,12 @@ def add_ghost_points(rows, region_name, bbox):
             "Prix_diesel": "",
             "rang_region": "",
             "highlight_carte": "",
-            "is_ghost": 1,  # ✅ NUMÉRIQUE
+            "is_ghost": 1,
             "date_import": rows[0]["date_import"] if rows else ""
         })
 
 # ------------------------------------------------------------------
-# Collecte
+# Collecte des données
 # ------------------------------------------------------------------
 
 rows_by_region = defaultdict(list)
@@ -147,7 +144,10 @@ date_import = datetime.now(
 for feature in features:
     props = feature.get("properties", {})
     lon, lat = feature.get("geometry", {}).get("coordinates", [None, None])
-    prix_regulier, prix_super, prix_diesel = extract_prices(props.get("Prices", []))
+
+    prix_regulier, prix_super, prix_diesel = extract_prices(
+        props.get("Prices", [])
+    )
 
     if prix_regulier is None:
         continue
@@ -165,7 +165,7 @@ for feature in features:
         "Prix_diesel": prix_diesel,
         "rang_region": None,
         "highlight_carte": "",
-        "is_ghost": 0,  # ✅ NUMÉRIQUE
+        "is_ghost": 0,
         "date_import": date_import
     })
 
@@ -177,13 +177,12 @@ final_rows = []
 
 for region, rows in rows_by_region.items():
     rows_sorted = sorted(rows, key=lambda r: r["Prix_regulier"])
-
     rank = 0
     last_price = None
 
-    for i, row in enumerate(rows_sorted):
+    for idx, row in enumerate(rows_sorted):
         if row["Prix_regulier"] != last_price:
-            rank = i + 1
+            rank = idx + 1
             last_price = row["Prix_regulier"]
         row["rang_region"] = rank
         row["highlight_carte"] = "oui" if rank == 1 else ""
@@ -197,7 +196,7 @@ for region, rows in rows_by_region.items():
 write_csv(OUTPUT_MAIN, final_rows)
 
 # ------------------------------------------------------------------
-# CSV régionaux + fantômes
+# CSV régionaux + points fantômes
 # ------------------------------------------------------------------
 
 rows_grand_montreal = [r for r in final_rows if r["Region"] in [

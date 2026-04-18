@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9524-1774 Quebec Inc.,Ultramar,"115 rue Principale, Bedford (ville & canton)",Estrie,J0J 2B0,45.120644,-72.991003,178.9,205.9,237.9,1,oui,1,2026-04-18 07:12
-Filgo Bedford,Sonic,"75 rue Cyr, CP 988, Bedford (ville & canton)",Estrie,J0J 1A0,45.125926,-72.986748,178.9,200.9,237.9,1,oui,1,2026-04-18 07:12
-Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,183.4,207.4,257.9,3,,1,2026-04-18 07:12
-9148-4840 QUEBEC INC,Ultramar,"3528 rue Principale, DUNHAM",Estrie,J0E 1M0,45.14069,-72.800819,183.9,210.9,247.9,4,,1,2026-04-18 07:12
-Gestion Milton inc.,Esso,"12 rte 137 nord, Sainte-Cécile-de-Milton",Estrie,J0E 2C0,45.483652,-72.758766,184.9,209.9,247.9,5,,1,2026-04-18 07:12
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-04-18 07:12
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-04-18 07:12
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-04-18 07:12
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-04-18 07:12
+9524-1774 Quebec Inc.,Ultramar,"115 rue Principale, Bedford (ville & canton)",Estrie,J0J 2B0,45.120644,-72.991003,178.9,205.9,237.9,1,oui,1,2026-04-18 10:25
+Filgo Bedford,Sonic,"75 rue Cyr, CP 988, Bedford (ville & canton)",Estrie,J0J 1A0,45.125926,-72.986748,178.9,200.9,237.9,1,oui,1,2026-04-18 10:25
+Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,183.4,207.4,257.9,3,,1,2026-04-18 10:25
+9148-4840 QUEBEC INC,Ultramar,"3528 rue Principale, DUNHAM",Estrie,J0E 1M0,45.14069,-72.800819,183.9,210.9,247.9,4,,1,2026-04-18 10:25
+Gestion Milton inc.,Esso,"12 rte 137 nord, Sainte-Cécile-de-Milton",Estrie,J0E 2C0,45.483652,-72.758766,184.9,209.9,223.9,5,,1,2026-04-18 10:25
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-04-18 10:25
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-04-18 10:25
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-04-18 10:25
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-04-18 10:25

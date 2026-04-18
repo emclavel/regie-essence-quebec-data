@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Couche-Tard #1311,Esso,"2625 boul. de la Grande-Baie sud, Saguenay",Saguenay-Lac-Saint-Jean,G7B 4H4,48.317822,-70.861146,173.9,198.9,,1,oui,1,2026-04-18 15:55
-9030-3512 QUEBEC INC,Ultramar,"266 rue Malraux, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 6R9,48.39744,-71.081011,174.5,201.9,249.9,2,,1,2026-04-18 15:55
-BCP IV Service Station LP,Mobil,"1101 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B5,48.40924,-71.052572,174.5,200.9,248.1,2,,1,2026-04-18 15:55
-Couche-Tard #1002,Esso,"1455 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4C1,48.403131,-71.059187,174.5,199.9,,2,,1,2026-04-18 15:55
-Couche-Tard #1338,Couche-Tard,"585 rue Bégin, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4V2,48.421176,-71.059061,174.5,199.9,249.5,2,,1,2026-04-18 15:55
-ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-04-18 15:55
-ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-04-18 15:55
-ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-04-18 15:55
-ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-04-18 15:55
+Couche-Tard #1311,Esso,"2625 boul. de la Grande-Baie sud, Saguenay",Saguenay-Lac-Saint-Jean,G7B 4H4,48.317822,-70.861146,173.9,198.9,,1,oui,1,2026-04-18 17:52
+9030-3512 QUEBEC INC,Ultramar,"266 rue Malraux, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 6R9,48.39744,-71.081011,174.5,201.9,249.9,2,,1,2026-04-18 17:52
+BCP IV Service Station LP,Mobil,"1101 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B5,48.40924,-71.052572,174.5,200.9,248.1,2,,1,2026-04-18 17:52
+Couche-Tard #1002,Esso,"1455 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4C1,48.403131,-71.059187,174.5,199.9,,2,,1,2026-04-18 17:52
+Couche-Tard #1338,Couche-Tard,"585 rue Bégin, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4V2,48.421176,-71.059061,174.5,199.9,249.5,2,,1,2026-04-18 17:52
+ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-04-18 17:52
+ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-04-18 17:52
+ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-04-18 17:52
+ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-04-18 17:52

@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,185.9,205.9,,1,oui,1,2026-04-19 05:34
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,185.9,205.9,,1,oui,1,2026-04-19 05:34
-La Société Canadian Tire Ltée,Canadian Tire,"636 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 3P9,46.816137,-71.251932,188.7,213.7,247.9,3,,1,2026-04-19 05:34
-Couche-Tard #1306,Esso,"576 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2S9,46.818605,-71.25004,188.9,213.9,247.9,4,,1,2026-04-19 05:34
-Dépanneur SPRINT Wilfrid-Hamel,Petro-Canada,"580 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2T3,46.817814,-71.250868,188.9,213.9,247.9,4,,1,2026-04-19 05:34
-9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,184.9,209.9,265.9,1,oui,1,2026-04-19 05:34
-9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,184.9,209.9,223.9,1,oui,1,2026-04-19 05:34
-DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,184.9,211.9,,1,oui,1,2026-04-19 05:34
-"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,184.9,212.9,264.9,1,oui,1,2026-04-19 05:34
-Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,184.9,209.9,,1,oui,1,2026-04-19 05:34
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-04-19 05:34
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-04-19 05:34
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-04-19 05:34
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-04-19 05:34
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,185.9,205.9,,1,oui,1,2026-04-19 07:52
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,185.9,205.9,,1,oui,1,2026-04-19 07:52
+Couche-Tard #1306,Esso,"576 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2S9,46.818605,-71.25004,188.7,213.9,247.9,3,,1,2026-04-19 07:52
+La Société Canadian Tire Ltée,Canadian Tire,"636 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 3P9,46.816137,-71.251932,188.7,213.7,247.9,3,,1,2026-04-19 07:52
+Dépanneur SPRINT Wilfrid-Hamel,Petro-Canada,"580 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2T3,46.817814,-71.250868,188.9,213.9,247.9,5,,1,2026-04-19 07:52
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,184.9,209.9,265.9,1,oui,1,2026-04-19 07:52
+9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,184.9,209.9,223.9,1,oui,1,2026-04-19 07:52
+DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,184.9,211.9,,1,oui,1,2026-04-19 07:52
+"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,184.9,212.9,264.9,1,oui,1,2026-04-19 07:52
+Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,184.9,209.9,,1,oui,1,2026-04-19 07:52
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-04-19 07:52
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-04-19 07:52
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-04-19 07:52
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-04-19 07:52

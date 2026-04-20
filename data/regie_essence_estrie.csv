@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Filgo Bedford,Sonic,"75 rue Cyr, CP 988, Bedford (ville & canton)",Estrie,J0J 1A0,45.125926,-72.986748,167.9,189.9,237.9,1,oui,1,2026-04-20 07:58
-9524-1774 Quebec Inc.,Ultramar,"115 rue Principale, Bedford (ville & canton)",Estrie,J0J 2B0,45.120644,-72.991003,168.9,195.9,233.9,2,,1,2026-04-20 07:58
-9148-4840 QUEBEC INC,Ultramar,"3528 rue Principale, DUNHAM",Estrie,J0E 1M0,45.14069,-72.800819,172.9,199.9,237.9,3,,1,2026-04-20 07:58
-Gestion Milton inc.,Esso,"12 rte 137 nord, Sainte-Cécile-de-Milton",Estrie,J0E 2C0,45.483652,-72.758766,174.9,199.9,219.9,4,,1,2026-04-20 07:58
-Couche-Tard inc.,Esso,"3 ch. Fairfax, Stanstead (ville & canton)",Estrie,J0B 3E0,45.023694,-72.087397,176.9,201.9,219.9,5,,1,2026-04-20 07:58
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-04-20 07:58
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-04-20 07:58
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-04-20 07:58
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-04-20 07:58
+Filgo Bedford,Sonic,"75 rue Cyr, CP 988, Bedford (ville & canton)",Estrie,J0J 1A0,45.125926,-72.986748,167.9,189.9,237.9,1,oui,1,2026-04-20 12:20
+9524-1774 Quebec Inc.,Ultramar,"115 rue Principale, Bedford (ville & canton)",Estrie,J0J 2B0,45.120644,-72.991003,168.9,195.9,233.9,2,,1,2026-04-20 12:20
+9148-4840 QUEBEC INC,Ultramar,"3528 rue Principale, DUNHAM",Estrie,J0E 1M0,45.14069,-72.800819,172.9,199.9,237.9,3,,1,2026-04-20 12:20
+Gestion Milton inc.,Esso,"12 rte 137 nord, Sainte-Cécile-de-Milton",Estrie,J0E 2C0,45.483652,-72.758766,173.4,198.9,219.9,4,,1,2026-04-20 12:20
+9415-9159 QUÉBEC INC.,Petro-Canada,"2 de Fairfax , Stanstead (ville & canton)",Estrie,J0B 3E2,45.023031,-72.088007,176.9,206.9,229.9,5,,1,2026-04-20 12:20
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-04-20 12:20
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-04-20 12:20
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-04-20 12:20
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-04-20 12:20

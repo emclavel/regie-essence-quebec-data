@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Couche-Tard #1306,Esso,"576 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2S9,46.818605,-71.25004,175.9,200.9,223.9,1,oui,1,2026-04-21 02:24
-Dépanneur SPRINT Wilfrid-Hamel,Petro-Canada,"580 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2T3,46.817814,-71.250868,175.9,200.9,223.9,1,oui,1,2026-04-21 02:24
-La Société Canadian Tire Ltée,Canadian Tire,"636 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 3P9,46.816137,-71.251932,175.9,200.9,242.9,1,oui,1,2026-04-21 02:24
-9410-3306 Quebec inc,Ultramar,"1080 boul. Wilfrid-Hamel, QUÉBEC",Capitale-Nationale,G1M 2S3,46.809682,-71.261023,176.7,203.9,223.9,4,,1,2026-04-21 02:24
-Couche-Tard #1141,Couche-Tard,"1781 av. du Marais, Québec",Capitale-Nationale,G1M 0A2,46.814369,-71.286912,176.7,201.9,223.9,4,,1,2026-04-21 02:24
-9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,173.9,198.9,239.9,1,oui,1,2026-04-21 02:24
-Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,173.9,198.9,,1,oui,1,2026-04-21 02:24
-SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,173.9,198.9,252.9,1,oui,1,2026-04-21 02:24
-9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,174.9,199.9,219.9,4,,1,2026-04-21 02:24
-DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,174.9,201.9,,4,,1,2026-04-21 02:24
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-04-21 02:24
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-04-21 02:24
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-04-21 02:24
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-04-21 02:24
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,174.9,194.9,,1,oui,1,2026-04-21 06:54
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,174.9,194.9,,1,oui,1,2026-04-21 06:54
+Couche-Tard #1306,Esso,"576 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2S9,46.818605,-71.25004,175.9,200.9,223.9,3,,1,2026-04-21 06:54
+Dépanneur SPRINT Wilfrid-Hamel,Petro-Canada,"580 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2T3,46.817814,-71.250868,175.9,200.9,223.9,3,,1,2026-04-21 06:54
+La Société Canadian Tire Ltée,Canadian Tire,"636 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 3P9,46.816137,-71.251932,175.9,200.9,242.9,3,,1,2026-04-21 06:54
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,173.9,198.9,239.9,1,oui,1,2026-04-21 06:54
+Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,173.9,198.9,,1,oui,1,2026-04-21 06:54
+SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,173.9,198.9,252.9,1,oui,1,2026-04-21 06:54
+9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,174.9,199.9,217.9,4,,1,2026-04-21 06:54
+Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,174.9,194.9,,4,,1,2026-04-21 06:54
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-04-21 06:54
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-04-21 06:54
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-04-21 06:54
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-04-21 06:54

@@ -1,26 +1,26 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-BCP IV Service Station LP,Mobil,"1115 rue Saint-Isidore, Saint-Lin–Laurentides",Lanaudière,J5M 2V5,45.866693,-73.756351,163.7,189.9,216.5,1,oui,1,2026-04-24 06:55
-9395-0368 Québec Inc.,Harnois,"47 rte 337, Sainte-Julienne",Lanaudière,J0K 2T0,45.896282,-73.755782,164.4,189.9,217.9,2,,1,2026-04-24 06:55
-9395-0368 Québec Inc.,Harnois,"5470 rte 335, Saint-Calixte",Lanaudière,J0K 1Z0,45.941996,-73.84677,164.4,189.9,217.9,2,,1,2026-04-24 06:55
-9189-0509 QUEBEC INC,Ultramar,"648 Rang du Ruisseau des Anges sud, SAINT-ROCH-DE-L'ACHIGAN",Lanaudière,J0K 3H0,45.832754,-73.641681,164.7,191.9,217.9,4,,1,2026-04-24 06:55
-Couche-Tard #1083,Couche-Tard,"994 rue Saint-Isidore, Saint-Lin–Laurentides",Lanaudière,J5M 2V1,45.861177,-73.757659,164.7,189.9,217.9,4,,1,2026-04-24 06:55
-Comptoir d'essence Bélisle,Bélisle,"555 rue Saint-Eustache, Saint-Eustache",Laurentides,J7R 7E6,45.566749,-73.924301,163.9,183.9,233.9,1,oui,1,2026-04-24 06:55
-Couche-Tard #156,Couche-Tard,"207 boul. Industriel, Saint-Eustache",Laurentides,J7R 5P2,45.568647,-73.924213,163.9,183.9,,1,oui,1,2026-04-24 06:55
-Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.496217,-74.136862,163.9,192.9,219.9,1,oui,1,2026-04-24 06:55
-9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,164.9,192.9,229.9,4,,1,2026-04-24 06:55
-Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,164.9,190.9,229.9,4,,1,2026-04-24 06:55
-Couche-Tard #106,Esso,"225 boul. Curé-Labelle, Laval",Laval,H7L 2Z9,45.537239,-73.73192,166.9,191.9,219.9,1,oui,1,2026-04-24 06:55
-Filgo Laval Curé-Labelle,Shell,"185 boul. Curé-Labelle, Laval",Laval,H7L 2Z9,45.536346,-73.731027,166.9,191.9,233.9,1,oui,1,2026-04-24 06:55
-Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,168.9,188.9,,3,,1,2026-04-24 06:55
-Dépanneur Sprint (boul. Ste-Rose),Petro-Canada,"4124 boul. Sainte-Rose, Laval",Laval,H7R 1W9,45.568586,-73.835665,171.9,196.9,229.9,4,,1,2026-04-24 06:55
-Super Gaz ltée #801,Super Gaz,"3033 boul. Cartier ouest, Laval",Laval,H7V 1J3,45.542786,-73.726692,172.9,197.9,222.9,5,,1,2026-04-24 06:55
-BCP IV Service Station LP,Mobil,"220 boul. Omer-Marcil, Saint-Jean-sur-Richelieu",Montérégie,J2W 2V1,45.332991,-73.292005,154.9,180.9,218.9,1,oui,1,2026-04-24 06:55
-Couche-Tard #382,Esso,"165 boul. Omer-Marcil, Saint-Jean-sur-Richelieu",Montérégie,J2W 0A3,45.333615,-73.294578,154.9,179.9,219.9,1,oui,1,2026-04-24 06:55
-9387-0814 QUEBEC INC,Ultramar,"290 Boul. Saint-Luc, SAINT-JEAN-SUR-RICHELIEU",Montérégie,J2W 2A3,45.3563,-73.2981,157.9,184.9,219.9,3,,1,2026-04-24 06:55
-9512-3493 Quebec Inc,Ultramar,"525 rue Pierre-Caisse, SAINT-JEAN-SUR-RICHELIEU",Montérégie,J3A 1P1,45.332,-73.2792,157.9,184.9,219.9,3,,1,2026-04-24 06:55
-Couche-Tard #1020,Couche-Tard,"334 rue Champlain, Saint-Jean-sur-Richelieu",Montérégie,J3B 6W4,45.311449,-73.252483,157.9,182.9,249.9,3,,1,2026-04-24 06:55
-Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,172.9,192.9,,1,oui,1,2026-04-24 06:55
-Costco Montréal Centre,Costco,"300 rue Bridge, Montréal",Montréal,H3K 2C3,45.485765,-73.553519,172.9,192.9,,1,oui,1,2026-04-24 06:55
-Station d'essence Costco,Costco,"9403 boul. des Sciences, Montréal",Montréal,H1J 0A6,45.623187,-73.5551,172.9,192.9,,1,oui,1,2026-04-24 06:55
-Dépanneur Forget 15550 inc.,Petro-Canada,"15550 rue Sherbrooke est, Montréal",Montréal,H1A 1C9,45.690731,-73.496739,174.9,200.9,229.9,4,,1,2026-04-24 06:55
-Station-service Kirkland,Sonic,"3055 boul. Saint-Charles, Kirkland",Montréal,H9H 3B8,45.449942,-73.85569,175.9,197.9,219.9,5,,1,2026-04-24 06:55
+9395-0368 Québec Inc.,Harnois,"47 rte 337, Sainte-Julienne",Lanaudière,J0K 2T0,45.896282,-73.755782,163.2,188.9,217.9,1,oui,1,2026-04-24 11:00
+9395-0368 Québec Inc.,Harnois,"5470 rte 335, Saint-Calixte",Lanaudière,J0K 1Z0,45.941996,-73.84677,163.2,188.9,217.9,1,oui,1,2026-04-24 11:00
+BCP IV Service Station LP,Mobil,"1115 rue Saint-Isidore, Saint-Lin–Laurentides",Lanaudière,J5M 2V5,45.866693,-73.756351,163.7,189.9,216.5,3,,1,2026-04-24 11:00
+Couche-Tard #1083,Couche-Tard,"994 rue Saint-Isidore, Saint-Lin–Laurentides",Lanaudière,J5M 2V1,45.861177,-73.757659,163.7,188.9,217.9,3,,1,2026-04-24 11:00
+Couche-Tard #1138,Couche-Tard,"2200 av. du Marché, Saint-Lin–Laurentides",Lanaudière,J5M 0G3,45.825957,-73.758926,163.7,188.9,239.9,3,,1,2026-04-24 11:00
+Comptoir d'essence Bélisle,Bélisle,"555 rue Saint-Eustache, Saint-Eustache",Laurentides,J7R 7E6,45.566749,-73.924301,163.9,183.9,233.9,1,oui,1,2026-04-24 11:00
+Couche-Tard #156,Couche-Tard,"207 boul. Industriel, Saint-Eustache",Laurentides,J7R 5P2,45.568647,-73.924213,163.9,183.9,,1,oui,1,2026-04-24 11:00
+Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.496217,-74.136862,163.9,192.9,219.9,1,oui,1,2026-04-24 11:00
+9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,164.9,192.9,229.9,4,,1,2026-04-24 11:00
+Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,164.9,190.9,229.9,4,,1,2026-04-24 11:00
+9202-7077 Quebec Inc,Ultramar,"2 Boul. Sainte-Rose est, LAVAL",Laval,H7L 3K4,45.624085,-73.77503,166.9,193.9,233.9,1,oui,1,2026-04-24 11:00
+9525-3985 Quebec Inc,Petro-Canada,"4550 av. de la Renaissance, LAVAL",Laval,H7L 0J3,45.59997,-73.801791,166.9,194.9,233.9,1,oui,1,2026-04-24 11:00
+Couche-Tard #1235,Esso,"6400 boul. des Laurentides, Laval",Laval,H7H 1N6,45.637659,-73.755157,166.9,191.9,239.9,1,oui,1,2026-04-24 11:00
+Couche-Tard #144,Couche-Tard,"258 boul. Sainte-Rose, Laval",Laval,H7L 1M2,45.612022,-73.789312,166.9,191.9,,1,oui,1,2026-04-24 11:00
+Filgo Laval Curé-Labelle,Shell,"185 boul. Curé-Labelle, Laval",Laval,H7L 2Z9,46.605425,-73.790956,166.9,191.9,233.9,1,oui,1,2026-04-24 11:00
+BCP IV Service Station LP,Mobil,"220 boul. Omer-Marcil, Saint-Jean-sur-Richelieu",Montérégie,J2W 2V1,45.332991,-73.292005,154.9,180.9,218.9,1,oui,1,2026-04-24 11:00
+Couche-Tard #382,Esso,"165 boul. Omer-Marcil, Saint-Jean-sur-Richelieu",Montérégie,J2W 0A3,45.333615,-73.294578,154.9,179.9,239.9,1,oui,1,2026-04-24 11:00
+Couche-Tard #1020,Couche-Tard,"334 rue Champlain, Saint-Jean-sur-Richelieu",Montérégie,J3B 6W4,45.311449,-73.252483,157.9,182.9,229.9,3,,1,2026-04-24 11:00
+Dépanneur Chez Dan,Esso,"638 rte 219, Hemmingford (village & canton)",Montérégie,J0L 1H0,45.056453,-73.58454,159.9,187.9,229.9,4,,1,2026-04-24 11:00
+Harnois Énergies Inc.,Esso,"515 rue Principale, Saint-Roch-de-Richelieu",Montérégie,J0L 2M0,45.891451,-73.159965,163.9,188.9,219.9,5,,1,2026-04-24 11:00
+9534-6789 Quebec Inc.,Ultramar,"9815 rue Lajeunesse, MONTRÉAL",Montréal,H3L 2C9,45.551916,-73.655979,176.8,203.9,,1,oui,1,2026-04-24 11:00
+9381-0372 QUEBEC INC,Ultramar,"9090 rue Saint-Hubert, MONTRÉAL",Montréal,H2M 1Y6,45.551133,-73.643131,176.9,203.9,239.9,2,,1,2026-04-24 11:00
+Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,176.9,196.9,,2,,1,2026-04-24 11:00
+Costco Montréal Centre,Costco,"300 rue Bridge, Montréal",Montréal,H3K 2C3,45.485765,-73.553519,176.9,196.9,,2,,1,2026-04-24 11:00
+Couche-Tard #1154,Esso,"790 boul. Crémazie est, Montréal",Montréal,H2P 1G3,45.548614,-73.635018,176.9,201.9,239.9,2,,1,2026-04-24 11:00

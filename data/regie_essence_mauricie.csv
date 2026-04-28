@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,176.9,196.9,,1,oui,1,2026-04-27 16:42
-9262-0368 QUEBEC INC,Ultramar,"1450 boul. Saint-Laurent est, LOUISEVILLE",Mauricie,J5V 1J6,46.261268,-72.878775,177.9,204.9,220.9,2,,1,2026-04-27 16:42
-Couche-Tard #1102,Petro-Canada,"731 boul. Saint-Laurent ouest, Louiseville",Mauricie,G5V 1H9,46.255368,-72.954931,177.9,203.9,239.9,2,,1,2026-04-27 16:42
-GARAGE N BROUILLARD INC,Ultramar,"103 Boul. Est, MASKINONGÉ",Mauricie,J0K 1N0,46.225798,-73.0086,177.9,204.9,219.9,2,,1,2026-04-27 16:42
-Groupe Mondor Inc.,Shell,"154 boul. Saint-Laurent est, Louiseville",Mauricie,J5V 1H4,46.255944,-72.936802,177.9,205.9,247.9,2,,1,2026-04-27 16:42
-ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-04-27 16:42
-ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-04-27 16:42
-ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-04-27 16:42
-ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-04-27 16:42
+Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,176.9,196.9,,1,oui,1,2026-04-27 20:06
+9262-0368 QUEBEC INC,Ultramar,"1450 boul. Saint-Laurent est, LOUISEVILLE",Mauricie,J5V 1J6,46.261268,-72.878775,177.9,204.9,220.9,2,,1,2026-04-27 20:06
+Couche-Tard #1102,Petro-Canada,"731 boul. Saint-Laurent ouest, Louiseville",Mauricie,G5V 1H9,46.255368,-72.954931,177.9,203.9,239.9,2,,1,2026-04-27 20:06
+GARAGE N BROUILLARD INC,Ultramar,"103 Boul. Est, MASKINONGÉ",Mauricie,J0K 1N0,46.225798,-73.0086,177.9,204.9,219.9,2,,1,2026-04-27 20:06
+Groupe Mondor Inc.,Shell,"154 boul. Saint-Laurent est, Louiseville",Mauricie,J5V 1H4,46.255944,-72.936802,177.9,205.9,247.9,2,,1,2026-04-27 20:06
+ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-04-27 20:06
+ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-04-27 20:06
+ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-04-27 20:06
+ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-04-27 20:06

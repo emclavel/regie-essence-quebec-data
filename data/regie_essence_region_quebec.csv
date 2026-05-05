@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,184.9,204.9,,1,oui,1,2026-05-04 16:53
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,184.9,204.9,,1,oui,1,2026-05-04 16:53
-Couche-Tard #1141,Couche-Tard,"1781 av. du Marais, Québec",Capitale-Nationale,G1M 0A2,46.814369,-71.286912,185.7,210.9,247.9,3,,1,2026-05-04 16:53
-Dépanneur Sprint (boul. Père-Lelièvre),Eko,"2055 boul. du Père-Lelièvre, Québec",Capitale-Nationale,G1P 2W8,46.81146,-71.29482,185.7,210.7,,3,,1,2026-05-04 16:53
-Dépanneur Éclair Chauveau,Petro-Canada,"1365 boul. Bastien, Québec",Capitale-Nationale,G2K 1G5,46.850859,-71.309302,185.9,210.9,247.9,5,,1,2026-05-04 16:53
-9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,174.9,199.9,239.9,1,oui,1,2026-05-04 16:53
-DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,174.9,201.9,,1,oui,1,2026-05-04 16:53
-"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,174.9,202.9,242.9,1,oui,1,2026-05-04 16:53
-Harnois Énergies Inc.,Esso,"2061 rang de la Rivière, Saint-Isidore",Chaudière-Appalaches,G0S 2S0,46.545239,-71.140995,174.9,199.9,239.9,1,oui,1,2026-05-04 16:53
-REST BAR LA ROCHELIERE INC,Ultramar,"1370 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.599248,-71.195128,174.9,201.9,242.9,1,oui,1,2026-05-04 16:53
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-04 16:53
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-04 16:53
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-04 16:53
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-04 16:53
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,184.9,204.9,,1,oui,1,2026-05-04 20:10
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,184.9,204.9,,1,oui,1,2026-05-04 20:10
+Couche-Tard #1141,Couche-Tard,"1781 av. du Marais, Québec",Capitale-Nationale,G1M 0A2,46.814369,-71.286912,185.7,210.9,247.9,3,,1,2026-05-04 20:10
+Dépanneur Sprint (boul. Père-Lelièvre),Eko,"2055 boul. du Père-Lelièvre, Québec",Capitale-Nationale,G1P 2W8,46.81146,-71.29482,185.7,210.7,,3,,1,2026-05-04 20:10
+Dépanneur Éclair Chauveau,Petro-Canada,"1365 boul. Bastien, Québec",Capitale-Nationale,G2K 1G5,46.850859,-71.309302,185.9,210.9,247.9,5,,1,2026-05-04 20:10
+9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,174.9,199.9,239.9,1,oui,1,2026-05-04 20:10
+DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,174.9,201.9,,1,oui,1,2026-05-04 20:10
+"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,174.9,202.9,242.9,1,oui,1,2026-05-04 20:10
+Harnois Énergies Inc.,Esso,"2061 rang de la Rivière, Saint-Isidore",Chaudière-Appalaches,G0S 2S0,46.545239,-71.140995,174.9,199.9,239.9,1,oui,1,2026-05-04 20:10
+REST BAR LA ROCHELIERE INC,Ultramar,"1370 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.599248,-71.195128,174.9,201.9,242.9,1,oui,1,2026-05-04 20:10
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-04 20:10
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-04 20:10
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-04 20:10
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-04 20:10

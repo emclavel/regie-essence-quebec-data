@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,184.9,204.9,,1,oui,1,2026-05-05 08:15
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,184.9,204.9,,1,oui,1,2026-05-05 08:15
-Dépanneur Éclair Chauveau,Petro-Canada,"1365 boul. Bastien, Québec",Capitale-Nationale,G2K 1G5,46.850859,-71.309302,185.9,210.9,247.9,3,,1,2026-05-05 08:15
-Garage Magella Beaulieu Inc.,Irving,"1085 av. Lapierre, Québec",Capitale-Nationale,G0A 3K0,46.863527,-71.330386,185.9,207.9,233.9,3,,1,2026-05-05 08:15
-9319-6756 QUÉBEC INC.,Shell,"5000 boul. de l'Ormière, Québec",Capitale-Nationale,G1P 1K7,46.818765,-71.331086,186.9,214.9,,5,,1,2026-05-05 08:15
-9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,174.9,199.9,237.9,1,oui,1,2026-05-05 08:15
-DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,174.9,201.9,,1,oui,1,2026-05-05 08:15
-"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,174.9,202.9,242.9,1,oui,1,2026-05-05 08:15
-Harnois Énergies Inc.,Esso,"2061 rang de la Rivière, Saint-Isidore",Chaudière-Appalaches,G0S 2S0,46.545239,-71.140995,174.9,199.9,237.9,1,oui,1,2026-05-05 08:15
-REST BAR LA ROCHELIERE INC,Ultramar,"1370 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.599248,-71.195128,174.9,201.9,242.9,1,oui,1,2026-05-05 08:15
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-05 08:15
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-05 08:15
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-05 08:15
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-05 08:15
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,184.9,204.9,,1,oui,1,2026-05-05 14:01
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,184.9,204.9,,1,oui,1,2026-05-05 14:01
+Garage Magella Beaulieu Inc.,Irving,"1085 av. Lapierre, Québec",Capitale-Nationale,G0A 3K0,46.863527,-71.330386,185.9,207.9,233.9,3,,1,2026-05-05 14:01
+Couche-Tard #586,Irving,"9687 boul. Sainte-Anne, Sainte-Anne-de-Beaupré",Capitale-Nationale,G0A 3C0,47.020221,-70.934647,186.9,211.9,242.9,4,,1,2026-05-05 14:01
+9095-2391 Québec Inc.,Petro-Canada,"164 rue Principale, Saint-Aimé-des-Lacs",Capitale-Nationale,G0T 1S0,47.684872,-70.316973,188.9,213.9,,5,,1,2026-05-05 14:01
+"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,174.9,202.9,242.9,1,oui,1,2026-05-05 14:01
+9107-4039 QUEBEC INC,Ultramar,"102 rue Olivier, LAURIER-STATION",Chaudière-Appalaches,G0S 1N0,46.545987,-71.631288,176.9,202.9,242.9,2,,1,2026-05-05 14:01
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,179.9,204.9,245.9,3,,1,2026-05-05 14:01
+Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,179.9,204.9,,3,,1,2026-05-05 14:01
+SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,179.9,204.9,245.9,3,,1,2026-05-05 14:01
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-05 14:01
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-05 14:01
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-05 14:01
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-05 14:01

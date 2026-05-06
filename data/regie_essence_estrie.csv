@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9413-7676  Québec inc.,Irving,"1864 rue Dunant, Sherbrooke",Estrie,J1H 0A4,45.377362,-71.907648,182.9,207.9,239.9,1,oui,1,2026-05-06 06:33
-Couche-Tard #364,Petro-Canada,"700 rue Galt ouest, Sherbrooke",Estrie,J1H 1Z2,45.393805,-71.896575,183.9,209.9,,2,,1,2026-05-06 06:33
-Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,184.4,208.4,241.9,3,,1,2026-05-06 06:33
-Costco Sherbrooke,Costco,"3800 boul. Monseigneur-Fortier, Sherbrooke",Estrie,J1L 0C8,45.423789,-71.961978,184.9,204.9,,4,,1,2026-05-06 06:33
-4317955 CANADA INC,Petro-Canada,"763 J.-André-Deragon , Cowansville",Estrie,J2K 0L2,45.2127,-72.715898,185.9,221.9,252.9,5,,1,2026-05-06 06:33
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-05-06 06:33
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-05-06 06:33
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-05-06 06:33
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-05-06 06:33
+Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,184.4,208.4,241.9,1,oui,1,2026-05-06 11:53
+Costco Sherbrooke,Costco,"3800 boul. Monseigneur-Fortier, Sherbrooke",Estrie,J1L 0C8,45.423789,-71.961978,184.9,204.9,,2,,1,2026-05-06 11:53
+4317955 CANADA INC,Petro-Canada,"763 J.-André-Deragon , Cowansville",Estrie,J2K 0L2,45.2127,-72.715898,185.9,221.9,252.9,3,,1,2026-05-06 11:53
+9408-4639 Québec inc.,Shell,"1550 rue Sherbrooke, Magog",Estrie,J1X 2T3,45.275428,-72.132457,185.9,213.9,241.9,3,,1,2026-05-06 11:53
+9524-1774 Quebec Inc.,Ultramar,"115 rue Principale, Bedford (ville & canton)",Estrie,J0J 2B0,45.120644,-72.991003,185.9,212.9,242.9,3,,1,2026-05-06 11:53
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-05-06 11:53
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-05-06 11:53
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-05-06 11:53
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-05-06 11:53

@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Alimentation PLD,Petro-Canada,"160 rte 170, L'Anse-Saint-Jean",Saguenay-Lac-Saint-Jean,G0V 1J0,48.196669,-70.245215,175.1,200.1,239.9,1,oui,1,2026-05-12 04:14
-Dépanneur Sprint La Baie,Petro-Canada,"391 boul. de la Grande-Baie Sud, Saguenay",Saguenay-Lac-Saint-Jean,G7B 2C6,48.331986,-70.881141,175.1,200.1,239.9,1,oui,1,2026-05-12 04:14
-La Société Canadian Tire Ltée,Canadian Tire,"225 boul. de la Grande-Baie nord, Saguenay",Saguenay-Lac-Saint-Jean,G7B 3K1,48.336551,-70.882167,175.1,200.1,239.9,1,oui,1,2026-05-12 04:14
-Nutrinor Energies Ville de la Baie,Nutrinor Énergies,"1623 rue Bagot, Saguenay",Saguenay-Lac-Saint-Jean,G7B 2P9,48.336456,-70.889349,175.1,198.1,233.9,1,oui,1,2026-05-12 04:14
-Super Sagamie Desbiens,,"3575 boul. Harvey, Saguenay",Saguenay-Lac-Saint-Jean,G7X 3B5,48.412108,-71.231414,175.4,200.4,,5,,1,2026-05-12 04:14
-ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-05-12 04:14
-ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-05-12 04:14
-ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-05-12 04:14
-ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-05-12 04:14
+BCP IV Service Station LP,Mobil,"1101 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B5,48.40924,-71.052572,174.6,200.9,247.2,1,oui,1,2026-05-12 13:20
+La Société Canadian Tire Ltée,Canadian Tire,"225 boul. de la Grande-Baie nord, Saguenay",Saguenay-Lac-Saint-Jean,G7B 3K1,48.336551,-70.882167,175.1,200.1,239.9,2,,1,2026-05-12 13:20
+Nutrinor Energies Ville de la Baie,Nutrinor Énergies,"1623 rue Bagot, Saguenay",Saguenay-Lac-Saint-Jean,G7B 2P9,48.336456,-70.889349,175.1,198.1,233.9,2,,1,2026-05-12 13:20
+9030-3512 QUEBEC INC,Ultramar,"266 rue Malraux, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 6R9,48.39744,-71.081011,175.3,202.9,247.9,4,,1,2026-05-12 13:20
+Couche-Tard #1002,Esso,"1455 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4C1,48.403131,-71.059187,175.3,200.9,,4,,1,2026-05-12 13:20
+ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-05-12 13:20
+ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-05-12 13:20
+ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-05-12 13:20
+ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-05-12 13:20

@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Filgo Bedford,Sonic,"75 rue Cyr, CP 988, Bedford (ville & canton)",Estrie,J0J 1A0,45.125926,-72.986748,176.9,198.9,229.9,1,oui,1,2026-05-21 18:19
-Magasin Coop de Solidarité Lac-Drolet,Harnois,"670 rue Principale, Lac-Drolet",Estrie,G0Y 1C0,45.71854,-70.847666,178.9,203.9,,2,,1,2026-05-21 18:19
-Gestion Milton inc.,Esso,"12 rte 137 nord, Sainte-Cécile-de-Milton",Estrie,J0E 2C0,45.483652,-72.758766,179.9,199.9,235.9,3,,1,2026-05-21 18:19
-Couche-Tard #1128,Irving,"292 rue Main est, Coaticook",Estrie,J1A 1N5,45.132234,-71.799052,180.9,205.9,229.9,4,,1,2026-05-21 18:19
-Couche-Tard #738,Irving,"87 rue Main est, Coaticook",Estrie,J1A 1N1,45.132777,-71.803552,180.9,205.9,,4,,1,2026-05-21 18:19
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-05-21 18:19
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-05-21 18:19
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-05-21 18:19
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-05-21 18:19
+Entreprises Clément Lavoie Inc,Esso,"92 rue Saint-Jacques sud, Coaticook",Estrie,J1A 2N8,45.130796,-71.79729,180.9,205.9,239.9,1,oui,1,2026-05-21 20:02
+Trans Auto G.F inc.,Eko,"453 rte 204, Saint-Ludger",Estrie,G0M 1W0,45.737909,-70.691292,183.2,208.2,231.9,2,,1,2026-05-21 20:02
+La Société Canadian Tire Ltée,Canadian Tire,"3592 rue Laval, Lac-Mégantic",Estrie,G6B 1A4,45.589372,-70.904368,184.9,206.9,235.9,3,,1,2026-05-21 20:02
+Costco Sherbrooke,Costco,"3800 boul. Monseigneur-Fortier, Sherbrooke",Estrie,J1L 0C8,45.423789,-71.961978,185.9,205.9,,4,,1,2026-05-21 20:02
+Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,186.4,210.4,237.9,5,,1,2026-05-21 20:02
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-05-21 20:02
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-05-21 20:02
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-05-21 20:02
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-05-21 20:02

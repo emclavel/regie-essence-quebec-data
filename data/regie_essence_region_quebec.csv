@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Épicerie St-Ubalde,Sonic,"457 rue Saint-Paul, Saint-Ubalde",Capitale-Nationale,G0A 4L0,46.756968,-72.272702,186.4,208.9,239.9,1,oui,1,2026-05-24 13:01
-CANEX-Canadian Forces Exchange System,Esso,"605 boul. Jacques-Cartier, Shannon",Capitale-Nationale,G3S 1G1,46.887354,-71.510096,186.9,211.9,235.9,2,,1,2026-05-24 13:01
-Couche-Tard #1345,Couche-Tard,"432 boul. Jacques-Cartier, Shannon",Capitale-Nationale,G0A 4N0,46.885825,-71.517038,186.9,211.9,239.9,2,,1,2026-05-24 13:01
-Dépanneur SPRINT Shannon,Petro-Canada,"435 boul. Jacques-Cartier, Shannon",Capitale-Nationale,G0A 4N0,46.886957,-71.516925,186.9,211.9,235.9,2,,1,2026-05-24 13:01
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,188.9,208.9,,5,,1,2026-05-24 13:01
-9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,184.9,209.9,237.9,1,oui,1,2026-05-24 13:01
-Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,184.9,209.9,,1,oui,1,2026-05-24 13:01
-SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,184.9,209.9,237.9,1,oui,1,2026-05-24 13:01
-9396-2041 QUEBEC INC,Ultramar,"575 boul. Renault, BEAUCEVILLE",Chaudière-Appalaches,G5X 0B9,46.210589,-70.774712,186.2,208.2,229.9,4,,1,2026-05-24 13:01
-Accommodation St-Odilon Inc,Harnois,"254 rue Langevin, Saint-Odilon",Chaudière-Appalaches,G0S 3A0,46.350074,-70.664957,186.2,211.9,235.9,4,,1,2026-05-24 13:01
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-24 13:01
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-24 13:01
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-24 13:01
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-24 13:01
+Épicerie St-Ubalde,Sonic,"457 rue Saint-Paul, Saint-Ubalde",Capitale-Nationale,G0A 4L0,46.756968,-72.272702,186.4,208.9,239.9,1,oui,1,2026-05-24 15:17
+CANEX-Canadian Forces Exchange System,Esso,"605 boul. Jacques-Cartier, Shannon",Capitale-Nationale,G3S 1G1,46.887354,-71.510096,186.9,211.9,235.9,2,,1,2026-05-24 15:17
+Couche-Tard #1345,Couche-Tard,"432 boul. Jacques-Cartier, Shannon",Capitale-Nationale,G0A 4N0,46.885825,-71.517038,186.9,211.9,239.9,2,,1,2026-05-24 15:17
+Dépanneur SPRINT Shannon,Petro-Canada,"435 boul. Jacques-Cartier, Shannon",Capitale-Nationale,G0A 4N0,46.886957,-71.516925,186.9,211.9,235.9,2,,1,2026-05-24 15:17
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,188.9,208.9,,5,,1,2026-05-24 15:17
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,184.9,209.9,237.9,1,oui,1,2026-05-24 15:17
+Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,184.9,209.9,,1,oui,1,2026-05-24 15:17
+SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,184.9,209.9,237.9,1,oui,1,2026-05-24 15:17
+9396-2041 QUEBEC INC,Ultramar,"575 boul. Renault, BEAUCEVILLE",Chaudière-Appalaches,G5X 0B9,46.210589,-70.774712,186.2,208.2,229.9,4,,1,2026-05-24 15:17
+Accommodation St-Odilon Inc,Harnois,"254 rue Langevin, Saint-Odilon",Chaudière-Appalaches,G0S 3A0,46.350074,-70.664957,186.2,211.9,235.9,4,,1,2026-05-24 15:17
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-24 15:17
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-24 15:17
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-24 15:17
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-24 15:17

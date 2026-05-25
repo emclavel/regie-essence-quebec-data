@@ -1,26 +1,26 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Dépanneur Pétro Joliette inc.,Petro-Canada,"533 rue Saint-Charles Borromée, Joliette",Lanaudière,J6E 4S5,46.036211,-73.442595,181.4,208.4,229.9,1,oui,1,2026-05-25 04:21
-9072-8254 Québec inc.,Shell,"800 boul. de L'Industrie, Saint-Paul",Lanaudière,J0K 3E0,45.988381,-73.446868,181.9,209.9,239.9,2,,1,2026-05-25 04:21
-9081-1860 QUEBEC INC,Ultramar,"5334 ch. de Saint-Jean, Saint-Félix-de-Valois",Lanaudière,J0K 2M0,46.168227,-73.437948,181.9,208.9,229.9,2,,1,2026-05-25 04:21
-9089-6796 Québec inc.,Harnois,"6940 ch. Brassard, Saint-Zénon",Lanaudière,J0K 3N0,46.596157,-73.844001,181.9,206.9,229.9,2,,1,2026-05-25 04:21
-9206-7248 QUEBEC INC,Petro-Canada,"615 de L'Industrie , Saint-Paul",Lanaudière,J0K 3E0,45.995776,-73.458262,181.9,207.9,245.9,2,,1,2026-05-25 04:21
-Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.495217,-74.137358,163.9,192.9,219.9,1,oui,1,2026-05-25 04:21
-9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,175.9,203.9,239.9,2,,1,2026-05-25 04:21
-9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,175.9,202.9,238.9,2,,1,2026-05-25 04:21
-Comptoir d'essence Bélisle,Bélisle,"1345 ch. Oka, Oka",Laurentides,J0N 1E0,45.500242,-74.021853,175.9,195.9,225.9,2,,1,2026-05-25 04:21
-Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,175.9,201.9,231.9,2,,1,2026-05-25 04:21
-Super Gaz ltée #801,Super Gaz,"3033 boul. Cartier ouest, Laval",Laval,H7V 1J3,45.542786,-73.726692,182.9,207.9,235.9,1,oui,1,2026-05-25 04:21
-Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,184.9,204.9,,2,,1,2026-05-25 04:21
-La Société Canadian Tire Ltée,Canadian Tire,"1454 boul. Le Corbusier, Laval",Laval,H7N 6J5,45.559877,-73.727227,184.9,210.9,,2,,1,2026-05-25 04:21
-9392-7689 QC Inc,Shell,"1625 boul. Saint-Martin ouest, Laval",Laval,H7S 1N1,45.568602,-73.727461,186.9,214.9,,4,,1,2026-05-25 04:21
-La Société Canadian Tire Ltée,Canadian Tire,"574 boul. Curé-Labelle, Laval",Laval,H7V 2T2,45.537143,-73.740238,186.9,211.9,235.9,4,,1,2026-05-25 04:21
-9420-2355 QUEBEC INC,Petro-Canada,"615 Principale , Rivière-Beaudette",Montérégie,J0P 1R0,45.219673,-74.321675,176.9,199.9,244.9,1,oui,1,2026-05-25 04:21
-Couche-Tard #1045,Esso,"100 aut. 20, Rivière-Beaudette",Montérégie,J0P 1R0,45.212178,-74.338589,176.9,201.9,247.9,1,oui,1,2026-05-25 04:21
-9196-9261 QUEBEC INC,Petro-Canada,"120 235 , Ange-Gardien",Montérégie,J0E 1E0,45.362099,-72.935326,177.9,203.9,238.9,3,,1,2026-05-25 04:21
-9493-46189 Quebec INC,Ultramar,"126 route 235, ANGE-GARDIEN",Montérégie,J0E 1E0,45.36103,-72.935681,177.9,204.9,239.9,3,,1,2026-05-25 04:21
-Couche-Tard #1013,Couche-Tard,"101 rte 235, Ange-Gardien",Montérégie,J0E 1E0,45.364709,-72.933214,177.9,202.9,239.9,3,,1,2026-05-25 04:21
-9338-3388 Québec inc.,Shell,"13200 rue Sherbrooke est, Montréal",Montréal,H1A 1C1,45.65877,-73.508259,181.9,209.9,,1,oui,1,2026-05-25 04:21
-Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,181.9,201.9,,1,oui,1,2026-05-25 04:21
-Station d'essence Costco,Costco,"9403 boul. des Sciences, Montréal",Montréal,H1J 0A6,45.623187,-73.5551,181.9,201.9,,1,oui,1,2026-05-25 04:21
-9338-3388 Québec inc.,Shell,"9080 boul. Maurice-Duplessis, Montréal",Montréal,H1E 6P7,45.643269,-73.573212,183.9,211.9,235.9,4,,1,2026-05-25 04:21
-Super Gaz ltée   # 825,Super Gaz,"14305 boul. de Pierrefonds, Montréal",Montréal,H9H 1Z2,45.492017,-73.852732,183.9,208.9,235.9,4,,1,2026-05-25 04:21
+Dépanneur Pétro Joliette inc.,Petro-Canada,"533 rue Saint-Charles Borromée, Joliette",Lanaudière,J6E 4S5,46.036211,-73.442595,181.4,208.4,229.9,1,oui,1,2026-05-25 08:31
+9072-8254 Québec inc.,Shell,"800 boul. de L'Industrie, Saint-Paul",Lanaudière,J0K 3E0,45.988381,-73.446868,181.9,209.9,239.9,2,,1,2026-05-25 08:31
+9081-1860 QUEBEC INC,Ultramar,"5334 ch. de Saint-Jean, Saint-Félix-de-Valois",Lanaudière,J0K 2M0,46.168227,-73.437948,181.9,208.9,229.9,2,,1,2026-05-25 08:31
+9089-6796 Québec inc.,Harnois,"6940 ch. Brassard, Saint-Zénon",Lanaudière,J0K 3N0,46.596157,-73.844001,181.9,206.9,229.9,2,,1,2026-05-25 08:31
+9206-7248 QUEBEC INC,Petro-Canada,"615 de L'Industrie , Saint-Paul",Lanaudière,J0K 3E0,45.995776,-73.458262,181.9,207.9,245.9,2,,1,2026-05-25 08:31
+Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.495217,-74.137358,163.9,192.9,219.9,1,oui,1,2026-05-25 08:31
+Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,173.9,199.9,231.9,2,,1,2026-05-25 08:31
+9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,175.9,203.9,239.9,3,,1,2026-05-25 08:31
+9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,175.9,202.9,238.9,3,,1,2026-05-25 08:31
+Comptoir d'essence Bélisle,Bélisle,"1345 ch. Oka, Oka",Laurentides,J0N 1E0,45.500242,-74.021853,175.9,195.9,225.9,3,,1,2026-05-25 08:31
+Super Gaz ltée #801,Super Gaz,"3033 boul. Cartier ouest, Laval",Laval,H7V 1J3,45.542786,-73.726692,182.9,207.9,235.9,1,oui,1,2026-05-25 08:31
+Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,186.9,206.9,,2,,1,2026-05-25 08:31
+9202-7077 Quebec Inc,Ultramar,"2 Boul. Sainte-Rose est, LAVAL",Laval,H7L 3K4,45.624085,-73.77503,187.9,214.9,239.9,3,,1,2026-05-25 08:31
+9411-6092 Québec Inc.,Shell,"508 boul. Curé-Labelle, Laval",Laval,H7L 4T7,45.592098,-73.786082,187.9,215.9,235.9,3,,1,2026-05-25 08:31
+9440-3524 Québec Inc.,Esso,"165 boul. Curé-Labelle, Laval",Laval,H7L 2Z6,45.606906,-73.791442,187.9,212.9,235.9,3,,1,2026-05-25 08:31
+9420-2355 QUEBEC INC,Petro-Canada,"615 Principale , Rivière-Beaudette",Montérégie,J0P 1R0,45.219673,-74.321675,176.9,199.9,244.9,1,oui,1,2026-05-25 08:31
+Couche-Tard #1045,Esso,"100 aut. 20, Rivière-Beaudette",Montérégie,J0P 1R0,45.212178,-74.338589,176.9,201.9,247.9,1,oui,1,2026-05-25 08:31
+9196-9261 QUEBEC INC,Petro-Canada,"120 235 , Ange-Gardien",Montérégie,J0E 1E0,45.362099,-72.935326,177.9,203.9,238.9,3,,1,2026-05-25 08:31
+9493-46189 Quebec INC,Ultramar,"126 route 235, ANGE-GARDIEN",Montérégie,J0E 1E0,45.36103,-72.935681,177.9,204.9,239.9,3,,1,2026-05-25 08:31
+Couche-Tard #1013,Couche-Tard,"101 rte 235, Ange-Gardien",Montérégie,J0E 1E0,45.364709,-72.933214,177.9,202.9,239.9,3,,1,2026-05-25 08:31
+Gestion Tomi Dupéré inc.,Ultramar,"12651 rue Sherbrooke est, MONTRÉAL",Montréal,H1A 3V9,45.653337,-73.511009,181.9,208.9,239.9,1,oui,1,2026-05-25 08:31
+La Société Canadian Tire Ltée,Canadian Tire,"12645 rue Sherbrooke est, Montréal",Montréal,H1B 1C8,45.652254,-73.511496,181.9,206.9,239.9,1,oui,1,2026-05-25 08:31
+Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,184.9,204.9,,3,,1,2026-05-25 08:31
+Costco Montréal Centre,Costco,"300 rue Bridge, Montréal",Montréal,H3K 2C3,45.485765,-73.553519,184.9,204.9,,3,,1,2026-05-25 08:31
+Station d'essence Costco,Costco,"9403 boul. des Sciences, Montréal",Montréal,H1J 0A6,45.623187,-73.5551,184.9,204.9,,3,,1,2026-05-25 08:31

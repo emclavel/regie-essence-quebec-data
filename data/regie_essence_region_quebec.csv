@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Épicerie St-Ubalde,Sonic,"457 rue Saint-Paul, Saint-Ubalde",Capitale-Nationale,G0A 4L0,46.756968,-72.272702,186.4,208.9,239.9,1,oui,1,2026-05-25 19:02
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,186.9,206.9,,2,,1,2026-05-25 19:02
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,186.9,206.9,,2,,1,2026-05-25 19:02
-9403-1135 Québec Inc.,Pétro-T,"300 rue Saint-Charles, Notre-Dame-de-Portneuf",Capitale-Nationale,G0A 2Y0,46.708901,-71.891093,187.9,212.9,235.9,4,,1,2026-05-25 19:02
-9503-2264 Québec Inc.,Harnois,"34 rte de la Pinière, Pont-Rouge",Capitale-Nationale,G3H 2Z3,46.740278,-71.681196,187.9,212.9,235.9,4,,1,2026-05-25 19:02
-9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,184.9,209.9,237.9,1,oui,1,2026-05-25 19:02
-9370-4633 Quebec Inc.,Crevier,"959 rue de l'Église, SAINT-ANTOINE-DE-TILLY",Chaudière-Appalaches,G0S 2C0,46.662089,-71.571217,184.9,211.9,239.9,1,oui,1,2026-05-25 19:02
-Couche-Tard #597,Petro-Canada,"470 rte 273, Saint-Apollinaire",Chaudière-Appalaches,G0S 2E0,46.617125,-71.516129,184.9,210.9,247.9,1,oui,1,2026-05-25 19:02
-Couche-Tard inc.,Esso,"495 rue Laurier, sortie 291, Saint-Apollinaire",Chaudière-Appalaches,G0S 2E0,46.61528,-71.516199,184.9,209.9,235.9,1,oui,1,2026-05-25 19:02
-Dépanneur Sprint St-Apollinaire,Petro-Canada,"421 rte 273, Saint-Apollinaire",Chaudière-Appalaches,G0S 2E0,46.612651,-71.511319,184.9,209.9,235.9,1,oui,1,2026-05-25 19:02
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-25 19:02
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-25 19:02
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-25 19:02
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-25 19:02
+Épicerie St-Ubalde,Sonic,"457 rue Saint-Paul, Saint-Ubalde",Capitale-Nationale,G0A 4L0,46.756968,-72.272702,186.4,208.9,239.9,1,oui,1,2026-05-25 23:36
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,186.9,206.9,,2,,1,2026-05-25 23:36
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,186.9,206.9,,2,,1,2026-05-25 23:36
+9403-1135 Québec Inc.,Pétro-T,"300 rue Saint-Charles, Notre-Dame-de-Portneuf",Capitale-Nationale,G0A 2Y0,46.708901,-71.891093,187.9,212.9,235.9,4,,1,2026-05-25 23:36
+9409-9470 Québec Inc.,Petro-Canada,"90 rte 138, Donnacona",Capitale-Nationale,G3M 1B3,46.68197,-71.731664,187.9,223.9,264.9,4,,1,2026-05-25 23:36
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,184.9,209.9,237.9,1,oui,1,2026-05-25 23:36
+9370-4633 Quebec Inc.,Crevier,"959 rue de l'Église, SAINT-ANTOINE-DE-TILLY",Chaudière-Appalaches,G0S 2C0,46.662089,-71.571217,184.9,211.9,239.9,1,oui,1,2026-05-25 23:36
+Couche-Tard #597,Petro-Canada,"470 rte 273, Saint-Apollinaire",Chaudière-Appalaches,G0S 2E0,46.617125,-71.516129,184.9,210.9,247.9,1,oui,1,2026-05-25 23:36
+Couche-Tard inc.,Esso,"495 rue Laurier, sortie 291, Saint-Apollinaire",Chaudière-Appalaches,G0S 2E0,46.61528,-71.516199,184.9,209.9,235.9,1,oui,1,2026-05-25 23:36
+Dépanneur Sprint St-Apollinaire,Petro-Canada,"421 rte 273, Saint-Apollinaire",Chaudière-Appalaches,G0S 2E0,46.612651,-71.511319,184.9,209.9,235.9,1,oui,1,2026-05-25 23:36
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-25 23:36
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-25 23:36
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-25 23:36
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-25 23:36

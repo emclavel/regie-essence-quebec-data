@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,184.9,204.9,,1,oui,1,2026-05-27 08:52
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,184.9,204.9,,1,oui,1,2026-05-27 08:52
-BCP IV Service Station LP,Mobil,"4535 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 7L9,46.848071,-71.242766,185.9,211.9,234.9,3,,1,2026-05-27 08:52
-Épicerie St-Ubalde,Sonic,"457 rue Saint-Paul, Saint-Ubalde",Capitale-Nationale,G0A 4L0,46.756968,-72.272702,186.4,208.9,239.9,4,,1,2026-05-27 08:52
-9049-7777 Québec Inc.,Petro-Canada,"3355 av. Duval, Québec",Capitale-Nationale,G1L 4P6,46.837285,-71.255006,186.9,211.9,235.9,5,,1,2026-05-27 08:52
-9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,184.9,209.9,237.9,1,oui,1,2026-05-27 08:52
-9370-4633 Quebec Inc.,Crevier,"959 rue de l'Église, SAINT-ANTOINE-DE-TILLY",Chaudière-Appalaches,G0S 2C0,46.662089,-71.571217,184.9,211.9,239.9,1,oui,1,2026-05-27 08:52
-Coop Avantis,Sonic,"119 rue Saint-Georges, Sainte-Agathe-de-Lotbinière",Chaudière-Appalaches,G0S 2A0,46.38436,-71.409802,184.9,206.9,239.9,1,oui,1,2026-05-27 08:52
-Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,184.9,204.9,,1,oui,1,2026-05-27 08:52
-Couche-Tard #597,Petro-Canada,"470 rte 273, Saint-Apollinaire",Chaudière-Appalaches,G0S 2E0,46.617125,-71.516129,184.9,210.9,247.9,1,oui,1,2026-05-27 08:52
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-27 08:52
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-27 08:52
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-27 08:52
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-27 08:52
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,182.9,202.9,,1,oui,1,2026-05-27 12:37
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,182.9,202.9,,1,oui,1,2026-05-27 12:37
+9310-5666 Québec Inc.,Esso,"4680 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 3A5,46.849652,-71.241687,185.9,211.9,235.9,3,,1,2026-05-27 12:37
+BCP IV Service Station LP,Mobil,"4535 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 7L9,46.848071,-71.242766,185.9,211.9,234.9,3,,1,2026-05-27 12:37
+Harnois Énergies Inc.,Esso,"4105 av. 4 est, Québec",Capitale-Nationale,G1H 3N2,46.843689,-71.244292,185.9,211.9,235.9,3,,1,2026-05-27 12:37
+Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,182.9,202.9,,1,oui,1,2026-05-27 12:37
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,184.9,209.9,237.9,2,,1,2026-05-27 12:37
+9370-4633 Quebec Inc.,Crevier,"959 rue de l'Église, SAINT-ANTOINE-DE-TILLY",Chaudière-Appalaches,G0S 2C0,46.662089,-71.571217,184.9,211.9,239.9,2,,1,2026-05-27 12:37
+Coop Avantis,Sonic,"119 rue Saint-Georges, Sainte-Agathe-de-Lotbinière",Chaudière-Appalaches,G0S 2A0,46.38436,-71.409802,184.9,206.9,239.9,2,,1,2026-05-27 12:37
+Couche-Tard #597,Petro-Canada,"470 rte 273, Saint-Apollinaire",Chaudière-Appalaches,G0S 2E0,46.617125,-71.516129,184.9,210.9,247.9,2,,1,2026-05-27 12:37
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-05-27 12:37
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-05-27 12:37
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-05-27 12:37
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-05-27 12:37

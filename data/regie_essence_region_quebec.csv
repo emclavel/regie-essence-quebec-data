@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,175.9,195.9,,1,oui,1,2026-06-01 00:08
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,175.9,195.9,,1,oui,1,2026-06-01 00:08
-9310-5666 Québec Inc.,Esso,"4680 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 3A5,46.849652,-71.241687,177.9,203.9,225.9,3,,1,2026-06-01 00:08
-9319-6756 QUÉBEC INC.,Shell,"1254 rue 18, Québec",Capitale-Nationale,G1J 1Z3,46.835538,-71.226154,177.9,205.9,239.9,3,,1,2026-06-01 00:08
-BCP IV Service Station LP,Mobil,"4535 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 7L9,46.848071,-71.242766,177.9,203.9,224.9,3,,1,2026-06-01 00:08
-Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,175.9,195.9,,1,oui,1,2026-06-01 00:08
-9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,177.9,202.9,242.9,2,,1,2026-06-01 00:08
-Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,177.9,202.9,,2,,1,2026-06-01 00:08
-SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,177.9,202.9,242.9,2,,1,2026-06-01 00:08
-9483-5584 Québec Inc.,Harnois,"153 rue Principale, Frampton",Chaudière-Appalaches,G0R 1M0,46.46232,-70.808432,183.2,209.9,226.9,5,,1,2026-06-01 00:08
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-06-01 00:08
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-06-01 00:08
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-06-01 00:08
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-06-01 00:08
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,175.9,195.9,,1,oui,1,2026-06-01 06:21
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,175.9,195.9,,1,oui,1,2026-06-01 06:21
+9310-5666 Québec Inc.,Esso,"4680 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 3A5,46.849652,-71.241687,177.9,203.9,225.9,3,,1,2026-06-01 06:21
+9319-6756 QUÉBEC INC.,Shell,"1254 rue 18, Québec",Capitale-Nationale,G1J 1Z3,46.835538,-71.226154,177.9,205.9,239.9,3,,1,2026-06-01 06:21
+BCP IV Service Station LP,Mobil,"4535 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 7L9,46.848071,-71.242766,177.9,203.9,224.9,3,,1,2026-06-01 06:21
+Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,175.9,195.9,,1,oui,1,2026-06-01 06:21
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,177.9,202.9,242.9,2,,1,2026-06-01 06:21
+Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,177.9,202.9,,2,,1,2026-06-01 06:21
+SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,177.9,202.9,242.9,2,,1,2026-06-01 06:21
+9483-5584 Québec Inc.,Harnois,"153 rue Principale, Frampton",Chaudière-Appalaches,G0R 1M0,46.46232,-70.808432,183.2,209.9,226.9,5,,1,2026-06-01 06:21
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-06-01 06:21
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-06-01 06:21
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-06-01 06:21
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-06-01 06:21

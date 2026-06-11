@@ -1,26 +1,26 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Société pétrolière D.G. inc.,Les Huiles Berthier Inc,"390 rang de la Rivière-Bayonne sud, Berthierville",Lanaudière,J0K 1A0,46.090901,-73.203189,170.5,190.5,217.9,1,oui,1,2026-06-10 20:15
-9453-3734 Québec Inc.,Harnois,"850 av. Gilles-Villeneuve, Berthierville",Lanaudière,J0K 1A0,46.085936,-73.189105,170.7,196.9,219.9,2,,1,2026-06-10 20:15
-COUCHE-TARD INC,Ultramar,"1030 av. Gilles-Villeneuve, BERTHIERVILLE",Lanaudière,J0K 1A0,46.088331,-73.19397,170.7,197.9,219.9,2,,1,2026-06-10 20:15
-Harnois Énergies Inc.,Esso,"1031 av. Gilles-Villeneuve, Berthierville",Lanaudière,J0K 1A0,46.087684,-73.194659,170.7,196.9,219.9,2,,1,2026-06-10 20:15
-Harnois Énergies Inc.,Harnois,"212-B ch. de la Traverse, Saint-Ignace-de-Loyola",Lanaudière,J0K 2P0,46.068862,-73.131002,170.7,196.9,219.9,2,,1,2026-06-10 20:15
-9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,154.3,182.3,226.9,1,oui,1,2026-06-10 20:15
-Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,154.3,180.3,219.9,1,oui,1,2026-06-10 20:15
-Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,154.3,180.9,225.9,1,oui,1,2026-06-10 20:15
-Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.495217,-74.137358,163.9,192.9,219.9,4,,1,2026-06-10 20:15
-2759-6402 QUÉBEC INC.,Shell,"475 av. 25, Saint-Eustache",Laurentides,J7P 4Y1,45.578467,-73.877171,168.9,196.9,224.9,5,,1,2026-06-10 20:15
-Couche-Tard #1231,Esso,"497 boul. des Prairies, Laval",Laval,H7V 1B6,45.541671,-73.715594,169.9,196.9,226.9,1,oui,1,2026-06-10 20:15
-Couche-Tard #1238,Esso,"406 boul. Cartier ouest, Laval",Laval,H7N 2K9,45.549495,-73.712069,169.9,196.9,226.9,1,oui,1,2026-06-10 20:15
-9440-3524 Québec Inc.,Esso,"165 boul. Curé-Labelle, Laval",Laval,H7L 2Z6,45.606906,-73.791442,171.9,197.9,226.9,3,,1,2026-06-10 20:15
-A.L. Chouinard Auto Service inc.,Harnois,"3980 montée Masson, Laval",Laval,H7B 1C4,45.683329,-73.626547,171.9,197.9,219.9,3,,1,2026-06-10 20:15
-Dépanneur Sprint (boul. Ste-Rose),Petro-Canada,"4124 boul. Sainte-Rose, Laval",Laval,H7R 1W9,45.568586,-73.835665,171.9,196.9,224.9,3,,1,2026-06-10 20:15
-Dépanneur Chez Dan,Esso,"638 rte 219, Hemmingford (village & canton)",Montérégie,J0L 1H0,45.056453,-73.58454,163.9,191.9,226.9,1,oui,1,2026-06-10 20:15
-Dépanneur Lafleur,Shell,"342 rte 219 sud, Hemmingford (village & canton)",Montérégie,J0L 1H0,45.037907,-73.595789,163.9,191.9,226.9,1,oui,1,2026-06-10 20:15
-Pétroles L.D.J. inc.,Harnois,"70 rue de l'Église nord, Lacolle",Montérégie,J0J 1J0,45.087203,-73.372987,163.9,183.9,219.9,1,oui,1,2026-06-10 20:15
-Place Saint Bernard de Lacolle inc.,Esso,"105 ch. Pleasant Valley sud, Saint-Bernard-de-Lacolle",Montérégie,J0J 1V0,45.068058,-73.458484,163.9,189.9,219.9,1,oui,1,2026-06-10 20:15
-STATION SERVICE DAUPHINAIS INC,Ultramar,"61 route 202, LACOLLE",Montérégie,J0J 1J0,45.071388,-73.356293,163.9,190.9,219.9,1,oui,1,2026-06-10 20:15
-Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,171.9,191.9,,1,oui,1,2026-06-10 20:15
-Costco Montréal Centre,Costco,"300 rue Bridge, Montréal",Montréal,H3K 2C3,45.485765,-73.553519,171.9,191.9,,1,oui,1,2026-06-10 20:15
-Couche-Tard #1120,Couche-Tard,"10735 boul. Henri-Bourassa est, Montréal",Montréal,H1C 1G7,45.652573,-73.537037,171.9,198.9,219.9,1,oui,1,2026-06-10 20:15
-Couche-Tard #1161,Esso,"9600 boul. Maurice-Duplessis, Montréal",Montréal,H1E 1N2,45.650141,-73.561725,171.9,198.9,219.9,1,oui,1,2026-06-10 20:15
-Couche-Tard #1249,Esso,"13685 boul. Henri-Bourassa est, Montréal",Montréal,H1A 1B6,45.665276,-73.510737,171.9,198.9,226.9,1,oui,1,2026-06-10 20:15
+Société pétrolière D.G. inc.,Les Huiles Berthier Inc,"390 rang de la Rivière-Bayonne sud, Berthierville",Lanaudière,J0K 1A0,46.090901,-73.203189,170.5,190.5,217.9,1,oui,1,2026-06-11 01:48
+9453-3734 Québec Inc.,Harnois,"850 av. Gilles-Villeneuve, Berthierville",Lanaudière,J0K 1A0,46.085936,-73.189105,170.7,191.9,219.9,2,,1,2026-06-11 01:48
+COUCHE-TARD INC,Ultramar,"1030 av. Gilles-Villeneuve, BERTHIERVILLE",Lanaudière,J0K 1A0,46.088331,-73.19397,170.7,197.9,219.9,2,,1,2026-06-11 01:48
+Harnois Énergies Inc.,Esso,"1031 av. Gilles-Villeneuve, Berthierville",Lanaudière,J0K 1A0,46.087684,-73.194659,170.7,191.9,219.9,2,,1,2026-06-11 01:48
+Harnois Énergies Inc.,Harnois,"212-B ch. de la Traverse, Saint-Ignace-de-Loyola",Lanaudière,J0K 2P0,46.068862,-73.131002,170.7,191.9,219.9,2,,1,2026-06-11 01:48
+9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,154.3,182.3,226.9,1,oui,1,2026-06-11 01:48
+Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,154.3,180.3,219.9,1,oui,1,2026-06-11 01:48
+Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,154.3,180.9,228.9,1,oui,1,2026-06-11 01:48
+Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.495217,-74.137358,163.9,192.9,219.9,4,,1,2026-06-11 01:48
+Les Pétroles Bélisle & Bélisle inc.,Bélisle,"215 rue Saint-Laurent, Saint-Eustache",Laurentides,J7P 4W4,45.574991,-73.877942,168.9,188.9,223.9,5,,1,2026-06-11 01:48
+Dépanneur Sprint (boul. Ste-Rose),Petro-Canada,"4124 boul. Sainte-Rose, Laval",Laval,H7R 1W9,45.568586,-73.835665,171.9,196.9,224.9,1,oui,1,2026-06-11 01:48
+Super Gaz ltée #801,Super Gaz,"3033 boul. Cartier ouest, Laval",Laval,H7V 1J3,45.542786,-73.726692,171.9,196.9,217.9,1,oui,1,2026-06-11 01:48
+Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,172.9,192.9,,3,,1,2026-06-11 01:48
+Filgo Laval Curé-Labelle,Shell,"185 boul. Curé-Labelle, Laval",Laval,H7L 2Z9,45.6054249558,-73.7909557571,174.9,199.9,226.9,4,,1,2026-06-11 01:48
+9327-8505 Québec inc.,Shell,"4055 boul. Industriel, Laval",Laval,H7L 4S3,45.598223,-73.749996,175.9,203.9,224.9,5,,1,2026-06-11 01:48
+Dépanneur Chez Dan,Esso,"638 rte 219, Hemmingford (village & canton)",Montérégie,J0L 1H0,45.056453,-73.58454,163.9,191.9,226.9,1,oui,1,2026-06-11 01:48
+Dépanneur Lafleur,Shell,"342 rte 219 sud, Hemmingford (village & canton)",Montérégie,J0L 1H0,45.037907,-73.595789,163.9,191.9,226.9,1,oui,1,2026-06-11 01:48
+Pétroles L.D.J. inc.,Harnois,"70 rue de l'Église nord, Lacolle",Montérégie,J0J 1J0,45.087203,-73.372987,163.9,183.9,219.9,1,oui,1,2026-06-11 01:48
+Place Saint Bernard de Lacolle inc.,Esso,"105 ch. Pleasant Valley sud, Saint-Bernard-de-Lacolle",Montérégie,J0J 1V0,45.068058,-73.458484,163.9,189.9,219.9,1,oui,1,2026-06-11 01:48
+STATION SERVICE DAUPHINAIS INC,Ultramar,"61 route 202, LACOLLE",Montérégie,J0J 1J0,45.071388,-73.356293,163.9,190.9,219.9,1,oui,1,2026-06-11 01:48
+Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,171.9,191.9,,1,oui,1,2026-06-11 01:48
+Costco Montréal Centre,Costco,"300 rue Bridge, Montréal",Montréal,H3K 2C3,45.485765,-73.553519,171.9,191.9,,1,oui,1,2026-06-11 01:48
+Station d'essence Costco,Costco,"9403 boul. des Sciences, Montréal",Montréal,H1J 0A6,45.623187,-73.5551,171.9,191.9,,1,oui,1,2026-06-11 01:48
+Super Gaz ltée   # 825,Super Gaz,"14305 boul. de Pierrefonds, Montréal",Montréal,H9H 1Z2,45.492017,-73.852732,171.9,196.9,216.9,1,oui,1,2026-06-11 01:48
+Bonisoir Dépanneur NP,Petroplus,"13072 boul. de Pierrefonds, Montréal",Montréal,H9A 1A5,45.500444,-73.838618,174.9,,,5,,1,2026-06-11 01:48

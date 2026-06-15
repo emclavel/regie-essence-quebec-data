@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Couche-Tard #906,Irving,"2600 rue Saint-Hubert, Saguenay",Saguenay-Lac-Saint-Jean,G7X 8S3,48.40314,-71.250599,149.0,174.9,,1,oui,1,2026-06-15 14:26
-Couche-Tard #936,Irving,"3754 boul. du Royaume, Saguenay",Saguenay-Lac-Saint-Jean,G7X 1Y3,48.422936,-71.243563,149.0,174.9,213.9,1,oui,1,2026-06-15 14:26
-Couche-Tard #942,Irving,"3635 boul. du Royaume, Saguenay",Saguenay-Lac-Saint-Jean,G7X 9Z5,48.421137,-71.234999,149.0,174.9,213.9,1,oui,1,2026-06-15 14:26
-9218-1320 Québec inc.,Pétro-T,"2320 rue Dubose, Saguenay",Saguenay-Lac-Saint-Jean,G7S 5G5,48.400574,-71.145998,149.6,175.9,,4,,1,2026-06-15 14:26
-9328-5898 Québec inc.,Harnois,"1285 rue Des Champs-Élysées, Saguenay",Saguenay-Lac-Saint-Jean,G7H 5Y4,48.406769,-71.051965,149.6,175.9,212.9,4,,1,2026-06-15 14:26
-ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-06-15 14:26
-ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-06-15 14:26
-ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-06-15 14:26
-ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-06-15 14:26
+Dépanneur Sprint Panet,Petro-Canada,"3667 rue Panet, Saguenay",Saguenay-Lac-Saint-Jean,G7X 8T7,48.402262,-71.23757,149.0,174.0,223.9,1,oui,1,2026-06-15 17:42
+Super Sagamie 7 à 11,Énergie DDF,"972 ch. de la Réserve, Saguenay",Saguenay-Lac-Saint-Jean,G7J 3P5,48.419808,-71.100018,149.4,174.4,217.9,2,,1,2026-06-15 17:42
+Super Sagamie Desbiens,,"3575 boul. Harvey, Saguenay",Saguenay-Lac-Saint-Jean,G7X 3B5,48.412108,-71.231414,149.4,174.4,,2,,1,2026-06-15 17:42
+9218-1320 Québec inc.,Pétro-T,"2320 rue Dubose, Saguenay",Saguenay-Lac-Saint-Jean,G7S 5G5,48.400574,-71.145998,149.6,175.9,,4,,1,2026-06-15 17:42
+9328-5898 Québec inc.,Harnois,"1285 rue Des Champs-Élysées, Saguenay",Saguenay-Lac-Saint-Jean,G7H 5Y4,48.406769,-71.051965,149.6,175.9,212.9,4,,1,2026-06-15 17:42
+ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-06-15 17:42
+ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-06-15 17:42
+ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-06-15 17:42
+ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-06-15 17:42

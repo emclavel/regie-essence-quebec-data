@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-BCP IV Service Station LP,Mobil,"4535 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 7L9,46.848071,-71.242766,157.9,183.9,205.9,1,oui,1,2026-06-27 06:08
-9310-5666 Québec Inc.,Esso,"4680 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 3A5,46.849652,-71.241687,158.9,184.9,206.9,2,,1,2026-06-27 06:08
-Harnois Énergies Inc.,Esso,"4105 av. 4 est, Québec",Capitale-Nationale,G1H 3N2,46.843689,-71.244292,158.9,184.9,206.9,2,,1,2026-06-27 06:08
-IB services inc.,Eko,"285 rue 18, Québec",Capitale-Nationale,G1L 2E1,46.831485,-71.235212,158.9,183.9,209.9,2,,1,2026-06-27 06:08
-9049-7777 Québec Inc.,Petro-Canada,"3355 av. Duval, Québec",Capitale-Nationale,G1L 4P6,46.837285,-71.255006,159.9,184.9,206.9,5,,1,2026-06-27 06:08
-9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,162.9,188.9,206.9,1,oui,1,2026-06-27 06:08
-Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,162.9,182.9,,1,oui,1,2026-06-27 06:08
-DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,162.9,189.9,,1,oui,1,2026-06-27 06:08
-"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,162.9,193.9,206.9,1,oui,1,2026-06-27 06:08
-Harnois Énergies Inc.,Esso,"2061 rang de la Rivière, Saint-Isidore",Chaudière-Appalaches,G0S 2S0,46.545239,-71.140995,162.9,188.9,206.9,1,oui,1,2026-06-27 06:08
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-06-27 06:08
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-06-27 06:08
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-06-27 06:08
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-06-27 06:08
+BCP IV Service Station LP,Mobil,"4535 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 7L9,46.848071,-71.242766,157.9,183.9,205.9,1,oui,1,2026-06-27 08:08
+9310-5666 Québec Inc.,Esso,"4680 boul. Henri-Bourassa, Québec",Capitale-Nationale,G1H 3A5,46.849652,-71.241687,158.9,184.9,206.9,2,,1,2026-06-27 08:08
+Harnois Énergies Inc.,Esso,"4105 av. 4 est, Québec",Capitale-Nationale,G1H 3N2,46.843689,-71.244292,158.9,184.9,206.9,2,,1,2026-06-27 08:08
+IB services inc.,Eko,"285 rue 18, Québec",Capitale-Nationale,G1L 2E1,46.831485,-71.235212,158.9,183.9,209.9,2,,1,2026-06-27 08:08
+9049-7777 Québec Inc.,Petro-Canada,"3355 av. Duval, Québec",Capitale-Nationale,G1L 4P6,46.837285,-71.255006,159.9,184.9,206.9,5,,1,2026-06-27 08:08
+9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,162.9,188.9,206.9,1,oui,1,2026-06-27 08:08
+Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,162.9,182.9,,1,oui,1,2026-06-27 08:08
+DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,162.9,189.9,,1,oui,1,2026-06-27 08:08
+"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,162.9,193.9,206.9,1,oui,1,2026-06-27 08:08
+Harnois Énergies Inc.,Esso,"2061 rang de la Rivière, Saint-Isidore",Chaudière-Appalaches,G0S 2S0,46.545239,-71.140995,162.9,188.9,206.9,1,oui,1,2026-06-27 08:08
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-06-27 08:08
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-06-27 08:08
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-06-27 08:08
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-06-27 08:08

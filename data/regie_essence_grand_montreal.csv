@@ -1,26 +1,26 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-2425-2017 Québec Inc.,Shell,"567 rue Saint-Isidore, Saint-Lin–Laurentides",Lanaudière,J5M 2V1,45.846009,-73.756868,157.9,187.9,208.9,1,oui,1,2026-06-30 08:08
-9189-0509 QUEBEC INC,Ultramar,"648 Rang du Ruisseau des Anges sud, SAINT-ROCH-DE-L'ACHIGAN",Lanaudière,J0K 3H0,45.832754,-73.641681,162.9,189.9,204.9,2,,1,2026-06-30 08:08
-GARAGE BEAUDOIN BELANGER INC,Ultramar,"525 route 341, L'Épiphanie (ville & paroisse)",Lanaudière,J5X 3Z9,45.847267,-73.493262,162.9,189.9,218.9,2,,1,2026-06-30 08:08
-Harnois Énergies Inc.,Harnois,"10551 boul. Laurier, Terrebonne",Lanaudière,J7M 1V5,45.79166,-73.765134,162.9,188.9,204.9,2,,1,2026-06-30 08:08
-Les Pétroles Expert inc.,Shell,"469 rte 341, L'Épiphanie (ville & paroisse)",Lanaudière,J5X 4A7,45.840739,-73.481825,162.9,192.9,209.9,2,,1,2026-06-30 08:08
-9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,144.9,172.9,209.9,1,oui,1,2026-06-30 08:08
-Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,159.9,185.9,207.9,2,,1,2026-06-30 08:08
-Super Gaz ltée   # 812,Super Gaz,"2043 boul. Sainte-Sophie, Sainte-Sophie",Laurentides,J0R 1S0,45.823506,-73.889993,159.9,184.9,204.9,2,,1,2026-06-30 08:08
-9428-4726 Quebec Inc.,Ultramar,"2439 rue Sainte-Sophie, SAINTE-SOPHIE",Laurentides,J5J 2V3,45.816195,-73.904782,160.9,187.9,206.9,4,,1,2026-06-30 08:08
-Couche-Tard #651,Esso,"2400 boul. Sainte-Sophie, Sainte-Sophie",Laurentides,J0R 1S0,45.818936,-73.902618,160.9,185.9,206.9,4,,1,2026-06-30 08:08
-Harnois Énergies Inc.,Esso,"2025 boul. Arthur-Sauvé, Laval",Laval,H7R 3W8,45.553575,-73.869756,163.9,189.9,204.9,1,oui,1,2026-06-30 08:08
-Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,164.9,184.9,,2,,1,2026-06-30 08:08
-9397-0358 QUEBEC INC,Petro-Canada,"4560 440 (desserte sud) ouest, Laval",Laval,H7T 2P7,45.55944,-73.79028,166.8,192.9,217.9,3,,1,2026-06-30 08:08
-Couche-Tard #1233,Esso,"4575 aut. 440 (desserte nord) ouest, Laval",Laval,H7P 4W6,45.560672,-73.791579,166.8,193.9,206.9,3,,1,2026-06-30 08:08
-Couche-Tard #1073,Esso,"4600 aut. 440 ouest, Laval",Laval,H7T 2P7,45.56009,-73.789726,167.9,194.9,206.9,5,,1,2026-06-30 08:08
-La Coop Unifrontières,Sonic,"31 rue du Pont, Saint-Louis-de-Gonzague",Montérégie,J0S 1T0,45.215966,-73.993585,155.9,177.9,206.9,1,oui,1,2026-06-30 08:08
-2964-3723 quebec inc,Pétroles Maurice,"223 boul. Saint-Luc, Saint-Jean-sur-Richelieu",Montérégie,J2W 1C6,45.351932,-73.292317,156.9,176.9,197.9,2,,1,2026-06-30 08:08
-9363-6520 Québec Inc.,Shell,"1315 boul. Douglas, Saint-Jean-sur-Richelieu",Montérégie,J2W 0J2,45.342184,-73.284764,156.9,184.9,209.9,2,,1,2026-06-30 08:08
-Dépanneur Chez Dan,Esso,"638 rte 219, Hemmingford (village & canton)",Montérégie,J0L 1H0,45.056453,-73.58454,156.9,184.9,209.9,2,,1,2026-06-30 08:08
-Dépanneur Lafleur,Shell,"342 rte 219 sud, Hemmingford (village & canton)",Montérégie,J0L 1H0,45.037907,-73.595789,156.9,184.9,209.9,2,,1,2026-06-30 08:08
-9173-4996 QUEBEC INC,Shell,"4510 boul. Saint-Charles sud, Montréal",Montréal,H9H 3C8,45.462617,-73.870387,168.9,196.9,211.9,1,oui,1,2026-06-30 08:08
-Couche-Tard #241,Couche-Tard,"4930 boul. Saint-Charles, Montréal",Montréal,H9H 3E5,45.468771,-73.876247,168.9,195.9,,1,oui,1,2026-06-30 08:08
-9395-6977 Quebec inc.,Shell,"11052 boul. Pie-IX, Montréal",Montréal,H1H 4B4,45.592187,-73.639319,169.8,197.9,211.9,3,,1,2026-06-30 08:08
-Couche-Tard #1157,Esso,"11300 boul. Lacordaire, Montréal",Montréal,H1G 4J8,45.606301,-73.619961,169.8,196.9,206.9,3,,1,2026-06-30 08:08
-Couche-Tard #1167,Esso,"10433 boul. PieIX, Montréal",Montréal,H1H 3Z9,45.587462,-73.632822,169.8,196.9,206.9,3,,1,2026-06-30 08:08
+2425-2017 Québec Inc.,Shell,"567 rue Saint-Isidore, Saint-Lin–Laurentides",Lanaudière,J5M 2V1,45.846009,-73.756868,161.9,187.9,208.9,1,oui,1,2026-06-30 11:27
+Couche-Tard #1296,Esso,"7260 boul. Laurier, Terrebonne",Lanaudière,J7M 0K6,45.766896,-73.729789,161.9,188.9,209.9,1,oui,1,2026-06-30 11:27
+Sobeys Capital Inc.,Shell,"7271 boul. Laurier, Terrebonne",Lanaudière,J7M 1V9,45.767399,-73.729694,161.9,189.9,217.9,1,oui,1,2026-06-30 11:27
+9189-0509 QUEBEC INC,Ultramar,"648 Rang du Ruisseau des Anges sud, SAINT-ROCH-DE-L'ACHIGAN",Lanaudière,J0K 3H0,45.832754,-73.641681,162.9,189.9,204.9,4,,1,2026-06-30 11:27
+Couche-Tard #1138,Couche-Tard,"2200 av. du Marché, Saint-Lin–Laurentides",Lanaudière,J5M 0G3,45.825957,-73.758926,162.9,187.9,206.9,4,,1,2026-06-30 11:27
+Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,159.9,185.9,207.9,1,oui,1,2026-06-30 11:27
+Super Gaz ltée   # 812,Super Gaz,"2043 boul. Sainte-Sophie, Sainte-Sophie",Laurentides,J0R 1S0,45.823506,-73.889993,159.9,184.9,204.9,1,oui,1,2026-06-30 11:27
+9428-4726 Quebec Inc.,Ultramar,"2439 rue Sainte-Sophie, SAINTE-SOPHIE",Laurentides,J5J 2V3,45.816195,-73.904782,160.9,187.9,206.9,3,,1,2026-06-30 11:27
+Couche-Tard #651,Esso,"2400 boul. Sainte-Sophie, Sainte-Sophie",Laurentides,J0R 1S0,45.818936,-73.902618,160.9,185.9,206.9,3,,1,2026-06-30 11:27
+Filgo Ste-Sophie,Shell,"1040 boul. Sainte-Sophie, Sainte-Sophie",Laurentides,J5J 2V2,45.832178,-73.881174,160.9,185.9,206.9,3,,1,2026-06-30 11:27
+Harnois Énergies Inc.,Esso,"2025 boul. Arthur-Sauvé, Laval",Laval,H7R 3W8,45.553575,-73.869756,163.9,189.9,204.9,1,oui,1,2026-06-30 11:27
+KEVIN PERREAULT,Ultramar,"4980 Boul. Arthur-Sauvé, LAVAL",Laval,H7R 3X1,45.551476,-73.868973,163.9,190.9,,1,oui,1,2026-06-30 11:27
+Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,164.9,184.9,,3,,1,2026-06-30 11:27
+9397-0358 QUEBEC INC,Petro-Canada,"4560 440 (desserte sud) ouest, Laval",Laval,H7T 2P7,45.55944,-73.79028,166.8,192.9,217.9,4,,1,2026-06-30 11:27
+Couche-Tard #1233,Esso,"4575 aut. 440 (desserte nord) ouest, Laval",Laval,H7P 4W6,45.560672,-73.791579,166.8,193.9,206.9,4,,1,2026-06-30 11:27
+9363-6520 Québec Inc.,Shell,"1315 boul. Douglas, Saint-Jean-sur-Richelieu",Montérégie,J2W 0J2,45.342184,-73.284764,156.9,184.9,209.9,1,oui,1,2026-06-30 11:27
+Dépanneur Chez Dan,Esso,"638 rte 219, Hemmingford (village & canton)",Montérégie,J0L 1H0,45.056453,-73.58454,156.9,184.9,209.9,1,oui,1,2026-06-30 11:27
+Dépanneur Lafleur,Shell,"342 rte 219 sud, Hemmingford (village & canton)",Montérégie,J0L 1H0,45.037907,-73.595789,156.9,184.9,209.9,1,oui,1,2026-06-30 11:27
+9387-0814 QUEBEC INC,Ultramar,"290 Boul. Saint-Luc, SAINT-JEAN-SUR-RICHELIEU",Montérégie,J2W 2A3,45.3563,-73.2981,157.9,184.9,209.9,4,,1,2026-06-30 11:27
+9512-3493 Quebec Inc,Ultramar,"525 rue Pierre-Caisse, SAINT-JEAN-SUR-RICHELIEU",Montérégie,J3A 1P1,45.332,-73.2792,157.9,184.9,209.9,4,,1,2026-06-30 11:27
+Super Gaz ltée   # 825,Super Gaz,"14305 boul. de Pierrefonds, Montréal",Montréal,H9H 1Z2,45.492017,-73.852732,166.9,191.9,204.9,1,oui,1,2026-06-30 11:27
+Couche-Tard #1271,Esso,"15200 boul. de Pierrefonds, Montréal",Montréal,H9H 4K3,45.481557,-73.862363,167.9,194.9,206.9,2,,1,2026-06-30 11:27
+2524-9970 QUEBEC INC,Ultramar,"360 rue Cherrier, MONTRÉAL",Montréal,H9C 1V2,45.48887,-73.874328,168.9,195.9,206.9,3,,1,2026-06-30 11:27
+9173-4996 QUEBEC INC,Shell,"4510 boul. Saint-Charles sud, Montréal",Montréal,H9H 3C8,45.462617,-73.870387,168.9,196.9,217.9,3,,1,2026-06-30 11:27
+9179-5781 Québec inc.,Shell,"2950 boul. Saint-Charles, Kirkland",Montréal,H9H 3B7,45.447794,-73.855022,168.9,196.9,217.9,3,,1,2026-06-30 11:27

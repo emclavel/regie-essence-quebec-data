@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,154.9,174.9,,1,oui,1,2026-07-07 06:56
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,154.9,174.9,,1,oui,1,2026-07-07 06:56
-9014-1151 Québec Inc.,Harnois,"443 av. Sainte-Brigitte, Sainte-Brigitte-de-Laval",Capitale-Nationale,G0A 3K0,47.00538,-71.190853,163.9,189.9,,3,,1,2026-07-07 06:56
-9319-6756 QUÉBEC INC.,Shell,"2340 boul. Louis-XIV, Québec",Capitale-Nationale,G1C 1A7,46.8914,-71.212683,163.9,191.9,212.9,3,,1,2026-07-07 06:56
-9399-4010 Québec Inc.,Esso,"1779 boul. Raymond, Québec",Capitale-Nationale,G1B 0C5,46.95202,-71.207733,163.9,189.9,204.9,3,,1,2026-07-07 06:56
-Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,154.9,174.9,,1,oui,1,2026-07-07 06:56
-9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,161.5,187.9,204.9,2,,1,2026-07-07 06:56
-"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,161.5,189.5,206.9,2,,1,2026-07-07 06:56
-Harnois Énergies Inc.,Esso,"2061 rang de la Rivière, Saint-Isidore",Chaudière-Appalaches,G0S 2S0,46.545239,-71.140995,161.5,187.9,204.9,2,,1,2026-07-07 06:56
-SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,163.9,189.9,207.9,5,,1,2026-07-07 06:56
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-07-07 06:56
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-07-07 06:56
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-07-07 06:56
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-07-07 06:56
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,161.9,181.9,,1,oui,1,2026-07-07 09:22
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,161.9,181.9,,1,oui,1,2026-07-07 09:22
+9014-1151 Québec Inc.,Harnois,"443 av. Sainte-Brigitte, Sainte-Brigitte-de-Laval",Capitale-Nationale,G0A 3K0,47.00538,-71.190853,163.9,189.9,,3,,1,2026-07-07 09:22
+9319-6756 QUÉBEC INC.,Shell,"2340 boul. Louis-XIV, Québec",Capitale-Nationale,G1C 1A7,46.8914,-71.212683,163.9,191.9,212.9,3,,1,2026-07-07 09:22
+9399-4010 Québec Inc.,Esso,"1779 boul. Raymond, Québec",Capitale-Nationale,G1B 0C5,46.95202,-71.207733,163.9,189.9,204.9,3,,1,2026-07-07 09:22
+9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,161.5,187.9,204.9,1,oui,1,2026-07-07 09:22
+"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,161.5,189.5,206.9,1,oui,1,2026-07-07 09:22
+Harnois Énergies Inc.,Esso,"2061 rang de la Rivière, Saint-Isidore",Chaudière-Appalaches,G0S 2S0,46.545239,-71.140995,161.5,187.9,204.9,1,oui,1,2026-07-07 09:22
+Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,161.9,181.9,,4,,1,2026-07-07 09:22
+SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,163.9,189.9,207.9,5,,1,2026-07-07 09:22
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-07-07 09:22
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-07-07 09:22
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-07-07 09:22
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-07-07 09:22

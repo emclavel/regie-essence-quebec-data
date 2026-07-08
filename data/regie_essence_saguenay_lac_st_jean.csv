@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-FLAMAND HOLDING INC,Ultramar,"1985 Boul. Talbot, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 7Y5,48.39309,-71.070497,153.4,180.9,206.9,1,oui,1,2026-07-07 19:01
-9377-1046 Québec Inc,Ultramar,"2681 Boul. du Royaume, SAGUENAY",Saguenay-Lac-Saint-Jean,G7X 7V3,48.404702,-71.171977,156.4,183.9,206.9,2,,1,2026-07-07 19:01
-Couche-Tard #193,Esso,"2615 boul. du Royaume, Saguenay",Saguenay-Lac-Saint-Jean,G7S 4K8,48.404137,-71.166787,156.4,181.9,,2,,1,2026-07-07 19:01
-Couche-Tard #903,Irving,"2005 boul. Mellon, Saguenay",Saguenay-Lac-Saint-Jean,G7S 3G7,48.424585,-71.180502,156.4,181.9,,2,,1,2026-07-07 19:01
-Marché Shipshaw,Énergie Express BD,"3421 rte Saint-Léonard, Saguenay",Saguenay-Lac-Saint-Jean,G7P 1H5,48.458548,-71.260593,156.4,177.4,,2,,1,2026-07-07 19:01
-ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-07-07 19:01
-ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-07-07 19:01
-ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-07-07 19:01
-ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-07-07 19:01
+Couche-Tard #193,Esso,"2615 boul. du Royaume, Saguenay",Saguenay-Lac-Saint-Jean,G7S 4K8,48.404137,-71.166787,156.4,181.9,,1,oui,1,2026-07-07 22:42
+Couche-Tard #903,Irving,"2005 boul. Mellon, Saguenay",Saguenay-Lac-Saint-Jean,G7S 3G7,48.424585,-71.180502,156.4,181.9,,1,oui,1,2026-07-07 22:42
+Marché Shipshaw,Énergie Express BD,"3421 rte Saint-Léonard, Saguenay",Saguenay-Lac-Saint-Jean,G7P 1H5,48.458548,-71.260593,156.4,177.4,,1,oui,1,2026-07-07 22:42
+Centre Multiservice Bégin Inc.,Harnois,"950 rue Bégin, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4P3,48.41388,-71.067443,159.9,179.9,,4,,1,2026-07-07 22:42
+Centre Multiservice d'Anjou Inc.,Harnois,"1476 boul. du Saguenay est, Saguenay",Saguenay-Lac-Saint-Jean,G7H 6V2,48.42632,-71.023248,159.9,179.9,,4,,1,2026-07-07 22:42
+ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-07-07 22:42
+ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-07-07 22:42
+ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-07-07 22:42
+ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-07-07 22:42

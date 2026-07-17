@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,166.4,190.4,215.9,1,oui,1,2026-07-17 05:09
-9321-9244 Quebec Inc.,Shell,"557 rue Dufferin, Granby",Estrie,J2G 9G3,45.421172,-72.716255,173.9,201.9,232.9,2,,1,2026-07-17 05:09
-9316-7252 Québec Inc.,Shell,"95 rue Sherbrooke, Magog",Estrie,J1X 2R3,45.265847,-72.146877,174.9,201.9,245.9,3,,1,2026-07-17 05:09
-Costco Sherbrooke,Costco,"3800 boul. Monseigneur-Fortier, Sherbrooke",Estrie,J1L 0C8,45.423789,-71.961978,174.9,194.9,,3,,1,2026-07-17 05:09
-Couche-Tard #1004,Esso,"28 rue Principale nord, Sutton",Estrie,J0E 2K0,45.108462,-72.615923,174.9,199.9,235.9,3,,1,2026-07-17 05:09
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-07-17 05:09
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-07-17 05:09
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-07-17 05:09
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-07-17 05:09
+Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,166.4,190.4,215.9,1,oui,1,2026-07-17 07:21
+9321-9244 Quebec Inc.,Shell,"557 rue Dufferin, Granby",Estrie,J2G 9G3,45.421172,-72.716255,173.9,201.9,232.9,2,,1,2026-07-17 07:21
+9316-7252 Québec Inc.,Shell,"95 rue Sherbrooke, Magog",Estrie,J1X 2R3,45.265847,-72.146877,174.9,201.9,245.9,3,,1,2026-07-17 07:21
+Costco Sherbrooke,Costco,"3800 boul. Monseigneur-Fortier, Sherbrooke",Estrie,J1L 0C8,45.423789,-71.961978,174.9,194.9,,3,,1,2026-07-17 07:21
+Couche-Tard #1004,Esso,"28 rue Principale nord, Sutton",Estrie,J0E 2K0,45.108462,-72.615923,174.9,199.9,235.9,3,,1,2026-07-17 07:21
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-07-17 07:21
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-07-17 07:21
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-07-17 07:21
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-07-17 07:21

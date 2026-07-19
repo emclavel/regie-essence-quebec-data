@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,174.9,194.9,,1,oui,1,2026-07-18 19:53
-9378-4379 Québec Inc.,Esso,"1450 boul. Ducharme, La Tuque",Mauricie,G9X 4R8,47.410362,-72.784859,175.9,201.9,235.9,2,,1,2026-07-18 19:53
-Belzile La Tuque,Belzile,"393 rue Bostonnais, La Tuque",Mauricie,G9X 2G6,47.444386,-72.775934,175.9,195.9,219.9,2,,1,2026-07-18 19:53
-ENTREPRISES C MONDOU INC,Ultramar,"1445 Boul. Ducharme, LA TUQUE",Mauricie,G9X 4R6,47.410613,-72.785964,175.9,202.9,232.9,2,,1,2026-07-18 19:53
-Harnois Énergies Inc.,Harnois,"298 rue Bostonnais, La Tuque",Mauricie,G9X 2G3,47.448247,-72.775228,175.9,201.9,235.9,2,,1,2026-07-18 19:53
-ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-07-18 19:53
-ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-07-18 19:53
-ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-07-18 19:53
-ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-07-18 19:53
+Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,174.9,194.9,,1,oui,1,2026-07-18 22:44
+9378-4379 Québec Inc.,Esso,"1450 boul. Ducharme, La Tuque",Mauricie,G9X 4R8,47.410362,-72.784859,175.9,201.9,235.9,2,,1,2026-07-18 22:44
+Belzile La Tuque,Belzile,"393 rue Bostonnais, La Tuque",Mauricie,G9X 2G6,47.444386,-72.775934,175.9,195.9,219.9,2,,1,2026-07-18 22:44
+ENTREPRISES C MONDOU INC,Ultramar,"1445 Boul. Ducharme, LA TUQUE",Mauricie,G9X 4R6,47.410613,-72.785964,175.9,202.9,232.9,2,,1,2026-07-18 22:44
+Harnois Énergies Inc.,Harnois,"298 rue Bostonnais, La Tuque",Mauricie,G9X 2G3,47.448247,-72.775228,175.9,201.9,235.9,2,,1,2026-07-18 22:44
+ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-07-18 22:44
+ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-07-18 22:44
+ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-07-18 22:44
+ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-07-18 22:44

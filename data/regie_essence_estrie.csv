@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,173.4,197.4,226.9,1,oui,1,2026-07-22 09:53
-9321-9244 Quebec Inc.,Shell,"557 rue Dufferin, Granby",Estrie,J2G 9G3,45.421172,-72.716255,173.9,201.9,232.9,2,,1,2026-07-22 09:53
-9415-9159 QUÉBEC INC.,Petro-Canada,"2 de Fairfax , Stanstead (ville & canton)",Estrie,J0B 3E2,45.023031,-72.088007,175.9,205.9,245.9,3,,1,2026-07-22 09:53
-9046-2631 QUEBEC INC,Petro-Canada,"5 Saint-Patrice , Magog",Estrie,J1X 1T5,45.266004,-72.145718,177.9,204.9,239.9,4,,1,2026-07-22 09:53
-Couche-Tard #735,Irving,"991 rue Sherbrooke, Magog",Estrie,J1X 2S8,45.271661,-72.138955,177.9,202.9,,4,,1,2026-07-22 09:53
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-07-22 09:53
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-07-22 09:53
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-07-22 09:53
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-07-22 09:53
+Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,173.4,197.4,226.9,1,oui,1,2026-07-22 11:42
+9321-9244 Quebec Inc.,Shell,"557 rue Dufferin, Granby",Estrie,J2G 9G3,45.421172,-72.716255,173.9,201.9,232.9,2,,1,2026-07-22 11:42
+9415-9159 QUÉBEC INC.,Petro-Canada,"2 de Fairfax , Stanstead (ville & canton)",Estrie,J0B 3E2,45.023031,-72.088007,175.9,205.9,245.9,3,,1,2026-07-22 11:42
+9046-2631 QUEBEC INC,Petro-Canada,"5 Saint-Patrice , Magog",Estrie,J1X 1T5,45.266004,-72.145718,177.9,204.9,239.9,4,,1,2026-07-22 11:42
+Dépanneur St-François (165857 Canada inc.),Paquet,"251 rue Principale, Lambton",Estrie,G0M 1H0,45.833617,-71.092781,179.2,199.2,216.9,5,,1,2026-07-22 11:42
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-07-22 11:42
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-07-22 11:42
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-07-22 11:42
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-07-22 11:42

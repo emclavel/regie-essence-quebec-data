@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9262-0368 QUEBEC INC,Ultramar,"1450 boul. Saint-Laurent est, LOUISEVILLE",Mauricie,J5V 1J6,46.261268,-72.878775,179.9,206.9,245.9,1,oui,1,2026-07-25 05:47
-Groupe Mondor Inc.,Shell,"154 boul. Saint-Laurent est, Louiseville",Mauricie,J5V 1H4,46.255944,-72.936802,179.9,207.9,238.9,1,oui,1,2026-07-25 05:47
-Les Gestions C. Maillette Inc.,Shell,"871 rue Sainte-Anne, Yamachiche",Mauricie,G0X 3L0,46.286127,-72.824632,179.9,207.9,227.9,1,oui,1,2026-07-25 05:47
-Yamachiche,Irving,"14 rue Sainte-Anne, Yamachiche",Mauricie,G0X3L0,46.262601,-72.875987,179.9,205.9,226.9,1,oui,1,2026-07-25 05:47
-Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,181.9,201.9,,5,,1,2026-07-25 05:47
-ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-07-25 05:47
-ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-07-25 05:47
-ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-07-25 05:47
-ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-07-25 05:47
+9262-0368 QUEBEC INC,Ultramar,"1450 boul. Saint-Laurent est, LOUISEVILLE",Mauricie,J5V 1J6,46.261268,-72.878775,179.9,206.9,245.9,1,oui,1,2026-07-25 07:10
+Groupe Mondor Inc.,Shell,"154 boul. Saint-Laurent est, Louiseville",Mauricie,J5V 1H4,46.255944,-72.936802,179.9,207.9,238.9,1,oui,1,2026-07-25 07:10
+Les Gestions C. Maillette Inc.,Shell,"871 rue Sainte-Anne, Yamachiche",Mauricie,G0X 3L0,46.286127,-72.824632,179.9,207.9,227.9,1,oui,1,2026-07-25 07:10
+Yamachiche,Irving,"14 rue Sainte-Anne, Yamachiche",Mauricie,G0X3L0,46.262601,-72.875987,179.9,205.9,226.9,1,oui,1,2026-07-25 07:10
+Gestion Lili Branchaud inc.,Sonic,"620 rue Saint-Maurice, Trois-Rivières",Mauricie,G8V 1N1,46.383149,-72.516906,182.4,204.9,245.9,5,,1,2026-07-25 07:10
+ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-07-25 07:10
+ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-07-25 07:10
+ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-07-25 07:10
+ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-07-25 07:10

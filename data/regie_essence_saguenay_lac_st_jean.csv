@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9030-3512 QUEBEC INC,Ultramar,"266 rue Malraux, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 6R9,48.39744,-71.081011,156.5,183.9,241.5,1,oui,1,2026-08-12 07:45
-FLAMAND HOLDING INC,Ultramar,"1985 Boul. Talbot, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 7Y5,48.39309,-71.070497,156.5,183.9,241.5,1,oui,1,2026-08-12 07:45
-COOP Solidarité Lac Kéno,Crevier,"5251 ch. du Quai, Saguenay",Saguenay-Lac-Saint-Jean,G7X 7V6,48.353958,-71.324386,160.8,186.8,,3,,1,2026-08-12 07:45
-Les Placements GT7 Inc,Crevier,"2922 boul. du Saguenay, SAGUENAY",Saguenay-Lac-Saint-Jean,G7S 2H1,48.433314,-71.187357,161.3,186.3,,4,,1,2026-08-12 07:45
-Super Sagamie 7 à 11,Énergie DDF,"972 ch. de la Réserve, Saguenay",Saguenay-Lac-Saint-Jean,G7J 3P5,48.419808,-71.100018,164.4,189.4,241.9,5,,1,2026-08-12 07:45
-ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-08-12 07:45
-ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-08-12 07:45
-ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-08-12 07:45
-ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-08-12 07:45
+9030-3512 QUEBEC INC,Ultramar,"266 rue Malraux, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 6R9,48.39744,-71.081011,156.5,183.9,241.5,1,oui,1,2026-08-12 09:08
+FLAMAND HOLDING INC,Ultramar,"1985 Boul. Talbot, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 7Y5,48.39309,-71.070497,156.5,183.9,241.5,1,oui,1,2026-08-12 09:08
+COOP Solidarité Lac Kéno,Crevier,"5251 ch. du Quai, Saguenay",Saguenay-Lac-Saint-Jean,G7X 7V6,48.353958,-71.324386,160.8,186.8,,3,,1,2026-08-12 09:08
+Les Placements GT7 Inc,Crevier,"2922 boul. du Saguenay, SAGUENAY",Saguenay-Lac-Saint-Jean,G7S 2H1,48.433314,-71.187357,161.3,186.3,,4,,1,2026-08-12 09:08
+Flamand Holding Inc,Ultramar,"1333 Boul. du Royaume est, SAGUENAY",Saguenay-Lac-Saint-Jean,G7N 1N6,48.387452,-71.114645,163.9,190.9,245.9,5,,1,2026-08-12 09:08
+ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-08-12 09:08
+ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-08-12 09:08
+ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-08-12 09:08
+ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-08-12 09:08

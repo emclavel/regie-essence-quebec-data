@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Dépanneur Relais Batiscan,Petro-Canada,"1240 rte Principale, Batiscan",Mauricie,G0X 1A0,46.506747,-72.246065,173.9,198.9,249.9,1,oui,1,2026-08-17 14:38
-Garage R. Marchand,Sonic,"30 ch. Rivière à Veillet, Sainte-Geneniève-de-Batiscan",Mauricie,G0X 2R0,46.538396,-72.341296,173.9,195.9,249.9,1,oui,1,2026-08-17 14:38
-Harnois Énergies Inc.,Harnois,"310 boul. Lanaudière, Sainte-Anne-de-la-Pérade",Mauricie,G0X 2J0,46.571925,-72.203195,173.9,199.9,249.9,1,oui,1,2026-08-17 14:38
-Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,174.9,194.9,,4,,1,2026-08-17 14:38
-Couche-Tard #800,Irving,"3973 rue Garnier, Shawinigan",Mauricie,G9N 6S2,46.569999,-72.763181,175.9,193.9,249.9,5,,1,2026-08-17 14:38
-ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-08-17 14:38
-ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-08-17 14:38
-ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-08-17 14:38
-ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-08-17 14:38
+Dépanneur Relais Batiscan,Petro-Canada,"1240 rte Principale, Batiscan",Mauricie,G0X 1A0,46.506747,-72.246065,173.9,198.9,249.9,1,oui,1,2026-08-17 15:27
+Garage R. Marchand,Sonic,"30 ch. Rivière à Veillet, Sainte-Geneniève-de-Batiscan",Mauricie,G0X 2R0,46.538396,-72.341296,173.9,195.9,249.9,1,oui,1,2026-08-17 15:27
+Harnois Énergies Inc.,Harnois,"310 boul. Lanaudière, Sainte-Anne-de-la-Pérade",Mauricie,G0X 2J0,46.571925,-72.203195,173.9,199.9,249.9,1,oui,1,2026-08-17 15:27
+Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,174.9,194.9,,4,,1,2026-08-17 15:27
+Couche-Tard #800,Irving,"3973 rue Garnier, Shawinigan",Mauricie,G9N 6S2,46.569999,-72.763181,175.9,193.9,249.9,5,,1,2026-08-17 15:27
+ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-08-17 15:27
+ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-08-17 15:27
+ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-08-17 15:27
+ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-08-17 15:27

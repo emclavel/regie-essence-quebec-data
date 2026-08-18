@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,171.9,191.9,,1,oui,1,2026-08-18 10:33
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,171.9,191.9,,1,oui,1,2026-08-18 10:33
-9008-3619 QUEBEC INC,Shell,"4459 route de Fossambault, SAINTE-CATHERINE-DE-LA-JACQUES-CARTIER",Capitale-Nationale,G3N 2T5,46.837916,-71.608599,175.9,203.9,247.9,3,,1,2026-08-18 10:33
-9403-1135 Québec Inc.,Pétro-T,"300 rue Saint-Charles, Notre-Dame-de-Portneuf",Capitale-Nationale,G0A 2Y0,46.708901,-71.891093,175.9,201.9,249.9,3,,1,2026-08-18 10:33
-9503-2264 Québec Inc.,Harnois,"34 rte de la Pinière, Pont-Rouge",Capitale-Nationale,G3H 2Z3,46.740278,-71.681196,175.9,201.9,247.9,3,,1,2026-08-18 10:33
-9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,170.9,195.9,260.9,1,oui,1,2026-08-18 10:33
-Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,171.9,191.9,,2,,1,2026-08-18 10:33
-9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,172.9,198.9,247.9,3,,1,2026-08-18 10:33
-DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,172.9,199.9,,3,,1,2026-08-18 10:33
-"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,172.9,200.9,235.9,3,,1,2026-08-18 10:33
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-08-18 10:33
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-08-18 10:33
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-08-18 10:33
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-08-18 10:33
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,171.9,191.9,,1,oui,1,2026-08-18 11:31
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,171.9,191.9,,1,oui,1,2026-08-18 11:31
+9403-1135 Québec Inc.,Pétro-T,"300 rue Saint-Charles, Notre-Dame-de-Portneuf",Capitale-Nationale,G0A 2Y0,46.708901,-71.891093,175.9,201.9,249.9,3,,1,2026-08-18 11:31
+9503-2264 Québec Inc.,Harnois,"34 rte de la Pinière, Pont-Rouge",Capitale-Nationale,G3H 2Z3,46.740278,-71.681196,175.9,201.9,247.9,3,,1,2026-08-18 11:31
+Accommodation Cap-Santé enr.,Sonic,"328 rte 138, Cap-Santé",Capitale-Nationale,G0A 1L0,46.672503,-71.791002,175.9,197.9,,3,,1,2026-08-18 11:31
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,170.9,195.9,260.9,1,oui,1,2026-08-18 11:31
+Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,171.9,191.9,,2,,1,2026-08-18 11:31
+9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,172.9,198.9,247.9,3,,1,2026-08-18 11:31
+DEP DU PONT ST-LAMBERT INC,Ultramar,"1142 rue du Pont, SAINT-LAMBERT-DE-LAUZON",Chaudière-Appalaches,G0S 2W0,46.587748,-71.211407,172.9,199.9,,3,,1,2026-08-18 11:31
+"Dépanneur Voisin, Alimentation L. Buteau & Fils inc.",Shell,"1276 rue Pont, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.594267,-71.202867,172.9,200.9,235.9,3,,1,2026-08-18 11:31
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-08-18 11:31
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-08-18 11:31
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-08-18 11:31
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-08-18 11:31

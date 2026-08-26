@@ -1,26 +1,26 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9283-1213 Québec inc.,Harnois,"457 boul. Lacombe, Repentigny",Lanaudière,J5Z 1P2,45.754244,-73.469215,177.8,203.9,255.9,1,oui,1,2026-08-26 09:53
-9486-7850 Québec Inc.,Harnois,"248 boul. J.A.-Paré porte 100, Repentigny",Lanaudière,J5Z 4M6,45.764323,-73.476023,177.8,203.9,,1,oui,1,2026-08-26 09:53
-Couche-Tard #1280,Esso,"291 boul. Larochelle, Repentigny",Lanaudière,J6A 1L4,45.7336,-73.4686,177.8,202.9,255.9,1,oui,1,2026-08-26 09:53
-Filgo Repentigny,Shell,"259 boul. Brien, Repentigny",Lanaudière,J6A 6M4,45.749582,-73.464591,177.8,202.9,255.9,1,oui,1,2026-08-26 09:53
-Harnois Énergies Inc.,Esso,"209 boul. Brien, Repentigny",Lanaudière,J6A 6M4,45.747576,-73.460745,177.8,203.9,255.9,1,oui,1,2026-08-26 09:53
-Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.495217,-74.137358,165.9,188.9,229.9,1,oui,1,2026-08-26 09:53
-9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,169.9,197.9,257.9,2,,1,2026-08-26 09:53
-9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,169.9,196.9,259.9,2,,1,2026-08-26 09:53
-Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,169.9,195.9,246.9,2,,1,2026-08-26 09:53
-Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,169.9,196.9,259.9,2,,1,2026-08-26 09:53
-Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,176.9,196.9,,1,oui,1,2026-08-26 09:53
-Couche-Tard #186,Couche-Tard,"8050 av. Marcel-Villeneuve, Laval",Laval,H7A 4C5,45.672958,-73.594737,179.9,204.9,,2,,1,2026-08-26 09:53
-Filgo Marcel-Villenevue,Shell,"8045 av. Marcel-Villeneuve, Laval",Laval,H7A 0H9,45.673546,-73.595811,179.9,204.9,255.9,2,,1,2026-08-26 09:53
-9397-0358 QUEBEC INC,Petro-Canada,"500 des Laurentides , Laval",Laval,H7G 2V1,45.569932,-73.692008,182.8,209.9,,4,,1,2026-08-26 09:53
-Couche-Tard #1232,Esso,"240 boul. de la Concorde est, Laval",Laval,H7G 2E1,45.576447,-73.683358,182.8,209.9,,4,,1,2026-08-26 09:53
-Costco Vaudreuil-Dorion,Costco,"22400 ch. Dumberry, Vaudreuil-Dorion",Montérégie,J7V 8P7,45.414181,-74.036068,163.9,183.9,236.9,1,oui,1,2026-08-26 09:53
-Couche-Tard #256,Esso,"50 boul. Don-Quichotte, L'Île-Perrot",Montérégie,J7V 6N5,45.389266,-73.964808,164.7,189.9,,2,,1,2026-08-26 09:53
-DEPANNEUR VIDAL INC,Petro-Canada,"110 Grand Boulevard , L'Île-Perrot",Montérégie,J7V 4W8,45.395106,-73.958227,164.7,191.9,256.9,2,,1,2026-08-26 09:53
-9550-3389 Québec Inc.,Shell,"100 Boul. Grand Boulevard, L'ÎLE-PERROT",Montérégie,J7V 4W8,45.395674,-73.958027,164.9,192.9,257.9,4,,1,2026-08-26 09:53
-Pétroles L.D.J. inc.,Harnois,"70 rue de l'Église nord, Lacolle",Montérégie,J0J 1J0,45.087203,-73.372987,164.9,184.9,249.9,4,,1,2026-08-26 09:53
-Bonisoir Dépanneur NP,Petroplus,"13072 boul. de Pierrefonds, Montréal",Montréal,H9A 1A5,45.500444,-73.838618,179.9,,,1,oui,1,2026-08-26 09:53
-Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,179.9,199.9,,1,oui,1,2026-08-26 09:53
-Costco Montréal Centre,Costco,"300 rue Bridge, Montréal",Montréal,H3K 2C3,45.485765,-73.553519,179.9,199.9,,1,oui,1,2026-08-26 09:53
-Dépanneur Bon Matin,Esso,"12320 boul. de Pierrefonds, Montréal",Montréal,H9A 1A4,45.503209,-73.82909,179.9,211.9,258.9,1,oui,1,2026-08-26 09:53
-Donegani station de service inc.,Sonic,"67 av. Donegani, Pointe-Claire",Montréal,H9R 2V9,45.450714,-73.788125,179.9,201.9,255.9,1,oui,1,2026-08-26 09:53
+9283-1213 Québec inc.,Harnois,"457 boul. Lacombe, Repentigny",Lanaudière,J5Z 1P2,45.754244,-73.469215,177.8,203.9,255.9,1,oui,1,2026-08-26 10:42
+9486-7850 Québec Inc.,Harnois,"248 boul. J.A.-Paré porte 100, Repentigny",Lanaudière,J5Z 4M6,45.764323,-73.476023,177.8,203.9,,1,oui,1,2026-08-26 10:42
+Couche-Tard #1280,Esso,"291 boul. Larochelle, Repentigny",Lanaudière,J6A 1L4,45.7336,-73.4686,177.8,202.9,255.9,1,oui,1,2026-08-26 10:42
+Filgo Repentigny,Shell,"259 boul. Brien, Repentigny",Lanaudière,J6A 6M4,45.749582,-73.464591,177.8,202.9,255.9,1,oui,1,2026-08-26 10:42
+Harnois Énergies Inc.,Esso,"209 boul. Brien, Repentigny",Lanaudière,J6A 6M4,45.747576,-73.460745,177.8,203.9,255.9,1,oui,1,2026-08-26 10:42
+Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.495217,-74.137358,165.9,188.9,229.9,1,oui,1,2026-08-26 10:42
+9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,169.9,197.9,257.9,2,,1,2026-08-26 10:42
+9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,169.9,196.9,259.9,2,,1,2026-08-26 10:42
+Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,169.9,195.9,246.9,2,,1,2026-08-26 10:42
+Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,169.9,196.9,259.9,2,,1,2026-08-26 10:42
+Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,176.9,196.9,,1,oui,1,2026-08-26 10:42
+Couche-Tard #186,Couche-Tard,"8050 av. Marcel-Villeneuve, Laval",Laval,H7A 4C5,45.672958,-73.594737,179.9,204.9,,2,,1,2026-08-26 10:42
+Filgo Marcel-Villenevue,Shell,"8045 av. Marcel-Villeneuve, Laval",Laval,H7A 0H9,45.673546,-73.595811,179.9,204.9,255.9,2,,1,2026-08-26 10:42
+9397-0358 QUEBEC INC,Petro-Canada,"500 des Laurentides , Laval",Laval,H7G 2V1,45.569932,-73.692008,182.8,209.9,,4,,1,2026-08-26 10:42
+9442-3035 QUÉBEC INC.,Ultramar,"3295 Boul. de la Concorde est, LAVAL",Laval,H7E 2C1,45.593712,-73.666097,182.8,209.9,256.9,4,,1,2026-08-26 10:42
+Costco Vaudreuil-Dorion,Costco,"22400 ch. Dumberry, Vaudreuil-Dorion",Montérégie,J7V 8P7,45.414181,-74.036068,163.9,183.9,236.9,1,oui,1,2026-08-26 10:42
+Couche-Tard #256,Esso,"50 boul. Don-Quichotte, L'Île-Perrot",Montérégie,J7V 6N5,45.389266,-73.964808,164.7,189.9,,2,,1,2026-08-26 10:42
+DEPANNEUR VIDAL INC,Petro-Canada,"110 Grand Boulevard , L'Île-Perrot",Montérégie,J7V 4W8,45.395106,-73.958227,164.7,191.9,256.9,2,,1,2026-08-26 10:42
+2945-9260 Québec inc.,Esso,"1847-100 boul. Perrot, Notre-Dame-de-L'Île-Perrot",Montérégie,J7V 7P2,45.363622,-73.879046,164.9,190.9,,4,,1,2026-08-26 10:42
+9550-3389 Québec Inc.,Shell,"100 Boul. Grand Boulevard, L'ÎLE-PERROT",Montérégie,J7V 4W8,45.395674,-73.958027,164.9,192.9,257.9,4,,1,2026-08-26 10:42
+Bonisoir Dépanneur NP,Petroplus,"13072 boul. de Pierrefonds, Montréal",Montréal,H9A 1A5,45.500444,-73.838618,179.9,,,1,oui,1,2026-08-26 10:42
+Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,179.9,199.9,,1,oui,1,2026-08-26 10:42
+Costco Montréal Centre,Costco,"300 rue Bridge, Montréal",Montréal,H3K 2C3,45.485765,-73.553519,179.9,199.9,,1,oui,1,2026-08-26 10:42
+Dépanneur Bon Matin,Esso,"12320 boul. de Pierrefonds, Montréal",Montréal,H9A 1A4,45.503209,-73.82909,179.9,211.9,258.9,1,oui,1,2026-08-26 10:42
+Donegani station de service inc.,Sonic,"67 av. Donegani, Pointe-Claire",Montréal,H9R 2V9,45.450714,-73.788125,179.9,201.9,255.9,1,oui,1,2026-08-26 10:42

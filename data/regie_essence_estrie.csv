@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9415-9159 QUÉBEC INC.,Petro-Canada,"2 de Fairfax , Stanstead (ville & canton)",Estrie,J0B 3E2,45.023031,-72.088007,170.9,200.9,266.9,1,oui,1,2026-09-01 10:33
-Garage L.P. inc.,Harnois,"2 rue Junction, Stanstead (ville & canton)",Estrie,J0B 1E0,45.01165,-72.145922,170.9,190.9,255.9,1,oui,1,2026-09-01 10:33
-Coop au Coeur du Village,Sonic,"645 rue Principale, Saint-Joachim-de-Shefford",Estrie,J0E 2G0,45.450449,-72.526063,175.9,197.9,255.9,3,,1,2026-09-01 10:33
-9148-4840 QUEBEC INC,Ultramar,"3528 rue Principale, DUNHAM",Estrie,J0E 1M0,45.14069,-72.800819,176.9,203.9,255.9,4,,1,2026-09-01 10:33
-9524-1774 Quebec Inc.,Ultramar,"115 rue Principale, Bedford (ville & canton)",Estrie,J0J 2B0,45.120644,-72.991003,176.9,203.9,255.9,4,,1,2026-09-01 10:33
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-09-01 10:33
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-09-01 10:33
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-09-01 10:33
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-09-01 10:33
+9415-9159 QUÉBEC INC.,Petro-Canada,"2 de Fairfax , Stanstead (ville & canton)",Estrie,J0B 3E2,45.023031,-72.088007,170.9,200.9,266.9,1,oui,1,2026-09-01 14:10
+Costco Sherbrooke,Costco,"3800 boul. Monseigneur-Fortier, Sherbrooke",Estrie,J1L 0C8,45.423789,-71.961978,177.9,197.9,,2,,1,2026-09-01 14:10
+Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,178.4,202.4,259.9,3,,1,2026-09-01 14:10
+La Société Canadian Tire Ltée,Canadian Tire,"580 rue Principale, Granby",Estrie,J2G 2X6,45.406888,-72.741082,178.8,203.8,,4,,1,2026-09-01 14:10
+Libre-service Coulombe et fils inc.,Shell,"236 rue Robinson sud, Granby",Estrie,J2G 7M6,45.399551,-72.741959,179.3,204.9,255.9,5,,1,2026-09-01 14:10
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-09-01 14:10
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-09-01 14:10
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-09-01 14:10
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-09-01 14:10

@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,174.9,194.9,,1,oui,1,2026-09-01 17:36
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,174.9,194.9,,1,oui,1,2026-09-01 17:36
-9163-8007 quebec inc.,Shell,"1234 boul. Bastien, Québec",Capitale-Nationale,G2K 1G1,46.849502,-71.30397,179.9,204.9,245.9,3,,1,2026-09-01 17:36
-Garage Magella Beaulieu Inc.,Irving,"1085 av. Lapierre, Québec",Capitale-Nationale,G0A 3K0,46.863527,-71.330386,179.9,201.9,253.9,3,,1,2026-09-01 17:36
-Couche-Tard #556,Irving,"71 rue des Cascades, Québec",Capitale-Nationale,G1E 6T5,46.86269,-71.19255,183.9,208.9,,5,,1,2026-09-01 17:36
-Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,170.9,195.9,,1,oui,1,2026-09-01 17:36
-9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,172.9,197.9,257.9,2,,1,2026-09-01 17:36
-SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,172.9,197.9,265.9,2,,1,2026-09-01 17:36
-Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,174.9,194.9,,4,,1,2026-09-01 17:36
-9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,175.9,201.9,253.9,5,,1,2026-09-01 17:36
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-09-01 17:36
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-09-01 17:36
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-09-01 17:36
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-09-01 17:36
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,174.9,194.9,,1,oui,1,2026-09-01 19:49
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,174.9,194.9,,1,oui,1,2026-09-01 19:49
+9163-8007 quebec inc.,Shell,"1234 boul. Bastien, Québec",Capitale-Nationale,G2K 1G1,46.849502,-71.30397,179.9,204.9,245.9,3,,1,2026-09-01 19:49
+Garage Magella Beaulieu Inc.,Irving,"1085 av. Lapierre, Québec",Capitale-Nationale,G0A 3K0,46.863527,-71.330386,179.9,201.9,253.9,3,,1,2026-09-01 19:49
+Couche-Tard #556,Irving,"71 rue des Cascades, Québec",Capitale-Nationale,G1E 6T5,46.86269,-71.19255,183.9,208.9,,5,,1,2026-09-01 19:49
+Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,170.9,195.9,,1,oui,1,2026-09-01 19:49
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,172.9,197.9,257.9,2,,1,2026-09-01 19:49
+SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,172.9,197.9,265.9,2,,1,2026-09-01 19:49
+Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,174.9,194.9,,4,,1,2026-09-01 19:49
+9365-8805 Québec Inc.,Esso,"1144 rue Bellevue, Saint-Lambert-de-Lauzon",Chaudière-Appalaches,G0S 2W0,46.585072,-71.216575,175.9,201.9,253.9,5,,1,2026-09-01 19:49
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-09-01 19:49
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-09-01 19:49
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-09-01 19:49
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-09-01 19:49

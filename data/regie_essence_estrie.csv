@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9415-9159 QUÉBEC INC.,Petro-Canada,"2 de Fairfax , Stanstead (ville & canton)",Estrie,J0B 3E2,45.023031,-72.088007,170.9,200.9,266.9,1,oui,1,2026-09-03 13:32
-9316-7252 Québec Inc.,Shell,"95 rue Sherbrooke, Magog",Estrie,J1X 2R3,45.265847,-72.146877,179.9,206.9,254.9,2,,1,2026-09-03 13:32
-Couche-Tard #707,Esso,"825 rue Maisonneuve, Granby",Estrie,J2J 1S5,45.401508,-72.76048,179.9,204.9,,2,,1,2026-09-03 13:32
-Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,183.4,207.4,263.9,4,,1,2026-09-03 13:32
-4317955 CANADA INC,Petro-Canada,"763 J.-André-Deragon , Cowansville",Estrie,J2K 0L2,45.2127,-72.715898,183.9,207.9,258.9,5,,1,2026-09-03 13:32
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-09-03 13:32
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-09-03 13:32
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-09-03 13:32
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-09-03 13:32
+9415-9159 QUÉBEC INC.,Petro-Canada,"2 de Fairfax , Stanstead (ville & canton)",Estrie,J0B 3E2,45.023031,-72.088007,170.9,200.9,266.9,1,oui,1,2026-09-03 16:34
+9316-7252 Québec Inc.,Shell,"95 rue Sherbrooke, Magog",Estrie,J1X 2R3,45.265847,-72.146877,179.9,206.9,254.9,2,,1,2026-09-03 16:34
+Couche-Tard #707,Esso,"825 rue Maisonneuve, Granby",Estrie,J2J 1S5,45.401508,-72.76048,179.9,204.9,,2,,1,2026-09-03 16:34
+Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,183.4,207.4,263.9,4,,1,2026-09-03 16:34
+4317955 CANADA INC,Petro-Canada,"763 J.-André-Deragon , Cowansville",Estrie,J2K 0L2,45.2127,-72.715898,183.9,207.9,258.9,5,,1,2026-09-03 16:34
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-09-03 16:34
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-09-03 16:34
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-09-03 16:34
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-09-03 16:34

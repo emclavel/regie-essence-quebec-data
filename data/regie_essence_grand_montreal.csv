@@ -1,26 +1,26 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Couche-Tard #1296,Esso,"7260 boul. Laurier, Terrebonne",Lanaudière,J7M 0K6,45.766896,-73.729789,183.9,210.9,286.9,1,oui,1,2026-10-06 15:22
-9267-6873 Québec inc.,Harnois,"5511 boul. Laurier, Terrebonne",Lanaudière,J7M 1C3,45.754523,-73.709969,184.9,210.9,287.9,2,,1,2026-10-06 15:22
-Harnois Énergies Inc.,Harnois,"10551 boul. Laurier, Terrebonne",Lanaudière,J7M 1V5,45.79166,-73.765134,184.9,210.9,285.9,2,,1,2026-10-06 15:22
-Le Paddock - LaPlaine,Paddock,"6700 boul. Laurier, Terrebonne",Lanaudière,J7M 1H1,45.762703,-73.723691,184.9,208.9,287.9,2,,1,2026-10-06 15:22
-Sobeys Capital Inc.,Shell,"7271 boul. Laurier, Terrebonne",Lanaudière,J7M 1V9,45.767399,-73.729694,184.9,212.9,286.9,2,,1,2026-10-06 15:22
-Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.495217,-74.137358,178.9,201.9,259.9,1,oui,1,2026-10-06 15:22
-9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,179.9,207.9,286.9,2,,1,2026-10-06 15:22
-9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,179.9,206.9,288.9,2,,1,2026-10-06 15:22
-Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,179.9,205.9,279.9,2,,1,2026-10-06 15:22
-Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,179.9,206.9,290.9,2,,1,2026-10-06 15:22
-Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,191.9,211.9,,1,oui,1,2026-10-06 15:22
-Harnois Énergies Inc.,Esso,"2025 boul. Arthur-Sauvé, Laval",Laval,H7R 3W8,45.553575,-73.869756,191.9,217.9,284.9,1,oui,1,2026-10-06 15:22
-KEVIN PERREAULT,Ultramar,"4980 Boul. Arthur-Sauvé, LAVAL",Laval,H7R 3X1,45.551476,-73.868973,191.9,218.9,,1,oui,1,2026-10-06 15:22
-9102-7342 QUEBEC INC,Petro-Canada,"3163 Dagenais ouest, Laval",Laval,H7P 1V2,45.579458,-73.797537,193.8,220.9,286.9,4,,1,2026-10-06 15:22
-9109-9861 QUEBEC INC,Petro-Canada,"830 Vanier , Laval",Laval,H7C 2M7,45.603902,-73.651433,193.8,220.9,286.9,4,,1,2026-10-06 15:22
-2945-9260 Québec inc.,Esso,"1847-100 boul. Perrot, Notre-Dame-de-L'Île-Perrot",Montérégie,J7V 7P2,45.363622,-73.879046,175.9,201.9,,1,oui,1,2026-10-06 15:22
-9550-3389 Québec Inc.,Shell,"100 Boul. Grand Boulevard, L'ÎLE-PERROT",Montérégie,J7V 4W8,45.395674,-73.958027,175.9,203.9,286.9,1,oui,1,2026-10-06 15:22
-Couche-Tard #256,Esso,"50 boul. Don-Quichotte, L'Île-Perrot",Montérégie,J7V 6N5,45.389266,-73.964808,175.9,200.9,,1,oui,1,2026-10-06 15:22
-DEPANNEUR VIDAL INC,Petro-Canada,"110 Grand Boulevard , L'Île-Perrot",Montérégie,J7V 4W8,45.395106,-73.958227,175.9,202.9,286.9,1,oui,1,2026-10-06 15:22
-Place Saint Bernard de Lacolle inc.,Esso,"105 ch. Pleasant Valley sud, Saint-Bernard-de-Lacolle",Montérégie,J0J 1V0,45.068058,-73.458484,175.9,201.9,279.9,1,oui,1,2026-10-06 15:22
-Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,192.9,212.9,,1,oui,1,2026-10-06 15:22
-Costco Montréal Centre,Costco,"300 rue Bridge, Montréal",Montréal,H3K 2C3,45.485765,-73.553519,192.9,212.9,,1,oui,1,2026-10-06 15:22
-Couche-Tard #1094,Couche-Tard,"3865 boul. des Sources, Dollard-des-Ormeaux",Montréal,H9B 2A1,45.490657,-73.80286,192.9,219.9,,1,oui,1,2026-10-06 15:22
-Station d'essence Costco,Costco,"9403 boul. des Sciences, Montréal",Montréal,H1J 0A6,45.623187,-73.5551,192.9,212.9,,1,oui,1,2026-10-06 15:22
-9017-3261 QUEBEC INC,Ultramar,"5791 Boul. Saint-Laurent, MONTRÉAL",Montréal,H2T 1S9,45.527502,-73.60181,193.9,220.9,285.9,5,,1,2026-10-06 15:22
+9267-6873 Québec inc.,Harnois,"5511 boul. Laurier, Terrebonne",Lanaudière,J7M 1C3,45.754523,-73.709969,184.9,210.9,287.9,1,oui,1,2026-10-06 19:36
+Couche-Tard #1296,Esso,"7260 boul. Laurier, Terrebonne",Lanaudière,J7M 0K6,45.766896,-73.729789,184.9,211.9,286.9,1,oui,1,2026-10-06 19:36
+Harnois Énergies Inc.,Harnois,"10551 boul. Laurier, Terrebonne",Lanaudière,J7M 1V5,45.79166,-73.765134,184.9,210.9,285.9,1,oui,1,2026-10-06 19:36
+Le Paddock - LaPlaine,Paddock,"6700 boul. Laurier, Terrebonne",Lanaudière,J7M 1H1,45.762703,-73.723691,184.9,208.9,287.9,1,oui,1,2026-10-06 19:36
+Sobeys Capital Inc.,Shell,"7271 boul. Laurier, Terrebonne",Lanaudière,J7M 1V9,45.767399,-73.729694,184.9,212.9,286.9,1,oui,1,2026-10-06 19:36
+Little Tree,Little Tree,"1401 rang Saint-Philomène, Oka",Laurentides,J0N 1E0,45.495217,-74.137358,178.9,201.9,259.9,1,oui,1,2026-10-06 19:36
+9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,179.9,207.9,286.9,2,,1,2026-10-06 19:36
+9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,179.9,206.9,288.9,2,,1,2026-10-06 19:36
+Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,179.9,205.9,279.9,2,,1,2026-10-06 19:36
+Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,179.9,206.9,290.9,2,,1,2026-10-06 19:36
+2759-6402 Québec Inc.,Shell,"3785 boul. Dagenais ouest, Laval",Laval,H7P 5C9,45.572079,-73.820595,191.9,219.9,286.9,1,oui,1,2026-10-06 19:36
+9102-7342 QUEBEC INC,Petro-Canada,"3163 Dagenais ouest, Laval",Laval,H7P 1V2,45.579458,-73.797537,191.9,218.9,286.9,1,oui,1,2026-10-06 19:36
+9141-3336 Québec Inc.,Esso,"1155 boul. Saint-Martin ouest, Laval",Laval,H7S 1M8,45.571228,-73.722945,191.9,217.9,,1,oui,1,2026-10-06 19:36
+9174-5455 Québec inc.,Esso,"3265 boul. Saint-Martin ouest, Laval",Laval,H7T 1S2,45.557165,-73.749095,191.9,217.9,,1,oui,1,2026-10-06 19:36
+9187-5351 QUEBEC INC,Ultramar,"1890 boul. Curé-Labelle, LAVAL",Laval,H7T 1L2,45.553819,-73.763146,191.9,218.9,286.9,1,oui,1,2026-10-06 19:36
+2945-9260 Québec inc.,Esso,"1847-100 boul. Perrot, Notre-Dame-de-L'Île-Perrot",Montérégie,J7V 7P2,45.363622,-73.879046,175.9,201.9,,1,oui,1,2026-10-06 19:36
+9550-3389 Québec Inc.,Shell,"100 Boul. Grand Boulevard, L'ÎLE-PERROT",Montérégie,J7V 4W8,45.395674,-73.958027,175.9,203.9,286.9,1,oui,1,2026-10-06 19:36
+DEPANNEUR VIDAL INC,Petro-Canada,"110 Grand Boulevard , L'Île-Perrot",Montérégie,J7V 4W8,45.395106,-73.958227,175.9,202.9,286.9,1,oui,1,2026-10-06 19:36
+Place Saint Bernard de Lacolle inc.,Esso,"105 ch. Pleasant Valley sud, Saint-Bernard-de-Lacolle",Montérégie,J0J 1V0,45.068058,-73.458484,175.9,201.9,279.9,1,oui,1,2026-10-06 19:36
+Station-service Dauphinais,Ultramar,"61 route 202, Lacolle",Montérégie,J0J 1J0,45.071388,-73.356293,175.9,200.9,279.9,1,oui,1,2026-10-06 19:36
+9397-0358 QUEBEC INC,Petro-Canada,"2201 Félix-Leclerc (voie de service) nord, Dorval",Montréal,H9P 1J4,45.48306,-73.78861,184.9,211.9,286.9,1,oui,1,2026-10-06 19:36
+Couche-Tard #1094,Couche-Tard,"3865 boul. des Sources, Dollard-des-Ormeaux",Montréal,H9B 2A1,45.490657,-73.80286,184.9,211.9,,1,oui,1,2026-10-06 19:36
+Couche-Tard #1222,Esso,"4090 boul. des Sources, Dollard-des-Ormeaux",Montréal,H9B 2C8,45.493137,-73.807454,184.9,211.9,289.9,1,oui,1,2026-10-06 19:36
+Couche-Tard #254,Petro-Canada,"4700 boul. des Sources, Dollard-des-Ormeaux",Montréal,H8Y 3C7,45.501896,-73.815985,184.9,211.9,289.9,1,oui,1,2026-10-06 19:36
+Super Gaz ltée   # 825,Super Gaz,"14305 boul. de Pierrefonds, Montréal",Montréal,H9H 1Z2,45.492017,-73.852732,187.9,212.9,283.9,5,,1,2026-10-06 19:36

@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Sherbrooke,Costco,"3800 boul. Monseigneur-Fortier, Sherbrooke",Estrie,J1L 0C8,45.423789,-71.961978,181.9,201.9,,1,oui,1,2026-10-06 15:22
-Garage L.P. inc.,Harnois,"2 rue Junction, Stanstead (ville & canton)",Estrie,J0B 1E0,45.01165,-72.145922,182.9,202.9,289.9,2,,1,2026-10-06 15:22
-Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,184.4,208.4,289.9,3,,1,2026-10-06 15:22
-Trans Auto G.F inc.,Eko,"453 rte 204, Saint-Ludger",Estrie,G0M 1W0,45.737909,-70.691292,189.2,214.2,287.9,4,,1,2026-10-06 15:22
-La Société Canadian Tire Ltée,Canadian Tire,"580 rue Principale, Granby",Estrie,J2G 2X6,45.406888,-72.741082,189.4,214.4,,5,,1,2026-10-06 15:22
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-10-06 15:22
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-10-06 15:22
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-10-06 15:22
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-10-06 15:22
+Costco Sherbrooke,Costco,"3800 boul. Monseigneur-Fortier, Sherbrooke",Estrie,J1L 0C8,45.423789,-71.961978,181.9,201.9,,1,oui,1,2026-10-06 19:36
+Garage L.P. inc.,Harnois,"2 rue Junction, Stanstead (ville & canton)",Estrie,J0B 1E0,45.01165,-72.145922,182.9,202.9,289.9,2,,1,2026-10-06 19:36
+Dépanneur Woburn Inc.,Harnois,"463 rue Saint-Augustin, Saint-Augustin-de-Woburn",Estrie,G0Y 1R0,45.390898,-70.869912,184.4,208.4,289.9,3,,1,2026-10-06 19:36
+Trans Auto G.F inc.,Eko,"453 rte 204, Saint-Ludger",Estrie,G0M 1W0,45.737909,-70.691292,189.2,214.2,287.9,4,,1,2026-10-06 19:36
+4317955 CANADA INC,Petro-Canada,"763 J.-André-Deragon , Cowansville",Estrie,J2K 0L2,45.2127,-72.715898,189.9,215.9,289.9,5,,1,2026-10-06 19:36
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-10-06 19:36
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-10-06 19:36
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-10-06 19:36
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-10-06 19:36

@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Couche-Tard #556,Irving,"71 rue des Cascades, Québec",Capitale-Nationale,G1E 6T5,46.86269,-71.19255,183.9,208.9,,1,oui,1,2026-10-07 07:32
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,184.9,204.9,,2,,1,2026-10-07 07:32
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,184.9,204.9,,2,,1,2026-10-07 07:32
-Couche-Tard #558,Irving,"3190 rue Alexandra, Québec",Capitale-Nationale,G1E 6W2,46.854713,-71.216997,188.9,213.9,,4,,1,2026-10-07 07:32
-Couche-Tard #1087,Irving,"3475 boul. Sainte-Anne, Québec",Capitale-Nationale,G1E 3L5,46.853811,-71.195528,189.9,214.9,289.9,5,,1,2026-10-07 07:32
-SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,181.9,205.9,289.9,1,oui,1,2026-10-07 07:32
-Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,184.9,204.9,,2,,1,2026-10-07 07:32
-Couche-Tard #566,Irving,"200 boul. Vachon nord, Sainte-Marie",Chaudière-Appalaches,G6E 3B9,46.441902,-71.021396,185.1,210.9,,3,,1,2026-10-07 07:32
-La Société Canadian Tire Ltée,Canadian Tire,"940 boul. Vachon nord, Sainte-Marie",Chaudière-Appalaches,G6E 1M2,46.44905,-71.029374,185.1,210.1,287.8,3,,1,2026-10-07 07:32
-9319-6756 QUÉBEC INC.,Shell,"950 boul. Guillaume-Couture, Lévis",Chaudière-Appalaches,G6W 5M6,46.731221,-71.272743,185.9,213.9,287.9,5,,1,2026-10-07 07:32
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-10-07 07:32
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-10-07 07:32
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-10-07 07:32
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-10-07 07:32
+Couche-Tard #556,Irving,"71 rue des Cascades, Québec",Capitale-Nationale,G1E 6T5,46.86269,-71.19255,183.9,208.9,,1,oui,1,2026-10-07 14:31
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,184.9,204.9,,2,,1,2026-10-07 14:31
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,184.9,204.9,,2,,1,2026-10-07 14:31
+Couche-Tard #1306,Esso,"576 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2S9,46.818605,-71.25004,189.9,214.9,289.9,4,,1,2026-10-07 14:31
+Dépanneur SPRINT Wilfrid-Hamel,Petro-Canada,"580 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2T3,46.817814,-71.250868,189.9,214.9,289.9,4,,1,2026-10-07 14:31
+SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,181.9,205.9,289.9,1,oui,1,2026-10-07 14:31
+Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,184.9,204.9,,2,,1,2026-10-07 14:31
+Couche-Tard #566,Irving,"200 boul. Vachon nord, Sainte-Marie",Chaudière-Appalaches,G6E 3B9,46.441902,-71.021396,185.1,210.9,,3,,1,2026-10-07 14:31
+La Société Canadian Tire Ltée,Canadian Tire,"940 boul. Vachon nord, Sainte-Marie",Chaudière-Appalaches,G6E 1M2,46.44905,-71.029374,185.1,210.1,287.8,3,,1,2026-10-07 14:31
+Couche-Tard #525,Irving,"8025 av. des Églises, Lévis",Chaudière-Appalaches,G6X 1X6,46.722893,-71.266243,185.9,210.9,,5,,1,2026-10-07 14:31
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-10-07 14:31
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-10-07 14:31
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-10-07 14:31
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-10-07 14:31

@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,185.9,205.9,,1,oui,1,2026-10-07 00:39
-La Société Canadian Tire Ltée,Canadian Tire,"30 rue Fusey, Trois-Rivières",Mauricie,G8T 2T5,46.363722,-72.529251,191.7,218.9,289.9,2,,1,2026-10-07 00:39
-9262-0368 QUEBEC INC,Ultramar,"2000 rue de la Diversite, Trois-Rivières",Mauricie,G9B 0X5,46.316973,-72.585579,192.9,219.9,289.9,3,,1,2026-10-07 00:39
-9400-4504 QUEBEC INC,Ultramar,"5600 Boul. Jean-XXIII, Trois-Rivières",Mauricie,G8Z 3Z1,46.334463,-72.591361,192.9,219.9,295.9,3,,1,2026-10-07 00:39
-Belzile La Tuque,Belzile,"393 rue Bostonnais, La Tuque",Mauricie,G9X 2G6,47.444386,-72.775934,192.9,214.9,289.9,3,,1,2026-10-07 00:39
-ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-10-07 00:39
-ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-10-07 00:39
-ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-10-07 00:39
-ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-10-07 00:39
+Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,185.9,205.9,,1,oui,1,2026-10-07 07:32
+La Société Canadian Tire Ltée,Canadian Tire,"30 rue Fusey, Trois-Rivières",Mauricie,G8T 2T5,46.363722,-72.529251,191.7,218.9,289.9,2,,1,2026-10-07 07:32
+9262-0368 QUEBEC INC,Ultramar,"2000 rue de la Diversite, Trois-Rivières",Mauricie,G9B 0X5,46.316973,-72.585579,192.9,219.9,289.9,3,,1,2026-10-07 07:32
+9400-4504 QUEBEC INC,Ultramar,"5600 Boul. Jean-XXIII, Trois-Rivières",Mauricie,G8Z 3Z1,46.334463,-72.591361,192.9,219.9,295.9,3,,1,2026-10-07 07:32
+Belzile La Tuque,Belzile,"393 rue Bostonnais, La Tuque",Mauricie,G9X 2G6,47.444386,-72.775934,192.9,214.9,289.9,3,,1,2026-10-07 07:32
+ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-10-07 07:32
+ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-10-07 07:32
+ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-10-07 07:32
+ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-10-07 07:32

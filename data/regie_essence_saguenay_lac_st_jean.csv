@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Couche-Tard #1311,Esso,"2625 boul. de la Grande-Baie sud, Saguenay",Saguenay-Lac-Saint-Jean,G7B 4H4,48.317822,-70.861146,179.6,204.9,,1,oui,1,2026-10-08 07:48
-COOP Solidarité Lac Kéno,Crevier,"5251 ch. du Quai, Saguenay",Saguenay-Lac-Saint-Jean,G7X 7V6,48.353958,-71.324386,179.8,205.8,,2,,1,2026-10-08 07:48
-9282-2451  Québec Inc. (Dépanneur Sylvie),Shell,"957 boul. du Sacré-Coeur, Saint-Félicien",Saguenay-Lac-Saint-Jean,G8K 1R8,48.646671,-72.437528,181.4,209.4,287.9,3,,1,2026-10-08 07:48
-9442-6012 Quebec Inc,Ultramar,"432 Boul. Sainte-Geneviève, SAGUENAY",Saguenay-Lac-Saint-Jean,G7G 2E4,48.442216,-71.07443,181.4,208.9,,3,,1,2026-10-08 07:48
-Accomodation chez François enr.,Petro-Canada,"677 boul. Tadoussac, Saguenay",Saguenay-Lac-Saint-Jean,G7H 5A8,48.451071,-71.020099,181.4,206.4,286.9,3,,1,2026-10-08 07:48
-ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-10-08 07:48
-ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-10-08 07:48
-ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-10-08 07:48
-ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-10-08 07:48
+Couche-Tard #1311,Esso,"2625 boul. de la Grande-Baie sud, Saguenay",Saguenay-Lac-Saint-Jean,G7B 4H4,48.317822,-70.861146,179.6,204.9,,1,oui,1,2026-10-08 14:30
+La Société Canadian Tire Ltée,Canadian Tire,"225 boul. de la Grande-Baie nord, Saguenay",Saguenay-Lac-Saint-Jean,G7B 3K1,48.336551,-70.882167,179.6,204.6,289.9,1,oui,1,2026-10-08 14:30
+COOP Solidarité Lac Kéno,Crevier,"5251 ch. du Quai, Saguenay",Saguenay-Lac-Saint-Jean,G7X 7V6,48.353958,-71.324386,179.8,205.8,,3,,1,2026-10-08 14:30
+Alimentation PLD,Petro-Canada,"160 rte 170, L'Anse-Saint-Jean",Saguenay-Lac-Saint-Jean,G0V 1J0,48.196669,-70.245215,179.9,204.9,289.9,4,,1,2026-10-08 14:30
+Co-op de Consommation de Petit-Saguenay,Shell,"60 rue Dumas, Petit-Saguenay",Saguenay-Lac-Saint-Jean,G0V 1N0,48.209145,-70.067898,179.9,204.9,,4,,1,2026-10-08 14:30
+ghost_north,,,Saguenay-Lac-Saint-Jean,,49.2,-72.85,,,,,,0,2026-10-08 14:30
+ghost_south,,,Saguenay-Lac-Saint-Jean,,47.3,-72.85,,,,,,0,2026-10-08 14:30
+ghost_west,,,Saguenay-Lac-Saint-Jean,,48.25,-74.8,,,,,,0,2026-10-08 14:30
+ghost_east,,,Saguenay-Lac-Saint-Jean,,48.25,-70.9,,,,,,0,2026-10-08 14:30

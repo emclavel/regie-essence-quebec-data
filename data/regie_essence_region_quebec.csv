@@ -1,15 +1,15 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Couche-Tard #556,Irving,"71 rue des Cascades, Québec",Capitale-Nationale,G1E 6T5,46.86269,-71.19255,183.9,208.9,,1,oui,1,2026-10-08 07:48
-Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,184.9,204.9,,2,,1,2026-10-08 07:48
-Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,184.9,204.9,,2,,1,2026-10-08 07:48
-9410-3306 Quebec inc,Ultramar,"1080 boul. Wilfrid-Hamel, QUÉBEC",Capitale-Nationale,G1M 2S3,46.809682,-71.261023,189.9,216.9,289.9,4,,1,2026-10-08 07:48
-Couche-Tard #1306,Esso,"576 boul. Wilfrid-Hamel, Québec",Capitale-Nationale,G1M 2S9,46.818605,-71.25004,189.9,214.9,289.9,4,,1,2026-10-08 07:48
-SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,181.9,205.9,289.9,1,oui,1,2026-10-08 07:48
-Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,184.9,204.9,,2,,1,2026-10-08 07:48
-Alimentation du Pont (2013) inc.,Miraco,"155 rue du Pont, Sainte-Marie",Chaudière-Appalaches,G6E 2X8,46.434756,-71.025158,185.1,210.9,,3,,1,2026-10-08 07:48
-Couche-Tard #566,Irving,"200 boul. Vachon nord, Sainte-Marie",Chaudière-Appalaches,G6E 3B9,46.441902,-71.021396,185.1,210.9,,3,,1,2026-10-08 07:48
-Filgo Vachon Nord,Shell,"1111 boul. Vachon nord, Sainte-Marie",Chaudière-Appalaches,G6E 1M9,46.455441,-71.037531,185.1,210.9,287.9,3,,1,2026-10-08 07:48
-ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-10-08 07:48
-ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-10-08 07:48
-ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-10-08 07:48
-ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-10-08 07:48
+Couche-Tard #556,Irving,"71 rue des Cascades, Québec",Capitale-Nationale,G1E 6T5,46.86269,-71.19255,183.9,208.9,,1,oui,1,2026-10-08 14:30
+Costco Québec,Costco,"440 rue Bouvier, Québec",Capitale-Nationale,G2J 1E3,46.839565,-71.269263,186.9,206.9,,2,,1,2026-10-08 14:30
+Costco Sainte-Foy,Costco,"3233 av. Watt, Québec",Capitale-Nationale,G1X 4W2,46.780325,-71.328438,186.9,206.9,,2,,1,2026-10-08 14:30
+9394-4833 Québec Inc.,Esso,"1280 boul. Grande Allée ouest, Québec",Capitale-Nationale,G1S 1E8,46.789708,-71.246089,189.9,210.9,,4,,1,2026-10-08 14:30
+9410-3306 Quebec inc,Ultramar,"1080 boul. Wilfrid-Hamel, QUÉBEC",Capitale-Nationale,G1M 2S3,46.809682,-71.261023,189.9,216.9,289.9,4,,1,2026-10-08 14:30
+SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,181.9,205.9,289.9,1,oui,1,2026-10-08 14:30
+Alimentation du Pont (2013) inc.,Miraco,"155 rue du Pont, Sainte-Marie",Chaudière-Appalaches,G6E 2X8,46.434756,-71.025158,185.1,210.9,,2,,1,2026-10-08 14:30
+Couche-Tard #566,Irving,"200 boul. Vachon nord, Sainte-Marie",Chaudière-Appalaches,G6E 3B9,46.441902,-71.021396,185.1,210.9,,2,,1,2026-10-08 14:30
+Filgo Vachon Nord,Shell,"1111 boul. Vachon nord, Sainte-Marie",Chaudière-Appalaches,G6E 1M9,46.455441,-71.037531,185.1,210.9,287.9,2,,1,2026-10-08 14:30
+Gestion Isabelle Lachance Inc.,Ultramar,"669 rue des Érables, SAINT-ELZÉAR",Chaudière-Appalaches,G0S 2J0,46.40583,-71.064362,185.1,212.9,287.9,2,,1,2026-10-08 14:30
+ghost_north,,,Région de Québec,,47.12,-71.25,,,,,,0,2026-10-08 14:30
+ghost_south,,,Région de Québec,,45.0,-71.25,,,,,,0,2026-10-08 14:30
+ghost_west,,,Région de Québec,,46.06,-72.9,,,,,,0,2026-10-08 14:30
+ghost_east,,,Région de Québec,,46.06,-69.6,,,,,,0,2026-10-08 14:30

@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,185.9,205.9,,1,oui,1,2026-10-08 00:49
-La Société Canadian Tire Ltée,Canadian Tire,"3575 boul. des Forges, Trois-Rivières",Mauricie,G8Y 4P2,46.352886,-72.58204,192.2,217.9,,2,,1,2026-10-08 00:49
-9107-5838 Québec inc.,Harnois,"830 rue Notre-Dame, Saint-Narcisse",Mauricie,G0X 2Y0,46.55561,-72.48539,192.4,213.9,285.9,3,,1,2026-10-08 00:49
-9188-5152 QUEBEC INC,Ultramar,"340 Rang 3, SAINT-NARCISSE",Mauricie,G0X 2Y0,46.54542,-72.497628,192.4,219.9,287.9,3,,1,2026-10-08 00:49
-9437-3958 Québec inc.,Shell,"6600 boul. Parent, Trois-Rivières",Mauricie,G9A 5E1,46.358714,-72.61786,192.4,213.9,287.9,3,,1,2026-10-08 00:49
-ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-10-08 00:49
-ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-10-08 00:49
-ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-10-08 00:49
-ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-10-08 00:49
+Costco Trois-Rivières-Ouest,Costco,"3000 boul. des Récollets, Trois-Rivières",Mauricie,G9A 6J2,46.329974,-72.571278,185.9,205.9,,1,oui,1,2026-10-08 07:48
+Couche-Tard #855,Shell,"550 rue Laviolette, Trois-Rivières",Mauricie,G9A 1V5,46.346533,-72.542533,192.2,221.9,,2,,1,2026-10-08 07:48
+Couche-Tard #862,Petro-Canada,"3575 rue Papineau, Trois-Rivières",Mauricie,G8Z 1P8,46.356503,-72.57322,192.2,219.9,,2,,1,2026-10-08 07:48
+La Société Canadian Tire Ltée,Canadian Tire,"3575 boul. des Forges, Trois-Rivières",Mauricie,G8Y 4P2,46.352886,-72.58204,192.2,217.9,,2,,1,2026-10-08 07:48
+9107-5838 Québec inc.,Harnois,"830 rue Notre-Dame, Saint-Narcisse",Mauricie,G0X 2Y0,46.55561,-72.48539,192.4,213.9,285.9,5,,1,2026-10-08 07:48
+ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-10-08 07:48
+ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-10-08 07:48
+ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-10-08 07:48
+ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-10-08 07:48

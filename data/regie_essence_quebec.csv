@@ -1,87 +1,87 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9441-9264 Québec Inc.,Harnois,"3182 rue Saguenay, Rouyn-Noranda",Abitibi-Témiscamingue,J9Y 0E2,48.291928,-79.03785,189.4,210.9,287.9,1,oui,1,2026-10-22 21:15
-9461-5622 Québec Inc.,Harnois,"632 rue 2 est, La Sarre",Abitibi-Témiscamingue,J9Z 2S5,48.790057,-79.200758,189.4,210.9,287.9,1,oui,1,2026-10-22 21:15
-Dépanneur Au Petit Castor,Harnois,"5993 boul. Rideau, Rouyn-Noranda",Abitibi-Témiscamingue,J0Z 1B0,48.197571,-79.253972,189.4,216.4,,1,oui,1,2026-10-22 21:15
-Dépanneur SPRINT Relais Noranda,Petro-Canada,"2350 boul. Saguenay, Rouyn-Noranda",Abitibi-Témiscamingue,J9X 7G1,48.271731,-79.027249,189.4,214.4,287.9,1,oui,1,2026-10-22 21:15
-PRO-GAZ INC,Ultramar,"618 rue 2, LA SARRE",Abitibi-Témiscamingue,J9Z 2S5,48.791469,-79.200804,189.4,216.9,293.9,1,oui,1,2026-10-22 21:15
-Dépanneur Central Marcel Gauthier,Petro-Canada,"285 rue Principale, Saint-Gabriel-de-Rimouski",Bas-Saint-Laurent,G0K 1M0,48.428187,-68.166009,186.4,206.4,280.9,1,oui,1,2026-10-22 21:15
-Costco Rimouski,Costco,"431 boul. Arthur-Buies est, Rimouski",Bas-Saint-Laurent,G5M 0Y8,48.45337,-68.49122,186.9,206.9,,2,,1,2026-10-22 21:15
-Filgo Cacouna,Shell,"1630 rte du Patrimoine, Cacouna",Bas-Saint-Laurent,G0L 1G0,47.956311,-69.432087,187.9,212.9,288.9,3,,1,2026-10-22 21:15
-DEPANNEUR L'ESSENTIEL INC,Ultramar,"686 route de la Cédrière, SAINTE-ANGÈLE-DE-MÉRICI",Bas-Saint-Laurent,G0J 2H0,48.525838,-68.074258,188.5,215.9,295.9,4,,1,2026-10-22 21:15
-Garage Picard (2017) inc.,Harnois,"214 rue Principale ouest, Sainte-Hélène-de-Kamouraska",Bas-Saint-Laurent,G0L 3J0,47.585749,-69.735861,189.0,,293.9,5,,1,2026-10-22 21:15
-Accommodation Cap-Santé enr.,Sonic,"328 rte 138, Cap-Santé",Capitale-Nationale,G0A 1L0,46.672503,-71.791002,180.9,202.9,,1,oui,1,2026-10-22 21:15
-9008-3619 QUEBEC INC,Shell,"4459 route de Fossambault, SAINTE-CATHERINE-DE-LA-JACQUES-CARTIER",Capitale-Nationale,G3N 2T5,46.837916,-71.608599,182.9,210.9,289.9,2,,1,2026-10-22 21:15
-9403-1135 Québec Inc.,Pétro-T,"300 rue Saint-Charles, Notre-Dame-de-Portneuf",Capitale-Nationale,G0A 2Y0,46.708901,-71.891093,182.9,208.9,287.9,2,,1,2026-10-22 21:15
-9503-2264 Québec Inc.,Harnois,"34 rte de la Pinière, Pont-Rouge",Capitale-Nationale,G3H 2Z3,46.740278,-71.681196,182.9,203.9,287.9,2,,1,2026-10-22 21:15
-Alimentation Duplain Inc,Esso,"710 côte Joyeuse, Saint-Raymond",Capitale-Nationale,G3L 4B1,46.870704,-71.834821,182.9,203.9,289.9,2,,1,2026-10-22 21:15
-9068-2873 Québec Inc.,Harnois,"7 rte Marie-Victorin, Saint-François-du-Lac",Centre-du-Québec,J0G 1M0,46.062844,-72.819403,171.9,192.9,288.9,1,oui,1,2026-10-22 21:15
-Dépanneur Pierreville inc.,Sonic,"74 rue Maurault, Pierreville",Centre-du-Québec,J0G 1J0,46.071185,-72.810876,171.9,193.9,289.9,1,oui,1,2026-10-22 21:15
-ENTREP M & G GAMELIN INC,Ultramar,"112 rue Maurault, PIERREVILLE",Centre-du-Québec,J0G 1J0,46.072827,-72.810092,171.9,198.9,288.9,1,oui,1,2026-10-22 21:15
-Costco Drummondville,Costco,"105 rue Robert-Bernard, Drummondville",Centre-du-Québec,J2C 8N1,45.909749,-72.509487,177.9,197.9,,4,,1,2026-10-22 21:15
-Station-service Léon Noël,Pétro Gaz,"4900 rte 255, Saint-Lucien",Centre-du-Québec,J0C 1N0,45.879013,-72.275418,177.9,204.9,287.9,4,,1,2026-10-22 21:15
-9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,177.9,202.9,290.9,1,oui,1,2026-10-22 21:15
-Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,177.9,202.9,,1,oui,1,2026-10-22 21:15
-SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,181.9,206.9,297.9,3,,1,2026-10-22 21:15
-Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,183.9,203.9,,4,,1,2026-10-22 21:15
-Alimentation du Pont (2013) inc.,Miraco,"155 rue du Pont, Sainte-Marie",Chaudière-Appalaches,G6E 2X8,46.434756,-71.025158,185.1,214.9,,5,,1,2026-10-22 21:15
-4364945 Canada Inc,Esso,"1 rue Granier, Pointe-Lebel",Côte-Nord,G0H 1N0,49.173561,-68.326103,189.4,210.9,289.9,1,oui,1,2026-10-22 21:15
-Autobus T.R. Inc.,Esso,"3 rte 138, Portneuf-sur-Mer",Côte-Nord,G0T 1P0,48.62985,-69.103661,189.4,210.9,289.9,1,oui,1,2026-10-22 21:15
-Couche-Tard #947,Irving,"193 boul. La Salle, Baie-Comeau",Côte-Nord,G4Z 1S7,49.217711,-68.166252,189.4,216.9,289.9,1,oui,1,2026-10-22 21:15
-Couche-Tard inc.,Esso,"344 boul. La Salle, Baie-Comeau",Côte-Nord,G4Z 2W3,49.214178,-68.195155,189.4,210.9,,1,oui,1,2026-10-22 21:15
-Dépanneur Daka,Petro-Canada,"6 av. Le Gardeur, Baie-Comeau",Côte-Nord,G4Z 2X9,49.243221,-68.149399,189.4,214.4,289.9,1,oui,1,2026-10-22 21:15
-Couche-Tard inc.,Esso,"3 ch. Fairfax, Stanstead (ville & canton)",Estrie,J0B 3E0,45.023694,-72.087397,177.9,198.9,288.9,1,oui,1,2026-10-22 21:15
-9148-4840 QUEBEC INC,Ultramar,"3528 rue Principale, DUNHAM",Estrie,J0E 1M0,45.14069,-72.800819,179.9,206.9,288.9,2,,1,2026-10-22 21:15
-9256-0218 QUEBEC INC,Ultramar,"55 Boul. Coakley, Val-des-Sources",Estrie,J1T 4L5,45.78213,-71.922579,179.9,206.9,296.9,2,,1,2026-10-22 21:15
-9382-2054 Quebec Inc,Ultramar,"105 route 139, SAINT-ALPHONSE-DE-GRANBY",Estrie,J0E 2A0,45.342197,-72.783829,179.9,206.9,299.9,2,,1,2026-10-22 21:15
-9415-9159 QUÉBEC INC.,Petro-Canada,"2 de Fairfax , Stanstead (ville & canton)",Estrie,J0B 3E2,45.023031,-72.088007,179.9,214.9,299.9,2,,1,2026-10-22 21:15
-9019-8870 Québec Inc.,Harnois,"8 Boul. Perron, Escuminac",Gaspésie-Îles-de-la-Madeleine,G0C 2M0,48.068604,-66.56361,179.9,199.9,294.9,1,oui,1,2026-10-22 21:15
-9447-1406 QUEBEC INC.,Ultramar,"22 boul. Interprovincial, POINTE-À-LA-CROIX",Gaspésie-Îles-de-la-Madeleine,G0C 1L0,48.017942,-66.68884,181.9,201.9,299.9,2,,1,2026-10-22 21:15
-GARAGE RESTIGOUCHE INC,Ultramar,"4 rue des Saumons, MATAPÉDIA",Gaspésie-Îles-de-la-Madeleine,G0J 1V0,47.974092,-66.943004,181.9,208.9,299.9,2,,1,2026-10-22 21:15
-Harnois Énergies Inc.,Harnois,"399 ch. Central, Saint-François-d'Assise",Gaspésie-Îles-de-la-Madeleine,G0J 2N0,47.982496,-67.157277,181.9,207.9,293.9,2,,1,2026-10-22 21:15
-Woodpile,Petro-Canada,"32 route Gaspé Highway, Listuguj",Gaspésie-Îles-de-la-Madeleine,G0C 2R0,48.0235391141,-66.7199328203,181.9,196.9,275.9,2,,1,2026-10-22 21:15
-Costco Terrebonne,Costco,"870 montée des Pionniers, Terrebonne",Lanaudière,J6V 1N9,45.721908,-73.506452,167.9,187.9,,1,oui,1,2026-10-22 21:15
-Couche-Tard #1219,Esso,"125 rue Chopin, Charlemagne",Lanaudière,J5Z 4N6,45.720146,-73.490858,169.9,196.9,289.9,2,,1,2026-10-22 21:15
-Filgo Charlemagne,Shell,"2 boul. Céline Dion, Charlemagne",Lanaudière,J5Z 0G2,45.717081,-73.48464,169.9,194.9,289.9,2,,1,2026-10-22 21:15
-Harnois Énergies Inc.,Harnois,"100 montée des Pionniers, Terrebonne",Lanaudière,J6V 1S8,45.708927,-73.511929,169.9,190.9,284.9,2,,1,2026-10-22 21:15
-RESEAU GLP & CIE INC,Petro-Canada,"251 Des Migrateurs , Terrebonne",Lanaudière,J6V 0A8,45.716371,-73.504444,169.9,196.9,291.9,2,,1,2026-10-22 21:15
-9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,157.5,184.9,289.9,1,oui,1,2026-10-22 21:15
-Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,157.5,183.5,284.9,1,oui,1,2026-10-22 21:15
-Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,157.5,184.9,294.9,1,oui,1,2026-10-22 21:15
-9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,157.8,185.8,294.9,4,,1,2026-10-22 21:15
-Shell,Shell,"1868 rte 148, Grenville-sur-la-Rouge",Laurentides,J0V 1B0,45.652039,-74.626681,157.9,183.9,284.9,5,,1,2026-10-22 21:15
-Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,172.9,192.9,,1,oui,1,2026-10-22 21:15
-Super Gaz ltée #801,Super Gaz,"3033 boul. Cartier ouest, Laval",Laval,H7V 1J3,45.542786,-73.726692,172.9,197.9,287.9,1,oui,1,2026-10-22 21:15
-2759-6402 Québec Inc.,Shell,"3785 boul. Dagenais ouest, Laval",Laval,H7P 5C9,45.572079,-73.820595,174.9,202.9,294.9,3,,1,2026-10-22 21:15
-9102-7342 QUEBEC INC,Petro-Canada,"3163 Dagenais ouest, Laval",Laval,H7P 1V2,45.579458,-73.797537,174.9,201.9,291.9,3,,1,2026-10-22 21:15
-9105-3371 QUEBEC INC.,Shell,"3490 boul. Le Carrefour, Laval",Laval,H7T 3A3,45.562011,-73.757239,174.9,202.9,294.9,3,,1,2026-10-22 21:15
-Dépanneur Relais Batiscan,Petro-Canada,"1240 rte Principale, Batiscan",Mauricie,G0X 1A0,46.506747,-72.246065,181.9,206.9,287.9,1,oui,1,2026-10-22 21:15
-Garage R. Marchand,Sonic,"30 ch. Rivière à Veillet, Sainte-Geneniève-de-Batiscan",Mauricie,G0X 2R0,46.538396,-72.341296,181.9,203.9,287.9,1,oui,1,2026-10-22 21:15
-Harnois Énergies Inc.,Harnois,"310 boul. Lanaudière, Sainte-Anne-de-la-Pérade",Mauricie,G0X 2J0,46.571925,-72.203195,181.9,202.9,287.9,1,oui,1,2026-10-22 21:15
-Marché Bonichoix St-Stanislas inc.,Petro-Canada,"1395 rue Principale, Saint-Stanislas",Mauricie,G0X 3E0,46.612977,-72.384839,181.9,206.9,,1,oui,1,2026-10-22 21:15
-9383-4349 QUEBEC INC,Ultramar,"2505 av. 105, SHAWINIGAN",Mauricie,G9P 1P7,46.51871,-72.742946,182.9,209.9,,5,,1,2026-10-22 21:15
-Pétroles L.D.J. inc.,Harnois,"70 rue de l'Église nord, Lacolle",Montérégie,J0J 1J0,45.087203,-73.372987,163.9,183.9,285.9,1,oui,1,2026-10-22 21:15
-Place Saint Bernard de Lacolle inc.,Esso,"105 ch. Pleasant Valley sud, Saint-Bernard-de-Lacolle",Montérégie,J0J 1V0,45.068058,-73.458484,163.9,189.9,285.9,1,oui,1,2026-10-22 21:15
-Station-service Dauphinais,Ultramar,"61 route 202, Lacolle",Montérégie,J0J 1J0,45.071388,-73.356293,163.9,183.9,285.9,1,oui,1,2026-10-22 21:15
-LES ENTREPRISES JULIE LABELLE INC,Petro-Canada,"7800 Cousineau , Longueuil",Montérégie,J3Z 1H2,45.481874,-73.388427,164.7,191.9,291.9,4,,1,2026-10-22 21:15
-Couche-Tard #1207,Esso,"8175 boul. Cousineau, Longueuil",Montérégie,J3Z 0G6,45.475669,-73.379771,164.8,189.9,289.9,5,,1,2026-10-22 21:15
-9086-6922 QUEBEC INC,Petro-Canada,"5455 Saint-Laurent , Montréal",Montréal,H2T 1S5,45.525679,-73.597966,169.9,196.9,291.9,1,oui,1,2026-10-22 21:15
-9338-2141 QUEBEC INC,Petro-Canada,"4505 du Parc , Montréal",Montréal,H2V 4E4,45.517092,-73.589503,169.9,196.9,,1,oui,1,2026-10-22 21:15
-9391-7466 QUEBEC INC,Ultramar,"1650 rue Notre-Dame, MONTRÉAL",Montréal,H8S 2E6,45.435245,-73.678822,170.9,197.9,,3,,1,2026-10-22 21:15
-EQUIPE DE C INC,Petro-Canada,"440 32 est, Montréal",Montréal,H8T 1Y3,45.437906,-73.691421,171.9,198.9,291.9,4,,1,2026-10-22 21:15
-9173-4996 QUEBEC INC,Shell,"4510 boul. Saint-Charles sud, Montréal",Montréal,H9H 3C8,45.462617,-73.870387,172.9,200.9,294.9,5,,1,2026-10-22 21:15
-Petro-Canada,Petro-Canada,"2460 ch. Rockland, Mont-Royal",Municipalités hors MRC \ CMM,H3P 3G5,45.526563,-73.650197,181.9,208.9,291.9,1,oui,1,2026-10-22 21:15
-9092-3376 Québec Inc.,Esso,"100 boul. Matagami, Matagami",Nord-du-Québec,J0Y 2A0,49.757126,-77.633621,189.4,210.9,287.9,1,oui,1,2026-10-22 21:15
-Lave-Auto Matagami Ltée,Shell,"95 boul. Matagami, Matagami",Nord-du-Québec,J0Y 2A0,49.756445,-77.63501,189.4,214.4,293.9,1,oui,1,2026-10-22 21:15
-9187-2523 Québec inc.,Harnois,"970 rue 3, Chibougamau",Nord-du-Québec,G8P 1R6,49.905884,-74.38516,196.4,219.9,295.9,3,,1,2026-10-22 21:15
-Belzile Chibougamau,Belzile,"902 rue 3, Chibougamau",Nord-du-Québec,G8P 1R2,49.91192,-74.384769,196.4,218.4,295.9,3,,1,2026-10-22 21:15
-Nutrinor Énergies Chibougamau,Nutrinor Énergies,"990 rue 3, Chibougamau",Nord-du-Québec,G8P 1R7,49.904956,-74.385477,196.4,219.4,295.9,3,,1,2026-10-22 21:15
-BCP IV Service Station LP,Mobil,"2336 rue Saint-Louis, Gatineau",Outaouais,J8V 1A2,45.488364,-75.746995,168.5,194.9,291.9,1,oui,1,2026-10-22 21:15
-Quickie Limbour,Quickie,"2335 rue Saint-Louis, Gatineau",Outaouais,J8V 1J2,45.488816,-75.74641,168.8,194.8,,2,,1,2026-10-22 21:15
-Station Suprême,Aucun,"1151 boul. Saint-Joseph, Gatineau",Outaouais,J8Z 2C9,45.473246,-75.739886,168.9,194.9,291.9,3,,1,2026-10-22 21:15
-Couche-Tard #625,Esso,"725 boul. des Hautes-Plaines, Gatineau",Outaouais,J8Z 2W9,45.474512,-75.772051,169.1,196.9,,4,,1,2026-10-22 21:15
-MacEwen Petroleum Inc,Ultramar,"34 Boul. du Mont-Bleu, GATINEAU",Outaouais,J8Z 1J1,45.462485,-75.746158,169.1,196.9,,4,,1,2026-10-22 21:15
-BCP IV Service Station LP,Mobil,"1101 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B5,48.40924,-71.052572,162.9,188.9,274.8,1,oui,1,2026-10-22 21:15
-Couche-Tard #1002,Esso,"1455 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4C1,48.403131,-71.059187,162.9,187.9,,1,oui,1,2026-10-22 21:15
-GESTION J & D INC,Ultramar,"1016 Boul. Talbot, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 4B6,48.411756,-71.05197,162.9,189.9,277.9,1,oui,1,2026-10-22 21:15
-La Société Canadian Tire Ltée,Canadian Tire,"1050 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B6,48.411103,-71.052843,162.9,184.9,274.8,1,oui,1,2026-10-22 21:15
-2638-9072 Québec Inc.,Esso,"1773 rte 169, Métabetchouan–Lac-à-la-Croix",Saguenay-Lac-Saint-Jean,G8G 1A8,48.434819,-71.856253,163.4,183.9,283.9,5,,1,2026-10-22 21:15
+9441-9264 Québec Inc.,Harnois,"3182 rue Saguenay, Rouyn-Noranda",Abitibi-Témiscamingue,J9Y 0E2,48.291928,-79.03785,189.4,215.9,287.9,1,oui,1,2026-10-23 03:02
+9461-5622 Québec Inc.,Harnois,"632 rue 2 est, La Sarre",Abitibi-Témiscamingue,J9Z 2S5,48.790057,-79.200758,189.4,215.9,287.9,1,oui,1,2026-10-23 03:02
+Dépanneur Au Petit Castor,Harnois,"5993 boul. Rideau, Rouyn-Noranda",Abitibi-Témiscamingue,J0Z 1B0,48.197571,-79.253972,189.4,216.4,,1,oui,1,2026-10-23 03:02
+Dépanneur SPRINT Relais Noranda,Petro-Canada,"2350 boul. Saguenay, Rouyn-Noranda",Abitibi-Témiscamingue,J9X 7G1,48.271731,-79.027249,189.4,214.4,287.9,1,oui,1,2026-10-23 03:02
+PRO-GAZ INC,Ultramar,"618 rue 2, LA SARRE",Abitibi-Témiscamingue,J9Z 2S5,48.791469,-79.200804,189.4,216.9,293.9,1,oui,1,2026-10-23 03:02
+Dépanneur Central Marcel Gauthier,Petro-Canada,"285 rue Principale, Saint-Gabriel-de-Rimouski",Bas-Saint-Laurent,G0K 1M0,48.428187,-68.166009,186.4,206.4,280.9,1,oui,1,2026-10-23 03:02
+Costco Rimouski,Costco,"431 boul. Arthur-Buies est, Rimouski",Bas-Saint-Laurent,G5M 0Y8,48.45337,-68.49122,186.9,206.9,,2,,1,2026-10-23 03:02
+9026-0050 QUEBEC INC.,Ultramar,"101 route des Pionniers, RIMOUSKI",Bas-Saint-Laurent,G5N 5M6,48.393756,-68.478858,187.4,215.9,294.9,3,,1,2026-10-23 03:02
+Filgo Cacouna,Shell,"1630 rte du Patrimoine, Cacouna",Bas-Saint-Laurent,G0L 1G0,47.956311,-69.432087,187.9,212.9,288.9,4,,1,2026-10-23 03:02
+DEPANNEUR L'ESSENTIEL INC,Ultramar,"686 route de la Cédrière, SAINTE-ANGÈLE-DE-MÉRICI",Bas-Saint-Laurent,G0J 2H0,48.525838,-68.074258,188.5,215.9,295.9,5,,1,2026-10-23 03:02
+Accommodation Cap-Santé enr.,Sonic,"328 rte 138, Cap-Santé",Capitale-Nationale,G0A 1L0,46.672503,-71.791002,180.9,202.9,,1,oui,1,2026-10-23 03:02
+9008-3619 QUEBEC INC,Shell,"4459 route de Fossambault, SAINTE-CATHERINE-DE-LA-JACQUES-CARTIER",Capitale-Nationale,G3N 2T5,46.837916,-71.608599,182.9,210.9,289.9,2,,1,2026-10-23 03:02
+9403-1135 Québec Inc.,Pétro-T,"300 rue Saint-Charles, Notre-Dame-de-Portneuf",Capitale-Nationale,G0A 2Y0,46.708901,-71.891093,182.9,208.9,287.9,2,,1,2026-10-23 03:02
+9503-2264 Québec Inc.,Harnois,"34 rte de la Pinière, Pont-Rouge",Capitale-Nationale,G3H 2Z3,46.740278,-71.681196,182.9,208.9,287.9,2,,1,2026-10-23 03:02
+Alimentation Duplain Inc,Esso,"710 côte Joyeuse, Saint-Raymond",Capitale-Nationale,G3L 4B1,46.870704,-71.834821,182.9,208.9,289.9,2,,1,2026-10-23 03:02
+9068-2873 Québec Inc.,Harnois,"7 rte Marie-Victorin, Saint-François-du-Lac",Centre-du-Québec,J0G 1M0,46.062844,-72.819403,171.9,197.9,288.9,1,oui,1,2026-10-23 03:02
+Dépanneur Pierreville inc.,Sonic,"74 rue Maurault, Pierreville",Centre-du-Québec,J0G 1J0,46.071185,-72.810876,171.9,193.9,289.9,1,oui,1,2026-10-23 03:02
+ENTREP M & G GAMELIN INC,Ultramar,"112 rue Maurault, PIERREVILLE",Centre-du-Québec,J0G 1J0,46.072827,-72.810092,171.9,198.9,288.9,1,oui,1,2026-10-23 03:02
+Costco Drummondville,Costco,"105 rue Robert-Bernard, Drummondville",Centre-du-Québec,J2C 8N1,45.909749,-72.509487,177.9,197.9,,4,,1,2026-10-23 03:02
+Station-service Léon Noël,Pétro Gaz,"4900 rte 255, Saint-Lucien",Centre-du-Québec,J0C 1N0,45.879013,-72.275418,177.9,204.9,287.9,4,,1,2026-10-23 03:02
+9069-8150 Québec Inc.,Harnois,"550 rue Principale, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.969205,-69.791213,177.9,202.9,290.9,1,oui,1,2026-10-23 03:02
+Garage Yvon Vaillancourt inc.,Eko,"329 rue Principale Nord, Saint-Pamphile",Chaudière-Appalaches,G0R 3X0,46.965565,-69.786414,177.9,202.9,,1,oui,1,2026-10-23 03:02
+SERVICE J.O. INC.,Crevier,"1559 Rang Double, SAINT-PAMPHILE",Chaudière-Appalaches,G0R 3X0,46.935124,-69.812716,181.9,206.9,297.9,3,,1,2026-10-23 03:02
+Costco Lévis,Costco,"1160 rue De la concorde, Lévis",Chaudière-Appalaches,G6W 0M4,46.730502,-71.263686,183.9,203.9,,4,,1,2026-10-23 03:02
+Couche-Tard #566,Irving,"200 boul. Vachon nord, Sainte-Marie",Chaudière-Appalaches,G6E 3B9,46.441902,-71.021396,185.1,210.9,,5,,1,2026-10-23 03:02
+4364945 Canada Inc,Esso,"1 rue Granier, Pointe-Lebel",Côte-Nord,G0H 1N0,49.173561,-68.326103,189.4,215.9,289.9,1,oui,1,2026-10-23 03:02
+Autobus T.R. Inc.,Esso,"3 rte 138, Portneuf-sur-Mer",Côte-Nord,G0T 1P0,48.62985,-69.103661,189.4,215.9,289.9,1,oui,1,2026-10-23 03:02
+Couche-Tard #947,Irving,"193 boul. La Salle, Baie-Comeau",Côte-Nord,G4Z 1S7,49.217711,-68.166252,189.4,216.9,289.9,1,oui,1,2026-10-23 03:02
+Couche-Tard inc.,Esso,"344 boul. La Salle, Baie-Comeau",Côte-Nord,G4Z 2W3,49.214178,-68.195155,189.4,215.9,,1,oui,1,2026-10-23 03:02
+Dépanneur Daka,Petro-Canada,"6 av. Le Gardeur, Baie-Comeau",Côte-Nord,G4Z 2X9,49.243221,-68.149399,189.4,214.4,289.9,1,oui,1,2026-10-23 03:02
+Couche-Tard inc.,Esso,"3 ch. Fairfax, Stanstead (ville & canton)",Estrie,J0B 3E0,45.023694,-72.087397,177.9,203.9,288.9,1,oui,1,2026-10-23 03:02
+9148-4840 QUEBEC INC,Ultramar,"3528 rue Principale, DUNHAM",Estrie,J0E 1M0,45.14069,-72.800819,179.9,206.9,288.9,2,,1,2026-10-23 03:02
+9256-0218 QUEBEC INC,Ultramar,"55 Boul. Coakley, Val-des-Sources",Estrie,J1T 4L5,45.78213,-71.922579,179.9,206.9,296.9,2,,1,2026-10-23 03:02
+9382-2054 Quebec Inc,Ultramar,"105 route 139, SAINT-ALPHONSE-DE-GRANBY",Estrie,J0E 2A0,45.342197,-72.783829,179.9,206.9,299.9,2,,1,2026-10-23 03:02
+9415-9159 QUÉBEC INC.,Petro-Canada,"2 de Fairfax , Stanstead (ville & canton)",Estrie,J0B 3E2,45.023031,-72.088007,179.9,214.9,299.9,2,,1,2026-10-23 03:02
+9019-8870 Québec Inc.,Harnois,"8 Boul. Perron, Escuminac",Gaspésie-Îles-de-la-Madeleine,G0C 2M0,48.068604,-66.56361,179.9,199.9,294.9,1,oui,1,2026-10-23 03:02
+9447-1406 QUEBEC INC.,Ultramar,"22 boul. Interprovincial, POINTE-À-LA-CROIX",Gaspésie-Îles-de-la-Madeleine,G0C 1L0,48.017942,-66.68884,181.9,201.9,299.9,2,,1,2026-10-23 03:02
+GARAGE RESTIGOUCHE INC,Ultramar,"4 rue des Saumons, MATAPÉDIA",Gaspésie-Îles-de-la-Madeleine,G0J 1V0,47.974092,-66.943004,181.9,208.9,299.9,2,,1,2026-10-23 03:02
+Harnois Énergies Inc.,Harnois,"399 ch. Central, Saint-François-d'Assise",Gaspésie-Îles-de-la-Madeleine,G0J 2N0,47.982496,-67.157277,181.9,207.9,293.9,2,,1,2026-10-23 03:02
+Woodpile,Petro-Canada,"32 route Gaspé Highway, Listuguj",Gaspésie-Îles-de-la-Madeleine,G0C 2R0,48.0235391141,-66.7199328203,181.9,196.9,275.9,2,,1,2026-10-23 03:02
+Costco Terrebonne,Costco,"870 montée des Pionniers, Terrebonne",Lanaudière,J6V 1N9,45.721908,-73.506452,167.9,187.9,,1,oui,1,2026-10-23 03:02
+Filgo Charlemagne,Shell,"2 boul. Céline Dion, Charlemagne",Lanaudière,J5Z 0G2,45.717081,-73.48464,169.9,194.9,289.9,2,,1,2026-10-23 03:02
+Le Paddock - Repentigny,Paddock,"213 rue Notre-Dame, Repentigny",Lanaudière,J6A 2R3,45.7213,-73.46444,173.9,197.9,,3,,1,2026-10-23 03:02
+BCP IV Service Station LP,Mobil,"1115 rue Saint-Isidore, Saint-Lin–Laurentides",Lanaudière,J5M 2V5,45.866693,-73.756351,174.2,200.9,286.2,4,,1,2026-10-23 03:02
+DEPANNEUR MALINA INC,Ultramar,"135 route 335, Saint-Lin–Laurentides",Lanaudière,J5M 2G2,45.820897,-73.760176,174.2,201.9,286.9,4,,1,2026-10-23 03:02
+9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,157.5,184.9,289.9,1,oui,1,2026-10-23 03:02
+Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,157.5,183.5,284.9,1,oui,1,2026-10-23 03:02
+Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,157.5,184.9,299.9,1,oui,1,2026-10-23 03:02
+9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,157.8,185.8,294.9,4,,1,2026-10-23 03:02
+Shell,Shell,"1868 rte 148, Grenville-sur-la-Rouge",Laurentides,J0V 1B0,45.652039,-74.626681,157.9,183.9,284.9,5,,1,2026-10-23 03:02
+Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,172.9,192.9,,1,oui,1,2026-10-23 03:02
+Super Gaz ltée #801,Super Gaz,"3033 boul. Cartier ouest, Laval",Laval,H7V 1J3,45.542786,-73.726692,172.9,197.9,287.9,1,oui,1,2026-10-23 03:02
+9392-7689 QC Inc,Shell,"1625 boul. Saint-Martin ouest, Laval",Laval,H7S 1N1,45.568602,-73.727461,174.9,202.9,,3,,1,2026-10-23 03:02
+Dépanneur Sprint (boul. Ste-Rose),Petro-Canada,"4124 boul. Sainte-Rose, Laval",Laval,H7R 1W9,45.568586,-73.835665,174.9,199.9,282.9,3,,1,2026-10-23 03:02
+La Société Canadian Tire Ltée,Canadian Tire,"1454 boul. Le Corbusier, Laval",Laval,H7N 6J5,45.559877,-73.727227,174.9,200.9,,3,,1,2026-10-23 03:02
+Dépanneur Relais Batiscan,Petro-Canada,"1240 rte Principale, Batiscan",Mauricie,G0X 1A0,46.506747,-72.246065,181.9,206.9,287.9,1,oui,1,2026-10-23 03:02
+Garage R. Marchand,Sonic,"30 ch. Rivière à Veillet, Sainte-Geneniève-de-Batiscan",Mauricie,G0X 2R0,46.538396,-72.341296,181.9,203.9,287.9,1,oui,1,2026-10-23 03:02
+Harnois Énergies Inc.,Harnois,"310 boul. Lanaudière, Sainte-Anne-de-la-Pérade",Mauricie,G0X 2J0,46.571925,-72.203195,181.9,207.9,287.9,1,oui,1,2026-10-23 03:02
+Marché Bonichoix St-Stanislas inc.,Petro-Canada,"1395 rue Principale, Saint-Stanislas",Mauricie,G0X 3E0,46.612977,-72.384839,181.9,206.9,,1,oui,1,2026-10-23 03:02
+9195-7795 Québec Inc.,Petro-Canada,"4170 boul. Shawinigan-Sud, Shawinigan",Mauricie,G9P 4G2,46.503393,-72.729369,182.9,207.9,299.9,5,,1,2026-10-23 03:02
+Couche-Tard #1207,Esso,"8175 boul. Cousineau, Longueuil",Montérégie,J3Z 0G6,45.475669,-73.379771,163.6,188.9,289.9,1,oui,1,2026-10-23 03:02
+Pétroles L.D.J. inc.,Harnois,"70 rue de l'Église nord, Lacolle",Montérégie,J0J 1J0,45.087203,-73.372987,163.9,183.9,285.9,2,,1,2026-10-23 03:02
+Place Saint Bernard de Lacolle inc.,Esso,"105 ch. Pleasant Valley sud, Saint-Bernard-de-Lacolle",Montérégie,J0J 1V0,45.068058,-73.458484,163.9,189.9,285.9,2,,1,2026-10-23 03:02
+Station-service Dauphinais,Ultramar,"61 route 202, Lacolle",Montérégie,J0J 1J0,45.071388,-73.356293,163.9,183.9,285.9,2,,1,2026-10-23 03:02
+Costco Saint-Bruno,Costco,"1000 boul. Saint-Bruno, Saint-Bruno-de-Montarville",Montérégie,J3V 6J6,45.500969,-73.381247,164.9,184.9,,5,,1,2026-10-23 03:02
+9173-4996 QUEBEC INC,Shell,"9600 boul. Henri-Bourassa ouest, Montréal",Montréal,H4S 1N8,45.496513,-73.751846,174.9,202.9,294.9,1,oui,1,2026-10-23 03:02
+9395-6977 Quebec inc.,Shell,"11052 boul. Pie-IX, Montréal",Montréal,H1H 4B4,45.592187,-73.639319,175.9,203.9,294.9,2,,1,2026-10-23 03:02
+Couche-Tard #1157,Esso,"11300 boul. Lacordaire, Montréal",Montréal,H1G 4J8,45.606301,-73.619961,175.9,202.9,289.9,2,,1,2026-10-23 03:02
+Station-service Kirkland,Sonic,"3055 boul. Saint-Charles, Kirkland",Montréal,H9H 3B8,45.449942,-73.85569,175.9,197.9,294.9,2,,1,2026-10-23 03:02
+Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,176.9,196.9,,5,,1,2026-10-23 03:02
+Petro-Canada,Petro-Canada,"2460 ch. Rockland, Mont-Royal",Municipalités hors MRC \ CMM,H3P 3G5,45.526563,-73.650197,186.9,213.9,295.9,1,oui,1,2026-10-23 03:02
+9092-3376 Québec Inc.,Esso,"100 boul. Matagami, Matagami",Nord-du-Québec,J0Y 2A0,49.757126,-77.633621,189.4,215.9,287.9,1,oui,1,2026-10-23 03:02
+Lave-Auto Matagami Ltée,Shell,"95 boul. Matagami, Matagami",Nord-du-Québec,J0Y 2A0,49.756445,-77.63501,189.4,214.4,293.9,1,oui,1,2026-10-23 03:02
+9187-2523 Québec inc.,Harnois,"970 rue 3, Chibougamau",Nord-du-Québec,G8P 1R6,49.905884,-74.38516,196.4,219.9,295.9,3,,1,2026-10-23 03:02
+Belzile Chibougamau,Belzile,"902 rue 3, Chibougamau",Nord-du-Québec,G8P 1R2,49.91192,-74.384769,196.4,218.4,295.9,3,,1,2026-10-23 03:02
+Nutrinor Énergies Chibougamau,Nutrinor Énergies,"990 rue 3, Chibougamau",Nord-du-Québec,G8P 1R7,49.904956,-74.385477,196.4,219.4,295.9,3,,1,2026-10-23 03:02
+BCP IV Service Station LP,Mobil,"2336 rue Saint-Louis, Gatineau",Outaouais,J8V 1A2,45.488364,-75.746995,168.5,194.9,291.9,1,oui,1,2026-10-23 03:02
+Quickie Limbour,Quickie,"2335 rue Saint-Louis, Gatineau",Outaouais,J8V 1J2,45.488816,-75.74641,168.8,194.8,,2,,1,2026-10-23 03:02
+Couche-Tard #625,Esso,"725 boul. des Hautes-Plaines, Gatineau",Outaouais,J8Z 2W9,45.474512,-75.772051,168.9,195.9,,3,,1,2026-10-23 03:02
+Station Suprême,Aucun,"1151 boul. Saint-Joseph, Gatineau",Outaouais,J8Z 2C9,45.473246,-75.739886,168.9,194.9,291.9,3,,1,2026-10-23 03:02
+MacEwen Petroleum Inc,Ultramar,"34 Boul. du Mont-Bleu, GATINEAU",Outaouais,J8Z 1J1,45.462485,-75.746158,169.1,196.9,,5,,1,2026-10-23 03:02
+BCP IV Service Station LP,Mobil,"1101 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B5,48.40924,-71.052572,162.9,188.9,274.8,1,oui,1,2026-10-23 03:02
+Couche-Tard #1002,Esso,"1455 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4C1,48.403131,-71.059187,162.9,187.9,,1,oui,1,2026-10-23 03:02
+GESTION J & D INC,Ultramar,"1016 Boul. Talbot, SAGUENAY",Saguenay-Lac-Saint-Jean,G7H 4B6,48.411756,-71.05197,162.9,189.9,277.9,1,oui,1,2026-10-23 03:02
+La Société Canadian Tire Ltée,Canadian Tire,"1050 boul. Talbot, Saguenay",Saguenay-Lac-Saint-Jean,G7H 4B6,48.411103,-71.052843,162.9,184.9,274.8,1,oui,1,2026-10-23 03:02
+2638-9072 Québec Inc.,Esso,"1773 rte 169, Métabetchouan–Lac-à-la-Croix",Saguenay-Lac-Saint-Jean,G8G 1A8,48.434819,-71.856253,163.4,188.9,283.9,5,,1,2026-10-23 03:02

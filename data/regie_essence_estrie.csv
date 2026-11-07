@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9382-2054 Quebec Inc,Ultramar,"105 route 139, SAINT-ALPHONSE-DE-GRANBY",Estrie,J0E 2A0,45.342197,-72.783829,166.9,193.9,289.9,1,oui,1,2026-11-06 20:39
-9488-9037 Québec Inc.,Esso,"660 av. des Érables, Brigham",Estrie,J2K 4W5,45.256516,-72.790498,166.9,192.9,279.9,1,oui,1,2026-11-06 20:39
-Station St-Alphonse de Granby,Shell,"103 rte 139, Saint-Alphonse-de-Granby",Estrie,J0E 2A0,45.342799,-72.783952,166.9,192.9,289.9,1,oui,1,2026-11-06 20:39
-9148-4840 QUEBEC INC,Ultramar,"3528 rue Principale, DUNHAM",Estrie,J0E 1M0,45.14069,-72.800819,169.9,196.9,279.9,4,,1,2026-11-06 20:39
-Couche-Tard inc.,Esso,"3 ch. Fairfax, Stanstead (ville & canton)",Estrie,J0B 3E0,45.023694,-72.087397,169.9,195.9,274.9,4,,1,2026-11-06 20:39
-ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-11-06 20:39
-ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-11-06 20:39
-ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-11-06 20:39
-ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-11-06 20:39
+9382-2054 Quebec Inc,Ultramar,"105 route 139, SAINT-ALPHONSE-DE-GRANBY",Estrie,J0E 2A0,45.342197,-72.783829,166.9,193.9,289.9,1,oui,1,2026-11-07 03:24
+9488-9037 Québec Inc.,Esso,"660 av. des Érables, Brigham",Estrie,J2K 4W5,45.256516,-72.790498,166.9,192.9,279.9,1,oui,1,2026-11-07 03:24
+Station St-Alphonse de Granby,Shell,"103 rte 139, Saint-Alphonse-de-Granby",Estrie,J0E 2A0,45.342799,-72.783952,166.9,192.9,289.9,1,oui,1,2026-11-07 03:24
+9148-4840 QUEBEC INC,Ultramar,"3528 rue Principale, DUNHAM",Estrie,J0E 1M0,45.14069,-72.800819,169.9,196.9,279.9,4,,1,2026-11-07 03:24
+Couche-Tard inc.,Esso,"3 ch. Fairfax, Stanstead (ville & canton)",Estrie,J0B 3E0,45.023694,-72.087397,169.9,195.9,274.9,4,,1,2026-11-07 03:24
+ghost_north,,,Estrie,,46.8,-71.65,,,,,,0,2026-11-07 03:24
+ghost_south,,,Estrie,,45.0,-71.65,,,,,,0,2026-11-07 03:24
+ghost_west,,,Estrie,,45.9,-72.5,,,,,,0,2026-11-07 03:24
+ghost_east,,,Estrie,,45.9,-70.8,,,,,,0,2026-11-07 03:24

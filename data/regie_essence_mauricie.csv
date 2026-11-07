@@ -1,10 +1,10 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-9301-3738 Québec Inc.,Shell,"1640 rue Trudel, Shawinigan",Mauricie,G9N 0A2,46.5577,-72.749873,167.9,195.9,279.9,1,oui,1,2026-11-07 03:24
-9301-3738 Québec Inc.,Shell,"1563 boul. Saint-Sacrement, Shawinigan",Mauricie,G9N 3M9,46.561283,-72.741073,167.9,195.9,279.9,1,oui,1,2026-11-07 03:24
-Couche-Tard #300,Esso,"1500 av. 6, Shawinigan",Mauricie,G9T 2K1,46.607249,-72.703706,167.9,194.9,,1,oui,1,2026-11-07 03:24
-Couche-Tard #359,Esso,"1763 boul. Hubert-Biermans, Shawinigan",Mauricie,G9N 8N6,46.575702,-72.721607,167.9,194.9,,1,oui,1,2026-11-07 03:24
-Couche-Tard #800,Irving,"3973 rue Garnier, Shawinigan",Mauricie,G9N 6S2,46.569999,-72.763181,167.9,194.9,281.9,1,oui,1,2026-11-07 03:24
-ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-11-07 03:24
-ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-11-07 03:24
-ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-11-07 03:24
-ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-11-07 03:24
+9301-3738 Québec Inc.,Shell,"1640 rue Trudel, Shawinigan",Mauricie,G9N 0A2,46.5577,-72.749873,167.9,195.9,279.9,1,oui,1,2026-11-07 10:27
+9301-3738 Québec Inc.,Shell,"1563 boul. Saint-Sacrement, Shawinigan",Mauricie,G9N 3M9,46.561283,-72.741073,167.9,195.9,279.9,1,oui,1,2026-11-07 10:27
+Couche-Tard #300,Esso,"1500 av. 6, Shawinigan",Mauricie,G9T 2K1,46.607249,-72.703706,167.9,194.9,,1,oui,1,2026-11-07 10:27
+Couche-Tard #359,Esso,"1763 boul. Hubert-Biermans, Shawinigan",Mauricie,G9N 8N6,46.575702,-72.721607,167.9,194.9,,1,oui,1,2026-11-07 10:27
+Couche-Tard #800,Irving,"3973 rue Garnier, Shawinigan",Mauricie,G9N 6S2,46.569999,-72.763181,167.9,194.9,281.9,1,oui,1,2026-11-07 10:27
+ghost_north,,,Mauricie,,49.0016,-73.70585,,,,,,0,2026-11-07 10:27
+ghost_south,,,Mauricie,,46.1512,-73.70585,,,,,,0,2026-11-07 10:27
+ghost_west,,,Mauricie,,47.57640000000001,-75.5211,,,,,,0,2026-11-07 10:27
+ghost_east,,,Mauricie,,47.57640000000001,-71.8906,,,,,,0,2026-11-07 10:27

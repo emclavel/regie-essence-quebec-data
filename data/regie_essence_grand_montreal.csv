@@ -1,26 +1,26 @@
 Nom,Banniere,Adresse,Region,Code_postal,Latitude,Longitude,Prix_regulier,Prix_super,Prix_diesel,rang_region,highlight_carte,is_ghost,date_import
-Costco Terrebonne,Costco,"870 montée des Pionniers, Terrebonne",Lanaudière,J6V 1N9,45.721908,-73.506452,142.9,162.9,,1,oui,1,2026-11-19 11:20
-Couche-Tard #1219,Esso,"125 rue Chopin, Charlemagne",Lanaudière,J5Z 4N6,45.720146,-73.490858,144.9,171.9,269.9,2,,1,2026-11-19 11:20
-Filgo Charlemagne,Shell,"2 boul. Céline Dion, Charlemagne",Lanaudière,J5Z 0G2,45.717081,-73.48464,144.9,170.9,269.9,2,,1,2026-11-19 11:20
-Harnois Énergies Inc.,Harnois,"100 montée des Pionniers, Terrebonne",Lanaudière,J6V 1S8,45.708927,-73.511929,144.9,165.9,262.9,2,,1,2026-11-19 11:20
-R.M. et G. Gosselin inc.,Sonic,"335 rue Notre-Dame, Charlemagne",Lanaudière,J5Z 1J1,45.727876,-73.485152,144.9,168.9,269.9,2,,1,2026-11-19 11:20
-9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,134.9,162.9,264.9,1,oui,1,2026-11-19 11:20
-9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,134.9,161.9,254.9,1,oui,1,2026-11-19 11:20
-Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,134.9,161.9,249.9,1,oui,1,2026-11-19 11:20
-Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,134.9,161.9,261.9,1,oui,1,2026-11-19 11:20
-Shell,Shell,"1868 rte 148, Grenville-sur-la-Rouge",Laurentides,J0V 1B0,45.652039,-74.626681,134.9,160.9,249.9,1,oui,1,2026-11-19 11:20
-Costco Laval,Costco,"2999 aut. 440, Laval",Laval,H7P 5P4,45.574157,-73.756979,149.9,169.9,,1,oui,1,2026-11-19 11:20
-Harnois Énergies Inc.,Esso,"2025 boul. Arthur-Sauvé, Laval",Laval,H7R 3W8,45.553575,-73.869756,152.9,173.9,266.9,2,,1,2026-11-19 11:20
-KEVIN PERREAULT,Ultramar,"4980 Boul. Arthur-Sauvé, LAVAL",Laval,H7R 3X1,45.551476,-73.868973,152.9,179.9,,2,,1,2026-11-19 11:20
-Station Laurentides Laval,Shell,"1013 boul. des Laurentides, Laval",Laval,H7G 2V8,45.574811,-73.696552,153.9,179.9,269.9,4,,1,2026-11-19 11:20
-9109-9861 QUEBEC INC,Petro-Canada,"830 Vanier , Laval",Laval,H7C 2M7,45.603902,-73.651433,155.9,182.9,257.9,5,,1,2026-11-19 11:20
-9504-6124 Québec inc.,Esso,"3100 boul. Moise-Vincent, Longueuil",Montérégie,J3Z 0C4,45.481595,-73.390638,134.7,155.9,262.9,1,oui,1,2026-11-19 11:20
-Couche-Tard #1207,Esso,"8175 boul. Cousineau, Longueuil",Montérégie,J3Z 0G6,45.475669,-73.379771,134.7,161.9,269.9,1,oui,1,2026-11-19 11:20
-LES ENTREPRISES JULIE LABELLE INC,Petro-Canada,"7800 Cousineau , Longueuil",Montérégie,J3Z 1H2,45.481874,-73.388427,134.7,161.9,257.9,1,oui,1,2026-11-19 11:20
-Costco Saint-Bruno,Costco,"1000 boul. Saint-Bruno, Saint-Bruno-de-Montarville",Montérégie,J3V 6J6,45.500969,-73.381247,134.9,154.9,,4,,1,2026-11-19 11:20
-BCP IV Service Station LP,Mobil,"220 boul. Omer-Marcil, Saint-Jean-sur-Richelieu",Montérégie,J2W 2V1,45.332991,-73.292005,136.9,162.9,262.9,5,,1,2026-11-19 11:20
-Costco Anjou CB,Costco,"7373 rue Bombardier, Montréal",Montréal,H1J 2V2,45.609067,-73.585462,149.9,169.9,,1,oui,1,2026-11-19 11:20
-Costco Montréal Centre,Costco,"300 rue Bridge, Montréal",Montréal,H3K 2C3,45.485765,-73.553519,149.9,169.9,,1,oui,1,2026-11-19 11:20
-Station d'essence Costco,Costco,"9403 boul. des Sciences, Montréal",Montréal,H1J 0A6,45.623187,-73.5551,149.9,169.9,,1,oui,1,2026-11-19 11:20
-Couche-Tard #1270,Esso,"10937 rue Notre-Dame est, Montréal-Est",Montréal,H1B 2V3,45.626097,-73.502231,152.9,179.9,269.9,4,,1,2026-11-19 11:20
-La Société Canadian Tire Ltée,Canadian Tire,"2005 boul. Crémazie est, Montréal",Montréal,H1Z 4N4,45.556091,-73.619402,153.4,179.4,,5,,1,2026-11-19 11:20
+9388-4484 QUEBEC INC,Ultramar,"3090 ch. Sainte-Marie, MASCOUCHE",Lanaudière,J7K 3B7,45.743597,-73.599643,142.9,169.9,259.9,1,oui,1,2026-11-19 18:24
+9408-1536 QUEBEC INC,Shell,"2350 ch. Gascon, TERREBONNE",Lanaudière,J6X 3A5,45.724038,-73.666008,142.9,170.9,259.9,1,oui,1,2026-11-19 18:24
+Centre mécanique Extra inc.,Pétro-T,"620 montée Masson, Mascouche",Lanaudière,J7K 3B6,45.736098,-73.613328,142.9,163.9,259.9,1,oui,1,2026-11-19 18:24
+Costco Terrebonne,Costco,"870 montée des Pionniers, Terrebonne",Lanaudière,J6V 1N9,45.721908,-73.506452,142.9,162.9,,1,oui,1,2026-11-19 18:24
+Couche-Tard #120,Esso,"2337 ch. Gascon, Terrebonne",Lanaudière,J7L 3H8,45.72501,-73.665946,142.9,169.9,259.9,1,oui,1,2026-11-19 18:24
+9363-3691 Quebec Inc,Shell,"130 rue Maple, Grenville",Laurentides,J0V 1J0,45.630004,-74.589562,133.9,161.9,259.9,1,oui,1,2026-11-19 18:24
+9560 - 9319 Quebec Inc.,Ultramar,"13 rue Maple, GRENVILLE",Laurentides,J0V 1J0,45.622231,-74.593642,133.9,160.9,254.9,1,oui,1,2026-11-19 18:24
+Esso Grenville,Esso,"54 rue Maple, Grenville",Laurentides,J0V 1J0,45.625406,-74.592135,133.9,160.9,249.9,1,oui,1,2026-11-19 18:24
+Filgo Grenville,Petro-Canada,"40 rue Maple, Grenville",Laurentides,J0V 1J0,45.624314,-74.593235,133.9,160.9,261.9,1,oui,1,2026-11-19 18:24
+Shell,Shell,"1868 rte 148, Grenville-sur-la-Rouge",Laurentides,J0V 1B0,45.652039,-74.626681,133.9,159.9,249.9,1,oui,1,2026-11-19 18:24
+9202-7077 Quebec Inc,Ultramar,"2 Boul. Sainte-Rose est, LAVAL",Laval,H7L 3K4,45.624085,-73.77503,149.9,176.9,259.9,1,oui,1,2026-11-19 18:24
+9327-8505 Québec inc.,Shell,"4055 boul. Industriel, Laval",Laval,H7L 4S3,45.598223,-73.749996,149.9,177.9,259.9,1,oui,1,2026-11-19 18:24
+9353-5045 Québec Inc.,Harnois,"6180 boul. Lévesque est, Laval",Laval,H7C 1P2,45.625206,-73.639063,149.9,170.9,257.9,1,oui,1,2026-11-19 18:24
+9391-0123 QUEBEC INC,Ultramar,"1716 Boul. des Laurentides, LAVAL",Laval,H7M 2P4,45.597355,-73.72301,149.9,176.9,,1,oui,1,2026-11-19 18:24
+9397-0358 QUEBEC INC,Petro-Canada,"1914 des Laurentides , Laval",Laval,H7M 2R1,45.603037,-73.729302,149.9,176.9,,1,oui,1,2026-11-19 18:24
+LES ENTREPRISES JULIE LABELLE INC,Petro-Canada,"7800 Cousineau , Longueuil",Montérégie,J3Z 1H2,45.481874,-73.388427,132.2,159.9,257.9,1,oui,1,2026-11-19 18:24
+9504-6124 Québec inc.,Esso,"3100 boul. Moise-Vincent, Longueuil",Montérégie,J3Z 0C4,45.481595,-73.390638,132.3,153.9,257.9,2,,1,2026-11-19 18:24
+Couche-Tard #1207,Esso,"8175 boul. Cousineau, Longueuil",Montérégie,J3Z 0G6,45.475669,-73.379771,132.3,159.9,269.9,2,,1,2026-11-19 18:24
+Costco Saint-Bruno,Costco,"1000 boul. Saint-Bruno, Saint-Bruno-de-Montarville",Montérégie,J3V 6J6,45.500969,-73.381247,133.9,153.9,,4,,1,2026-11-19 18:24
+Couche-Tard #1189,Esso,"875 boul. De Périgny, Chambly",Montérégie,J3L 1W5,45.454577,-73.301568,134.3,161.9,,5,,1,2026-11-19 18:24
+9173-4996 QUEBEC INC,Shell,"4510 boul. Saint-Charles sud, Montréal",Montréal,H9H 3C8,45.462617,-73.870387,143.9,171.9,259.9,1,oui,1,2026-11-19 18:24
+9179-5781 Québec inc.,Shell,"2950 boul. Saint-Charles, Kirkland",Montréal,H9H 3B7,45.447794,-73.855022,143.9,171.9,259.9,1,oui,1,2026-11-19 18:24
+9181-8120 Québec Inc.,Esso,"800 boul. Saint-Jean, Pointe-Claire",Montréal,H9R 4Y8,45.467437,-73.829187,143.9,164.9,,1,oui,1,2026-11-19 18:24
+9203-6912 Québec Inc.,Esso,"3035 boul. Saint-Charles, Kirkland",Montréal,H9H 3B5,45.449375,-73.855113,143.9,164.9,,1,oui,1,2026-11-19 18:24
+9214-1191 Québec Inc.,Esso,"3580 boul. Saint-Jean, Dollard-des-Ormeaux",Montréal,H9G 1W8,45.470219,-73.832562,143.9,164.9,257.9,1,oui,1,2026-11-19 18:24
